@@ -1,0 +1,43 @@
+{
+  "client-guiSmoothScroll": true,
+  "client-guiMobsFollowCursor": true,
+  "client-trustAllServersBssNet": true,
+  "server-registerCommands": true,
+  "server-enableSAS": true,
+  "server-sasConfig": {
+    "firstMinedBlocks": [
+      "diamond_ore",
+      "deepslate_diamond_ore",
+      "ancient_debris",
+      "deepslate_coal_ore",
+      "dragon_egg",
+      "sculk_sensor",
+      "reinforced_deepslate"
+    ],
+    "firstCraftedItems": [
+      "wooden_pickaxe",
+      "diamond_pickaxe",
+      "beacon",
+      "netherite_block",
+      "ender_eye"
+    ],
+    "firstKilledEntities": [
+      "zombie",
+      "blaze",
+      "enderman",
+      "ender_dragon",
+      "warden",
+      "wither",
+      "player"
+    ],
+    "firstKilledByEntities": [
+      "ender_dragon",
+      "warden",
+      "wither",
+      "player"
+    ],
+    "firstCustomStats": [
+      "deaths"
+    ]
+  }
+}

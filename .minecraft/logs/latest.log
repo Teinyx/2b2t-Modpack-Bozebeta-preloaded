@@ -1,0 +1,529 @@
+[03:50:51] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.15.7
+[03:50:51] [main/INFO]: Loading Boze
+[03:50:51] [main/INFO]: Done loading Boze, took 808ms
+[03:50:52] [ForkJoinPool-1-worker-13/WARN]: The mod "textutilities" contains invalid entries in its mod json:
+- Unsupported root entry "includes" at line 36 column 12
+[03:50:52] [ForkJoinPool-1-worker-12/WARN]: Mod com_github_rtyley_animated-gif-lib-for-java uses the version animated-gif-lib-1.7 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'animated'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[03:50:52] [main/WARN]: Duplicate mod sodium
+[03:50:52] [main/WARN]: Duplicate mod baritone
+[03:50:52] [main/WARN]: Duplicate mod fabric-api
+[03:50:52] [main/WARN]: Duplicate mod cloth-config
+[03:50:52] [main/WARN]: Duplicate mod fabric-api-base
+[03:50:52] [main/WARN]: Duplicate mod fabric-key-binding-api-v1
+[03:50:52] [main/WARN]: Duplicate mod mixinextras
+[03:50:52] [main/WARN]: Duplicate mod fabric-resource-loader-v0
+[03:50:52] [main/WARN]: Duplicate mod fabric-resource-loader-v0
+[03:50:52] [main/WARN]: Duplicate mod fabric-screen-api-v1
+[03:50:52] [main/WARN]: Duplicate mod fabric-lifecycle-events-v1
+[03:50:52] [main/WARN]: Duplicate mod fabric-key-binding-api-v1
+[03:50:52] [main/WARN]: Duplicate mod fabric-api-base
+[03:50:52] [main/WARN]: Duplicate mod fabric-resource-loader-v0
+[03:50:52] [main/WARN]: Duplicate mod fabric-key-binding-api-v1
+[03:50:52] [main/WARN]: Duplicate mod fabric-networking-api-v1
+[03:50:52] [main/WARN]: Duplicate mod fabric-api-base
+[03:50:52] [main/WARN]: Duplicate mod fabric-screen-api-v1
+[03:50:52] [main/WARN]: Duplicate mod yet_another_config_lib_v3
+[03:50:52] [main/WARN]: Duplicate mod com_konghq_unirest-java_standalone
+[03:50:52] [main/WARN]: Duplicate mod fabric-rendering-data-attachment-v1
+[03:50:52] [main/WARN]: Duplicate mod fabric-api-base
+[03:50:52] [main/WARN]: Duplicate mod fabric-rendering-fluids-v1
+[03:50:52] [main/WARN]: Duplicate mod fabric-resource-loader-v0
+[03:50:52] [main/WARN]: Duplicate mod fabric-block-view-api-v2
+[03:50:52] [main/WARN]: Duplicate mod com_github_llamalad7_mixinextras
+[03:50:52] [main/WARN]: Duplicate mod com_github_llamalad7_mixinextras
+[03:50:52] [main/INFO]: Loading 162 mods:
+	- appleskin 2.5.1+mc1.20
+	   \-- cloth-config 11.0.99
+	        \-- cloth-basic-math 0.6.1
+	- balm-fabric 7.2.2
+	- baritone 1.10.1
+	- better_log4j_config 1.2.0
+	- betteradvancements 0.3.2.162
+	- betterhiddenchat 1.1.0
+	- betterstats 3.9.7+fabric-1.20.1
+	   \-- tcdcommons 3.9.6+fabric-1.20.1
+	- betterthirdperson 1.9.0
+	- bookcopy 0.1.1-1.20.1
+	- boze-api 2.0.0
+	- capes 1.5.2+1.20
+	- chatnotify 1.2.0
+	- cicada 0.6.2+1.20.1-and-below
+	- cleardespawn 1.1.15
+	- cloth-config 11.1.118
+	   \-- cloth-basic-math 0.6.1
+	- cmdkeybind 1.6.3-1.20
+	   \-- kyrptconfig 1.5.6-1.20
+	- controlling 12.0.2
+	- csearcher 0.1.8+mc1.20
+	- fabric-api 0.92.1+1.20.1
+	   |-- fabric-api-base 0.4.31+1802ada577
+	   |-- fabric-api-lookup-api-v1 1.6.36+1802ada577
+	   |-- fabric-biome-api-v1 13.0.13+1802ada577
+	   |-- fabric-block-api-v1 1.0.11+1802ada577
+	   |-- fabric-block-view-api-v2 1.0.1+1802ada577
+	   |-- fabric-blockrenderlayer-v1 1.1.41+1802ada577
+	   |-- fabric-client-tags-api-v1 1.1.2+1802ada577
+	   |-- fabric-command-api-v1 1.2.34+f71b366f77
+	   |-- fabric-command-api-v2 2.2.13+1802ada577
+	   |-- fabric-commands-v0 0.2.51+df3654b377
+	   |-- fabric-containers-v0 0.1.64+df3654b377
+	   |-- fabric-content-registries-v0 4.0.11+1802ada577
+	   |-- fabric-convention-tags-v1 1.5.5+1802ada577
+	   |-- fabric-crash-report-info-v1 0.2.19+1802ada577
+	   |-- fabric-data-attachment-api-v1 1.0.0+de0fd6d177
+	   |-- fabric-data-generation-api-v1 12.3.4+1802ada577
+	   |-- fabric-dimensions-v1 2.1.54+1802ada577
+	   |-- fabric-entity-events-v1 1.6.0+1c78457f77
+	   |-- fabric-events-interaction-v0 0.6.2+1802ada577
+	   |-- fabric-events-lifecycle-v0 0.2.63+df3654b377
+	   |-- fabric-game-rule-api-v1 1.0.40+1802ada577
+	   |-- fabric-item-api-v1 2.1.28+1802ada577
+	   |-- fabric-item-group-api-v1 4.0.12+1802ada577
+	   |-- fabric-key-binding-api-v1 1.0.37+1802ada577
+	   |-- fabric-keybindings-v0 0.2.35+df3654b377
+	   |-- fabric-lifecycle-events-v1 2.2.22+1802ada577
+	   |-- fabric-loot-api-v2 1.2.1+1802ada577
+	   |-- fabric-loot-tables-v1 1.1.45+9e7660c677
+	   |-- fabric-message-api-v1 5.1.9+1802ada577
+	   |-- fabric-mining-level-api-v1 2.1.50+1802ada577
+	   |-- fabric-model-loading-api-v1 1.0.3+1802ada577
+	   |-- fabric-models-v0 0.4.2+9386d8a777
+	   |-- fabric-networking-api-v1 1.3.11+1802ada577
+	   |-- fabric-networking-v0 0.3.51+df3654b377
+	   |-- fabric-object-builder-api-v1 11.1.3+1802ada577
+	   |-- fabric-particles-v1 1.1.2+1802ada577
+	   |-- fabric-recipe-api-v1 1.0.21+1802ada577
+	   |-- fabric-registry-sync-v0 2.3.3+1802ada577
+	   |-- fabric-renderer-api-v1 3.2.1+1802ada577
+	   |-- fabric-renderer-indigo 1.5.1+1802ada577
+	   |-- fabric-renderer-registries-v1 3.2.46+df3654b377
+	   |-- fabric-rendering-data-attachment-v1 0.3.37+92a0d36777
+	   |-- fabric-rendering-fluids-v1 3.0.28+1802ada577
+	   |-- fabric-rendering-v0 1.1.49+df3654b377
+	   |-- fabric-rendering-v1 3.0.8+1802ada577
+	   |-- fabric-resource-conditions-api-v1 2.3.8+1802ada577
+	   |-- fabric-resource-loader-v0 0.11.10+1802ada577
+	   |-- fabric-screen-api-v1 2.0.8+1802ada577
+	   |-- fabric-screen-handler-api-v1 1.3.30+1802ada577
+	   |-- fabric-sound-api-v1 1.0.13+1802ada577
+	   |-- fabric-transfer-api-v1 3.3.5+8dd72ea377
+	   \-- fabric-transitive-access-wideners-v1 4.3.1+1802ada577
+	- fabric-language-kotlin 1.10.19+kotlin.1.9.23
+	   |-- org_jetbrains_kotlin_kotlin-reflect 1.9.23
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 1.9.23
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 1.9.23
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 1.9.23
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.23.2
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.5.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.6.3
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.6.3
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.6.3
+	- fabricloader 0.15.7+local
+	- fancymenu 3.1.4
+	   |-- com_github_keksuccino_japng 0.5.3
+	   |-- com_github_rtyley_animated-gif-lib-for-java animated-gif-lib-1.7
+	   \-- mixinextras 0.3.2
+	- forgeconfigapiport 8.0.0
+	- iris 1.7.0+mc1.20.1
+	   |-- fabric-api-base 0.4.31+1802ada577
+	   |-- fabric-key-binding-api-v1 1.0.37+1802ada577
+	   |-- io_github_douira_glsl-transformer 2.0.0-pre13
+	   |-- org_anarres_jcpp 1.4.14
+	   \-- org_antlr_antlr4-runtime 4.11.1
+	- java 17
+	- jei 15.3.0.4
+	- journeymap 5.9.21
+	   \-- journeymap-api-fabric 1.20-1.9-fabric-SNAPSHOT
+	- konkrete 1.8.1
+	   \-- mixinextras 0.3.2
+	- litematica 0.15.3
+	- malilib 0.16.3
+	   \-- fabric-resource-loader-v0 0.11.7+f7923f6d77
+	- mapfrontiers 2.6.0
+	   \-- commonnetworking 1.0.2-1.20.1
+	- melody 1.0.3
+	- minecraft 1.20.1
+	- mixin-conflict-helper 1.2.0
+	- modernui 3.10.1.4
+	   |-- com_github_ben-manes_caffeine_caffeine 3.1.7
+	   |-- com_vladsch_flexmark_flexmark 0.64.8
+	   |-- com_vladsch_flexmark_flexmark-util-ast 0.64.8
+	   |-- com_vladsch_flexmark_flexmark-util-builder 0.64.8
+	   |-- com_vladsch_flexmark_flexmark-util-collection 0.64.8
+	   |-- com_vladsch_flexmark_flexmark-util-data 0.64.8
+	   |-- com_vladsch_flexmark_flexmark-util-dependency 0.64.8
+	   |-- com_vladsch_flexmark_flexmark-util-format 0.64.8
+	   |-- com_vladsch_flexmark_flexmark-util-html 0.64.8
+	   |-- com_vladsch_flexmark_flexmark-util-misc 0.64.8
+	   |-- com_vladsch_flexmark_flexmark-util-sequence 0.64.8
+	   \-- com_vladsch_flexmark_flexmark-util-visitor 0.64.8
+	- modmenu 7.2.2
+	   |-- fabric-api-base 0.4.29+b04edc7a77
+	   |-- fabric-key-binding-api-v1 1.0.36+fb8d95da77
+	   |-- fabric-lifecycle-events-v1 2.2.20+b3afc78b77
+	   |-- fabric-resource-loader-v0 0.11.7+f7923f6d77
+	   \-- fabric-screen-api-v1 2.0.6+b3afc78b77
+	- netherportalfix 13.0.1
+	- player-search 1.0.0+1.20
+	   |-- clientarguments 1.5.1
+	   |-- com_googlecode_json-simple_json-simple 1.1.1
+	   \-- com_konghq_unirest-java_standalone 3.11.9
+	- puzzleslib 8.1.18
+	   \-- puzzlesaccessapi 8.0.7
+	- reeses-sodium-options 1.7.2+mc1.20.1-build.101
+	- replaymod 1.20.1-2.6.15
+	   |-- fabric-api-base 0.4.29+b04edc7a77
+	   |-- fabric-key-binding-api-v1 1.0.36+fb8d95da77
+	   |-- fabric-networking-api-v1 1.3.8+b3afc78b77
+	   |-- fabric-resource-loader-v0 0.11.7+f7923f6d77
+	   \-- fabric-screen-api-v1 2.0.6+b3afc78b77
+	- searchables 1.0.2
+	- showmeyourskin 1.9.0+1.20
+	   |-- cardinal-components-base 5.2.1
+	   \-- cardinal-components-entity 5.2.1
+	- skinshuffle 1.0.1+1.20
+	   |-- com_konghq_unirest-java_standalone 3.11.9
+	   |-- commons-validator_commons-validator 1.7
+	   |-- org_jsoup_jsoup 1.16.1
+	   |-- org_mineskin_java-client 1.2.4-SNAPSHOT
+	   |-- spruceui 5.0.0+1.20
+	   \-- yet_another_config_lib_v3 3.0.1+1.20
+	        |-- com_twelvemonkeys_common_common-image 3.9.4
+	        |-- com_twelvemonkeys_common_common-io 3.9.4
+	        |-- com_twelvemonkeys_common_common-lang 3.9.4
+	        |-- com_twelvemonkeys_imageio_imageio-core 3.9.4
+	        |-- com_twelvemonkeys_imageio_imageio-metadata 3.9.4
+	        \-- com_twelvemonkeys_imageio_imageio-webp 3.9.4
+	- sodium 0.5.8+mc1.20.1
+	   |-- fabric-api-base 0.4.30+7abfd51577
+	   |-- fabric-block-view-api-v2 1.0.0+92a0d36777
+	   |-- fabric-rendering-data-attachment-v1 0.3.36+92a0d36777
+	   |-- fabric-rendering-fluids-v1 3.0.27+b3afc78b77
+	   \-- fabric-resource-loader-v0 0.11.9+132c48c177
+	- sodium-extra 0.5.4+mc1.20.1-build.115
+	   |-- caffeineconfig 1.3.0+1.17
+	   \-- crowdin-translate 1.4+1.19.3
+	- textutilities 1.6.1+1.20.1
+	- uiutils 1.3.2
+	- viafabricplus 2.8.7
+	   |-- com_github_llamalad7_mixinextras 0.2.0
+	   \-- net_lenni0451_reflect 1.2.4
+	- worldtools 1.2.4
+	- yet_another_config_lib_v3 3.4.0+1.20.1-fabric
+	   |-- com_twelvemonkeys_common_common-image 3.10.0
+	   |-- com_twelvemonkeys_common_common-io 3.10.0
+	   |-- com_twelvemonkeys_common_common-lang 3.10.0
+	   |-- com_twelvemonkeys_imageio_imageio-core 3.10.0
+	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.10.0
+	   |-- com_twelvemonkeys_imageio_imageio-webp 3.10.0
+	   |-- org_quiltmc_parsers_gson 0.2.1
+	   \-- org_quiltmc_parsers_json 0.2.1
+	- zoomify 2.11.2
+	   |-- com_akuleshov7_ktoml-core-jvm 0.4.1
+	   |-- com_github_llamalad7_mixinextras 0.2.0-beta.9
+	   |-- dev_isxander_settxi_settxi-core 2.10.6
+	   \-- dev_isxander_settxi_settxi-kotlinx-serialization 2.10.6
+[03:50:55] [main/INFO]: /Users/Kaili/AppData/Roaming/MultiMC/libraries/dev/boze/boze-loader-beta/0.0.17/boze-loader-beta-0.0.17.jar
+[03:50:57] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/Kaili/AppData/Roaming/MultiMC/libraries/dev/boze/sponge-mixin/1.0.2/sponge-mixin-1.0.2.jar Service=Knot/Fabric Env=CLIENT
+[03:50:57] [main/INFO]: Compatibility level set to JAVA_17
+[03:50:57] [main/WARN]: Reference map 'clientarguments-refmap.json' for clientarguments.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:50:57] [main/INFO]: Iris API installed...
+[03:50:57] [main/WARN]: Reference map 'mixins.nonmmlauncher.replaymod.refmap.json' for mixins.nonmmlauncher.replaymod.json could not be read. If this is a development environment you can ignore this message
+[03:50:57] [main/INFO]: Loaded configuration file for Sodium: 42 options available, 3 override(s) found
+[03:50:57] [main/INFO]: Loaded configuration file for Sodium Extra: 34 options available, 0 override(s) found
+[03:50:58] [main/WARN]: Force-disabling mixin 'features.render.entity.CuboidMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[03:50:58] [main/WARN]: Force-disabling mixin 'features.render.entity.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[03:50:58] [main/WARN]: Force-disabling mixin 'features.render.entity.cull.EntityRendererMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[03:50:58] [main/WARN]: Force-disabling mixin 'features.render.entity.shadows.EntityRenderDispatcherMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[03:50:58] [main/WARN]: Force-disabling mixin 'features.render.gui.font.GlyphRendererMixin' as rule 'mixin.features.render.gui.font' (added by mods [iris]) disables it and children
+[03:50:58] [main/WARN]: Force-disabling mixin 'features.render.world.sky.BackgroundRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[03:50:58] [main/WARN]: Force-disabling mixin 'features.render.world.sky.ClientWorldMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[03:50:58] [main/WARN]: Force-disabling mixin 'features.render.world.sky.WorldRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[03:50:58] [main/WARN]: Error loading class: org/anti_ad/mc/ipnext/event/AutoRefillHandler$ItemSlotMonitor (java.lang.ClassNotFoundException: org/anti_ad/mc/ipnext/event/AutoRefillHandler$ItemSlotMonitor)
+[03:50:58] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/ChunkTracker (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/ChunkTracker)
+[03:50:59] [main/WARN]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org/jetbrains/annotations/ApiStatus$Internal)
+[03:50:59] [main/INFO]: Starting Log4j reconfiguration.
+[03:50:59] [main/WARN]: Error loading class: net/optifine/render/ChunkVisibility (java.lang.ClassNotFoundException: net/optifine/render/ChunkVisibility)
+[03:50:59] [main/WARN]: Error loading class: shadersmod/client/ShadersRender (java.lang.ClassNotFoundException: shadersmod/client/ShadersRender)
+[03:50:59] [main/WARN]: Error loading class: net/optifine/shaders/ShadersRender (java.lang.ClassNotFoundException: net/optifine/shaders/ShadersRender)
+[03:50:59] [main/WARN]: Error loading class: net/coderbot/iris/uniforms/CommonUniforms (java.lang.ClassNotFoundException: net/coderbot/iris/uniforms/CommonUniforms)
+[03:50:59] [main/WARN]: Error loading class: net/coderbot/iris/Iris (java.lang.ClassNotFoundException: net/coderbot/iris/Iris)
+[03:50:59] [main/WARN]: Error loading class: net/coderbot/iris/pipeline/HandRenderer (java.lang.ClassNotFoundException: net/coderbot/iris/pipeline/HandRenderer)
+[03:50:59] [main/INFO] (Better Log4j Config) Finished Log4j reconfiguration.
+[03:50:59] [main/INFO] (Sodium-GraphicsAdapterProbe) Searching for graphics cards...
+[03:50:59] [main/INFO] (Sodium-GraphicsAdapterProbe) Found graphics card: GraphicsAdapterInfo[vendor=UNKNOWN, name=Virtual Desktop Monitor, version=DriverVersion=10.54.50.446]
+[03:50:59] [main/INFO] (Sodium-GraphicsAdapterProbe) Found graphics card: GraphicsAdapterInfo[vendor=INTEL, name=Intel(R) UHD Graphics, version=DriverVersion=31.0.101.4314]
+[03:50:59] [main/INFO] (Sodium-GraphicsAdapterProbe) Found graphics card: GraphicsAdapterInfo[vendor=UNKNOWN, name=SMI USB Display, version=DriverVersion=2.19.2.0]
+[03:50:59] [main/INFO] (Sodium-GraphicsAdapterProbe) Found graphics card: GraphicsAdapterInfo[vendor=NVIDIA, name=NVIDIA GeForce RTX 4050 Laptop GPU, version=DriverVersion=31.0.15.5212]
+[03:50:59] [main/WARN] (Sodium-Workarounds) Sodium has applied one or more workarounds to prevent crashes or other issues on your system: [NVIDIA_THREADED_OPTIMIZATIONS]
+[03:50:59] [main/WARN] (Sodium-Workarounds) This is not necessarily an issue, but it may result in certain features or optimizations being disabled. You can sometimes fix these issues by upgrading your graphics driver.
+[03:50:59] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
+[03:51:00] [main/WARN] (ViaFabricPlus) No Bedrock account could be found
+[03:51:00] [Via-Mappingloader-0/INFO] (ViaVersion) Loading block connection mappings ...
+[03:51:01] [Via-Mappingloader-0/INFO] (ViaVersion) Using FastUtil Long2ObjectOpenHashMap for block connections
+[03:51:01] [main/INFO] (ViaBackwards) Loading translations...
+[03:51:01] [main/INFO] (ViaBackwards) Registering protocols...
+[03:51:02] [main/INFO] (ViaBedrock) Started resource pack HTTP server on http://127.0.0.1:49874/
+[03:51:02] [main/INFO] (ViaVersion) ViaVersion detected lowest supported version by the proxy: 1.7.2-1.7.5 (4)
+[03:51:02] [main/INFO] (ViaVersion) Highest supported version by the proxy: 23w41a (765)
+[03:51:02] [main/INFO] (Minecraft) Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:51:05] [Via Async Scheduler 0/INFO] (ViaVersion) Finished mapping loading, shutting down loader executor!
+[03:51:06] [main/INFO] (FabricLoader/Mixin) boze.mixins.json:MinecraftClientAccessor from mod (unknown)->@Accessor[FIELD_GETTER]::getCurrentFps()I should be static as its target is
+[03:51:07] [Datafixer Bootstrap/INFO] (Minecraft) 188 Datafixer optimizations took 104 milliseconds
+[03:51:09] [Render thread/INFO] (Minecraft) Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:51:09] [Render thread/INFO] (Minecraft) Setting user: Teinyx
+[03:51:09] [Render thread/INFO] (FancyMenu) [FANCYMENU] Loading v3.1.4 in client-side mode on FABRIC!
+[03:51:09] [Cicada thread 0/INFO] (Library Quote of the Day) 'Rip ballin catroversies'
+[03:51:10] [Render thread/WARN] (FabricLoader/Mixin) @Redirect conflict. Skipping boze.mixins.json:ClientPlayNetworkHandlerMixin from mod (unknown)->@Redirect::redirectNoChatWarning(Lnet/minecraft/class_7495;)Z with priority 2, already redirected by viafabricplus.mixins.json:fixes.minecraft.MixinClientPlayNetworkHandler from mod viafabricplus->@Redirect::removeSecureChatWarning(Lnet/minecraft/class_7495;)Z with priority 1000
+[03:51:10] [Render thread/INFO] (journeymap) Initializing ServerSide Packet Registries
+[03:51:10] [Render thread/INFO] (Konkrete) [KONKRETE] Successfully initialized!
+[03:51:10] [Render thread/INFO] (Konkrete) [KONKRETE] Server-side libs ready to use!
+[03:51:10] [Render thread/INFO] (MapFrontiers) PacketHandler init done
+[03:51:10] [Render thread/INFO] (MapFrontiers) Fabric onInitialize done
+[03:51:10] [Render thread/INFO] (Melody) [MELODY] Loading Melody background audio library..
+[03:51:10] [Render thread/WARN] (ModernUI) Signature is missing
+[03:51:10] [Render thread/INFO] (ModernUI) Modern UI common config loaded/reloaded
+[03:51:10] [Render thread/INFO] (ModernUI) Initialized Modern UI
+[03:51:10] [Render thread/INFO] (Puzzles Lib) Constructing common components for puzzleslib:main
+[03:51:10] [Render thread/INFO] (betteradvancements) Loaded
+[03:51:10] [Render thread/ERROR] (betteradvancements) java.io.FileNotFoundException: C:\Users\Kaili\AppData\Roaming\MultiMC\instances\2b2t Modpack BozeBeta preloaded\.minecraft\config\betteradvancements.json (The system cannot find the file specified)
+[03:51:11] [Render thread/INFO] (betterstats) Initializing 'Better Statistics Screen' as 'BetterStatsClient'.
+[03:51:11] [Render thread/INFO] (tcdcommons) Loaded 'BetterStatsConfig' config from 'betterstats.json'.
+[03:51:11] [Render thread/INFO] (Capes) Trying to read config file...
+[03:51:11] [Render thread/INFO] (Capes) A config file was found, loading it..
+[03:51:11] [Render thread/INFO] (Capes) Successfully loaded config file.
+[03:51:11] [Render thread/INFO] (ChatNotify) ChatNotify: Loading config from file...
+[03:51:11] [Render thread/INFO] (ChatNotify) ChatNotify: Saving config to file...
+[03:51:11] [Render thread/INFO] (ChatNotify) ChatNotify: Configuration saved in 3 ms
+[03:51:11] [Render thread/INFO] (ChatNotify) ChatNotify: Configuration loaded in 8 ms
+[03:51:11] [Render thread/INFO] (Indigo) [Indigo] Different rendering plugin detected; not applying Indigo.
+[03:51:11] [Render thread/INFO] (PluginCaller) Sending ConfigManager...
+[03:51:11] [Render thread/INFO] (PluginCaller) Sending ConfigManager took 1.576 ms
+[03:51:11] [Render thread/INFO] (MapFrontiers) PacketHandler init done
+[03:51:11] [Render thread/INFO] (MapFrontiers) Fabric onInitializeClient done
+[03:51:11] [Render thread/INFO] (ModernUI) Modern UI client config loaded/reloaded
+[03:51:11] [Thread-4/INFO] (ModernUI) Modern UI client config loaded/reloaded
+[03:51:11] [Render thread/INFO] (ModernUI) Modern UI text config loaded/reloaded
+[03:51:11] [Render thread/INFO] (ModernUI) Created TextLayoutEngine
+[03:51:12] [Render thread/INFO] (ModernUI) Created MuiFabricApi
+[03:51:12] [Render thread/INFO] (ModernUI) Initialized Modern UI text engine
+[03:51:12] [Render thread/INFO] (ModernUI) Initialized Modern UI client
+[03:51:12] [Worker-Main-1/INFO] (Mod Menu/Update Checker) Checking mod updates...
+[03:51:12] [Render thread/INFO] (Puzzles Lib) Constructing client components for puzzleslib:main
+[03:51:12] [Render thread/WARN] (FabricLoader/Mixin) @Redirect conflict. Skipping boze.mixins.json:PlayerEntityRendererMixin from mod (unknown)->@Redirect::onIsInSneakingPose(Lnet/minecraft/class_742;)Z with priority 2, already redirected by viafabricplus.mixins.json:fixes.minecraft.MixinPlayerEntityRenderer from mod viafabricplus->@Redirect::redirectGetPositionOffset(Lnet/minecraft/class_742;)Z with priority 1000
+[03:51:12] [Render thread/INFO] (YetAnotherConfigLib) Loading SkinShuffleConfig...
+[03:51:12] [Render thread/INFO] (YetAnotherConfigLib) Saving SkinShuffleConfig...
+[03:51:12] [Render thread/INFO] (tcdcommons) Initializing 'TCD Commons API' 3.9.6+fabric-1.20.1 as 'TCDCommonsClient'.
+[03:51:12] [Render thread/INFO] (WorldTools) Initializing WorldTools 1.2.4
+[03:51:12] [Render thread/INFO] (WorldTools) WorldTools Fabric initialized
+[03:51:12] [Render thread/INFO] (YetAnotherConfigLib) Deserializing YACLConfig from 'C:\Users\Kaili\AppData\Roaming\MultiMC\instances\2b2t Modpack BozeBeta preloaded\.minecraft\config\yacl.json5'
+[03:51:12] [Worker-Main-1/INFO] (Mod Menu/Update Checker) Update available for 'csearcher@0.1.8+mc1.20', (-> 0.2.1+mc1.20.1)
+[03:51:12] [Worker-Main-1/INFO] (Mod Menu/Update Checker) Update available for 'chatnotify@1.2.0', (-> 1.3.0-pre.2)
+[03:51:12] [Worker-Main-1/INFO] (Mod Menu/Update Checker) Update available for 'yet_another_config_lib_v3@3.4.0+1.20.1-fabric', (-> 3.4.1+1.20.1-fabric)
+[03:51:12] [Worker-Main-1/INFO] (Mod Menu/Update Checker) Update available for 'searchables@1.0.2', (-> 1.0.3)
+[03:51:12] [Render thread/WARN] (FabricLoader) FileSystem for viafabricplus 2.8.7 has been closed unexpectedly, existing root path references may break!
+[03:51:12] [Render thread/INFO] (Minecraft) Backend library: LWJGL version 3.3.1 SNAPSHOT
+[03:51:13] [Render thread/INFO] (ModernUI) Promoted to OpenGL 4.6 Core Profile
+[03:51:13] [Render thread/WARN] (Sodium-NvidiaWorkarounds) Applying workaround: Prevent the NVIDIA OpenGL driver from using broken optimizations (NVIDIA_THREADED_OPTIMIZATIONS)
+[03:51:13] [Render thread/INFO] (Sodium-PostlaunchChecks) OpenGL Vendor: NVIDIA Corporation
+[03:51:13] [Render thread/INFO] (Sodium-PostlaunchChecks) OpenGL Renderer: NVIDIA GeForce RTX 4050 Laptop GPU/PCIe/SSE2
+[03:51:13] [Render thread/INFO] (Sodium-PostlaunchChecks) OpenGL Version: 4.6.0 NVIDIA 552.12
+[03:51:14] [Render thread/INFO] (ModernUI) OpenGL vendor: NVIDIA Corporation
+[03:51:14] [Render thread/INFO] (ModernUI) OpenGL renderer: NVIDIA GeForce RTX 4050 Laptop GPU/PCIe/SSE2
+[03:51:14] [Render thread/INFO] (ModernUI) OpenGL version: 4.6.0 NVIDIA 552.12
+[03:51:14] [Render thread/INFO] (ModernUI) UI manager initialized
+[03:51:14] [Render thread/INFO] (Iris) Debug functionality is disabled.
+[03:51:14] [Render thread/INFO] (Iris) OpenGL 4.5 detected, enabling DSA.
+[03:51:14] [Render thread/INFO] (Iris) Shaders are disabled because no valid shaderpack is selected
+[03:51:14] [Render thread/INFO] (Iris) Shaders are disabled
+[03:51:14] [UI thread/INFO] (ModernUI) UI thread initialized in 566ms
+[03:51:14] [Render thread/INFO] (Iris) Hardware information:
+[03:51:14] [Render thread/INFO] (Iris) CPU: 16x 13th Gen Intel(R) Core(TM) i7-13620H
+[03:51:14] [Render thread/INFO] (Iris) GPU: NVIDIA GeForce RTX 4050 Laptop GPU/PCIe/SSE2 (Supports OpenGL 4.6.0 NVIDIA 552.12)
+[03:51:14] [Render thread/INFO] (Iris) OS: Windows 11 (10.0)
+[03:51:14] [Render thread/WARN] (FabricLoader/Mixin) @Redirect conflict. Skipping boze.mixins.json:ParticleManagerMixin from mod (unknown)->@Redirect::onBuildGeometry(Lnet/minecraft/class_703;Lnet/minecraft/class_4588;Lnet/minecraft/class_4184;F)V with priority 2, already redirected by mixins.render.replaymod.json:MixinParticleManager from mod (unknown)->@Redirect::buildOrientedGeometry(Lnet/minecraft/class_703;Lnet/minecraft/class_4588;Lnet/minecraft/class_4184;F)V with priority 1000
+[03:51:15] [Render thread/INFO] (Minecraft) [FANCYMENU] Registering resource reload listener..
+[03:51:18] [Render thread/INFO] (ModernUI) Preloaded modern text shaders
+[03:51:18] [Render thread/INFO] (ScreenCustomizationLayerHandler) [FANCYMENU] Minecraft resource reload: STARTING
+[03:51:18] [Render thread/INFO] (Minecraft) Reloading ResourceManager: vanilla, fabric (appleskin, balm-fabric, better_log4j_config, betteradvancements, betterhiddenchat, betterstats, betterthirdperson, bookcopy, caffeineconfig, capes, cardinal-components-base, cardinal-components-entity, chatnotify, cicada, cleardespawn, cloth-config, cmdkeybind, controlling, csearcher, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-containers-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-events-lifecycle-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-language-kotlin, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-tables-v1, fabric-message-api-v1, fabric-mining-level-api-v1, fabric-model-loading-api-v1, fabric-models-v0, fabric-networking-api-v1, fabric-networking-v0, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, fancymenu, forgeconfigapiport, iris, jei, journeymap, konkrete, kyrptconfig, litematica, malilib, mapfrontiers, modernui, modmenu, netherportalfix, player-search, reeses-sodium-options, replaymod, searchables, showmeyourskin, skinshuffle, sodium, sodium-extra, spruceui, tcdcommons, textutilities, uiutils, viafabricplus, worldtools, yet_another_config_lib_v3, zoomify), replaymod_lang
+[03:51:18] [Worker-Main-3/INFO] (ModernUI) Scanned emoji shortcodes: 6708
+[03:51:18] [Render thread/ERROR] (Minecraft) Invalid path : Invalid path ''
+[03:51:18] [Render thread/ERROR] (Minecraft) Invalid path : Invalid path ''
+[03:51:18] [Worker-Main-11/INFO] (ModernUI) Scanned emoji map size: 3574
+[03:51:18] [Render thread/INFO] (AnimationHandler) [FANCYMENU] Preloading animations! This could cause the loading screen to freeze for a while..
+[03:51:18] [Render thread/INFO] (AnimationHandler) [FANCYMENU] Finished preloading animations!
+[03:51:18] [Render thread/INFO] (FancyMenu) [FANCYMENU] Starting late client initialization phase..
+[03:51:18] [Render thread/INFO] (Konkrete) [KONKRETE] Client-side libs ready to use!
+[03:51:18] [Render thread/INFO] (ScreenCustomizationLayerHandler) [FANCYMENU] ScreenCustomizationLayer registered: title_screen
+[03:51:18] [Render thread/INFO] (ModernUI) Redirect registered font 'JetBrains Mono Medium' to 'modernui:jetbrains-mono-medium'
+[03:51:18] [Render thread/INFO] (ModernUI) Registered font 'JetBrains Mono Medium', location 'modernui:font/jetbrains-mono-medium.ttf' in pack: 'fabric'
+[03:51:18] [Render thread/INFO] (ModernUI) Redirect registered font 'mui-i18n-compat' to 'modernui:mui-i18n-compat'
+[03:51:18] [Render thread/INFO] (ModernUI) Registered font 'mui-i18n-compat', location 'modernui:font/muii18ncompat/muii18ncompat.ttf' in pack: 'fabric'
+[03:51:18] [Render thread/INFO] (ModernUI) Redirect registered font 'Source Han Sans CN Medium' to 'modernui:source-han-sans-cn-medium'
+[03:51:18] [Render thread/INFO] (ModernUI) Registered font 'Source Han Sans CN Medium', location 'modernui:font/source-han-sans-cn-medium.otf' in pack: 'fabric'
+[03:51:18] [Render thread/INFO] (ModernUI) Font 'Noto Sans' failed to load or invalid
+[03:51:18] [Render thread/INFO] (ModernUI) Font 'San Francisco' failed to load or invalid
+[03:51:18] [Render thread/INFO] (ModernUI) Font 'Open Sans' failed to load or invalid
+[03:51:18] [Render thread/INFO] (ModernUI) Font 'STHeiti' failed to load or invalid
+[03:51:18] [Render thread/INFO] (ModernUI) Loaded typeface: FontCollection{mFamilies=[Source Han Sans CN Medium, Segoe UI Variable, Segoe UI, SimHei, Segoe UI Symbol, mui-i18n-compat], mExclusiveEastAsianBits=null}
+[03:51:19] [Worker-Main-10/INFO] (ModernUI) Loaded raw font 'minecraft:alt' in pack: 'vanilla'
+[03:51:19] [Worker-Main-10/INFO] (ModernUI) Loaded raw font bundle: 'minecraft:font/alt.json', font set: [minecraft:include/space,minecraft:font/ascii_sga.png]
+[03:51:19] [Worker-Main-10/INFO] (ModernUI) Loaded raw font 'minecraft:default' in pack: 'vanilla'
+[03:51:19] [Worker-Main-10/INFO] (ModernUI) Loaded raw font bundle: 'minecraft:font/default.json', font set: [minecraft:include/space,minecraft:include/default]
+[03:51:19] [Worker-Main-10/INFO] (ModernUI) Loaded raw font 'minecraft:illageralt' in pack: 'vanilla'
+[03:51:19] [Worker-Main-10/INFO] (ModernUI) Loaded raw font bundle: 'minecraft:font/illageralt.json', font set: [minecraft:include/space,minecraft:font/asciillager.png]
+[03:51:19] [Worker-Main-10/INFO] (ModernUI) Loaded raw font 'minecraft:include/default' in pack: 'vanilla'
+[03:51:19] [Worker-Main-10/INFO] (ModernUI) Loaded raw font bundle: 'minecraft:font/include/default.json', font set: [minecraft:font/nonlatin_european.png,minecraft:font/accented.png,minecraft:font/ascii.png]
+[03:51:19] [Worker-Main-10/INFO] (ModernUI) Loaded raw font 'minecraft:include/space' in pack: 'vanilla'
+[03:51:19] [Worker-Main-10/INFO] (ModernUI) Loaded raw font bundle: 'minecraft:font/include/space.json', font set: [minecraft:include/space / minecraft:space]
+[03:51:19] [Worker-Main-10/INFO] (ModernUI) Loaded font: 'minecraft:include/space', font set: [minecraft:include/space / minecraft:space]
+[03:51:19] [Worker-Main-10/INFO] (ModernUI) Loaded font: 'minecraft:include/default', font set: [minecraft:font/nonlatin_european.png,minecraft:font/accented.png,minecraft:font/ascii.png]
+[03:51:19] [Worker-Main-10/INFO] (ModernUI) Loaded font: 'minecraft:default', font set: [minecraft:include/space / minecraft:space,minecraft:font/nonlatin_european.png,minecraft:font/accented.png,minecraft:font/ascii.png]
+[03:51:19] [Worker-Main-10/INFO] (ModernUI) Loaded font: 'minecraft:illageralt', font set: [minecraft:include/space / minecraft:space,minecraft:font/asciillager.png]
+[03:51:19] [Worker-Main-10/INFO] (ModernUI) Loaded font: 'minecraft:alt', font set: [minecraft:include/space / minecraft:space,minecraft:font/ascii_sga.png]
+[03:51:19] [Render thread/INFO] (Boze) Initializing Boze
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: java.io.FileNotFoundException: C:\Users\Kaili\AppData\Roaming\MultiMC\instances\2b2t Modpack BozeBeta preloaded\.minecraft\boze\playtime.json (The system cannot find the file specified)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/java.io.FileInputStream.open0(Native Method)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/java.io.FileInputStream.open(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/java.io.FileInputStream.<init>(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/java.io.FileReader.<init>(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at dev.boze.client.cD.a(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at dev.boze.client.hy.a(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at dev.boze.client.ka.a(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at dev.boze.client.o3.a(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at dev.boze.client.ka.a(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at dev.boze.client.o3.a(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at dev.boze.client.cD.d(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at dev.boze.client.Boze.initialize(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at dev.boze.client.o3.a(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at net.minecraft.class_310.handler$zdl000$onInit(class_310.java)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at net.minecraft.class_310.<init>(class_310.java:676)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:211)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:243)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:278)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at org.multimc.EntryPoint.listen(EntryPoint.java:143)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at org.multimc.EntryPoint.main(EntryPoint.java:34)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: java.io.FileNotFoundException: C:\Users\Kaili\AppData\Roaming\MultiMC\instances\2b2t Modpack BozeBeta preloaded\.minecraft\boze\accounts.json (The system cannot find the file specified)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/java.io.FileInputStream.open0(Native Method)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/java.io.FileInputStream.open(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/java.io.FileInputStream.<init>(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/java.io.FileReader.<init>(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at dev.boze.client.cD.a(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at dev.boze.client.cD.d(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at dev.boze.client.Boze.initialize(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at dev.boze.client.o3.a(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at net.minecraft.class_310.handler$zdl000$onInit(class_310.java)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at net.minecraft.class_310.<init>(class_310.java:676)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:211)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:243)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:278)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at org.multimc.EntryPoint.listen(EntryPoint.java:143)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at org.multimc.EntryPoint.main(EntryPoint.java:34)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: java.io.FileNotFoundException: C:\Users\Kaili\AppData\Roaming\MultiMC\instances\2b2t Modpack BozeBeta preloaded\.minecraft\boze\macros.json (The system cannot find the file specified)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/java.io.FileInputStream.open0(Native Method)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/java.io.FileInputStream.open(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/java.io.FileInputStream.<init>(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/java.io.FileReader.<init>(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at dev.boze.client.cD.a(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at dev.boze.client.cD.d(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at dev.boze.client.Boze.initialize(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at dev.boze.client.o3.a(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at net.minecraft.class_310.handler$zdl000$onInit(class_310.java)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at net.minecraft.class_310.<init>(class_310.java:676)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:211)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:243)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:278)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at org.multimc.EntryPoint.listen(EntryPoint.java:143)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at org.multimc.EntryPoint.main(EntryPoint.java:34)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: java.io.FileNotFoundException: C:\Users\Kaili\AppData\Roaming\MultiMC\instances\2b2t Modpack BozeBeta preloaded\.minecraft\boze\local-storage.json (The system cannot find the file specified)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/java.io.FileInputStream.open0(Native Method)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/java.io.FileInputStream.open(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/java.io.FileInputStream.<init>(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/java.io.FileReader.<init>(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at dev.boze.client.cD.a(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at dev.boze.client.cD.d(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at dev.boze.client.Boze.initialize(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at dev.boze.client.o3.a(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at net.minecraft.class_310.handler$zdl000$onInit(class_310.java)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at net.minecraft.class_310.<init>(class_310.java:676)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:211)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:243)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:278)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at org.multimc.EntryPoint.listen(EntryPoint.java:143)
+[03:51:22] [Render thread/INFO] (Minecraft) [STDERR]: 	at org.multimc.EntryPoint.main(EntryPoint.java:34)
+[03:51:22] [Render thread/INFO] (Boze) Initialized Boze
+[03:51:23] [Render thread/INFO] (journeymap) Initializing ClientSide Packet Registries
+[03:51:23] [Render thread/INFO] (journeymap) Found @IClientPlugin: games.alejandrocoria.mapfrontiers.client.plugin.MapFrontiersPlugin
+[03:51:23] [Render thread/INFO] (ModernUI) Loaded OpenGL canvas shaders, compatibility mode: false
+[03:51:23] [Render thread/INFO] (ModernUI) UI renderer initialized
+[03:51:23] [Render thread/WARN] (FabricLoader/Mixin) Method overwrite conflict for getChunks in boze.mixins.json:ClientChunkMapAccessor from mod (unknown), previously written by baritone.launch.mixins.MixinChunkArray. Skipping method.
+[03:51:23] [Render thread/INFO] (ModernUI) Loaded smart SDF text shaders
+[03:51:23] [Render thread/INFO] (ModernUI) Reloaded text layout engine, res level: 2 to 2, locale: en_US, layout RTL: false
+[03:51:24] [Render thread/WARN] (Minecraft) Missing sound for event: minecraft:item.goat_horn.play
+[03:51:24] [Render thread/WARN] (Minecraft) Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[03:51:24] [Render thread/INFO] (Minecraft) OpenAL initialized on device OpenAL Soft on Speakers (Realtek(R) Audio)
+[03:51:24] [Render thread/INFO] (Minecraft) Sound engine started
+[03:51:24] [Render thread/INFO] (Minecraft) [FANCYMENU] Reloading AudioResourceHandler after Minecraft SoundEngine reload..
+[03:51:24] [Render thread/INFO] (ModernUI) Font 'Noto Sans' failed to load or invalid
+[03:51:24] [Render thread/INFO] (ModernUI) Font 'San Francisco' failed to load or invalid
+[03:51:24] [Render thread/INFO] (ModernUI) Font 'Open Sans' failed to load or invalid
+[03:51:24] [Render thread/INFO] (ModernUI) Font 'STHeiti' failed to load or invalid
+[03:51:24] [Render thread/INFO] (ModernUI) Reloaded typeface: FontCollection{mFamilies=[Google Noto Color Emoji, Source Han Sans CN Medium, Segoe UI Variable, Segoe UI, SimHei, Segoe UI Symbol, mui-i18n-compat], mExclusiveEastAsianBits=null}
+[03:51:24] [Render thread/INFO] (ModernUI) Reloaded glyph manager
+[03:51:24] [Render thread/INFO] (ModernUI) Reloaded text layout engine, res level: 2 to 2, locale: en_US, layout RTL: false
+[03:51:24] [Render thread/INFO] (Minecraft) Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[03:51:24] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[03:51:24] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[03:51:24] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[03:51:24] [Render thread/INFO] (Minecraft) Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[03:51:24] [Render thread/INFO] (Minecraft) Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[03:51:24] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[03:51:24] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[03:51:24] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[03:51:25] [Render thread/WARN] (Minecraft) Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[03:51:25] [Render thread/INFO] (Minecraft) Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[03:51:25] [Render thread/INFO] (Minecraft) Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[03:51:25] [Render thread/INFO] (Minecraft) Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[03:51:25] [Render thread/INFO] (ResourceHandlers) [FANCYMENU] Reloading resources..
+[03:51:25] [Render thread/INFO] (ResourcePreLoader) [FANCYMENU] Pre-loading resources..
+[03:51:25] [Render thread/INFO] (Minecraft) Created: 256x128x0 jei:textures/atlas/gui.png-atlas
+[03:51:25] [Render thread/INFO] (ScreenCustomizationLayerHandler) [FANCYMENU] Updating animation sizes..
+[03:51:25] [Render thread/INFO] (ScreenCustomizationLayerHandler) [FANCYMENU] Minecraft resource reload: FINISHED
+[03:52:22] [Render thread/INFO] (Minecraft) Stopping!
+[03:52:22] [Render thread/INFO] (ClientLifecycleHandler) Stopping JEI
+[03:52:22] [Render thread/INFO] (JeiStarter) Stopping JEI
+[03:52:22] [Render thread/INFO] (PluginCaller) Sending Runtime Unavailable...
+[03:52:22] [Render thread/INFO] (FabricGuiPlugin) Stopping JEI GUI
+[03:52:22] [Render thread/INFO] (PluginCaller) Sending Runtime Unavailable took 237.3 ?s
+[03:52:22] [Render thread/INFO] (ScreenCustomizationLayerHandler) [FANCYMENU] ScreenCustomizationLayer registered: progress_screen
+[03:52:22] [Render thread/INFO] (betterstats) Clearing 'BetterStatsClientNetworkHandler' flags.

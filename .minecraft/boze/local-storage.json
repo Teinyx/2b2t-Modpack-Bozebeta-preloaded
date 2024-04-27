@@ -1,0 +1,6757 @@
+{
+  "Accounts": {
+    "DescriptionSeen": false,
+    "Alts": {
+      "DescriptionSeen": false
+    }
+  },
+  "AimAssist": {
+    "DescriptionSeen": false,
+    "AimPoint": {
+      "DescriptionSeen": false
+    },
+    "UseGhostRot": {
+      "DescriptionSeen": false
+    },
+    "StopOverTarget": {
+      "DescriptionSeen": false
+    },
+    "OnlyWeapon": {
+      "DescriptionSeen": false
+    },
+    "OnlyWhenClicking": {
+      "DescriptionSeen": false
+    },
+    "Ticks": {
+      "DescriptionSeen": false
+    },
+    "GunMode": {
+      "DescriptionSeen": false
+    },
+    "Range": {
+      "DescriptionSeen": false
+    },
+    "GunRange": {
+      "DescriptionSeen": false
+    },
+    "ThroughWalls": {
+      "DescriptionSeen": false
+    },
+    "BoxScale": {
+      "DescriptionSeen": false
+    },
+    "MinSpeed": {
+      "DescriptionSeen": false
+    },
+    "MaxSpeed": {
+      "DescriptionSeen": false
+    },
+    "MaxDelta": {
+      "DescriptionSeen": false
+    },
+    "DontResist": {
+      "DescriptionSeen": false
+    },
+    "Vertical": {
+      "DescriptionSeen": false
+    },
+    "FOV": {
+      "DescriptionSeen": false
+    },
+    "Priority": {
+      "DescriptionSeen": false
+    },
+    "Sticky": {
+      "DescriptionSeen": false
+    },
+    "Targets": {
+      "DescriptionSeen": false
+    },
+    "Targets.Players": {
+      "DescriptionSeen": false
+    },
+    "Targets.Friends": {
+      "DescriptionSeen": false
+    },
+    "Targets.Animals": {
+      "DescriptionSeen": false
+    },
+    "Targets.Monsters": {
+      "DescriptionSeen": false
+    }
+  },
+  "AirPlace": {
+    "DescriptionSeen": false,
+    "Mouse": {
+      "DescriptionSeen": false
+    },
+    "AirInteract": {
+      "DescriptionSeen": false
+    },
+    "LiquidInteract": {
+      "DescriptionSeen": false
+    }
+  },
+  "AnchorTrigger": {
+    "DescriptionSeen": false,
+    "Jitter": {
+      "DescriptionSeen": false
+    },
+    "AutoSwap": {
+      "DescriptionSeen": false
+    },
+    "DefaultItem": {
+      "DescriptionSeen": false
+    },
+    "Break": {
+      "DescriptionSeen": false
+    },
+    "Glowstone": {
+      "DescriptionSeen": false
+    },
+    "BreakDelay": {
+      "DescriptionSeen": false
+    },
+    "GlowstoneDelay": {
+      "DescriptionSeen": false
+    },
+    "OnlyWhenHolding": {
+      "DescriptionSeen": false
+    },
+    "PlaceClicking": {
+      "DescriptionSeen": false
+    },
+    "MinCPS": {
+      "DescriptionSeen": false
+    },
+    "MaxCPS": {
+      "DescriptionSeen": false
+    },
+    "MinSwapDelay": {
+      "DescriptionSeen": false
+    },
+    "MaxSwapDelay": {
+      "DescriptionSeen": false
+    },
+    "MinOnsetDelay": {
+      "DescriptionSeen": false
+    },
+    "MaxOnsetDelay": {
+      "DescriptionSeen": false
+    }
+  },
+  "AntiAim": {
+    "DescriptionSeen": false,
+    "Yaw": {
+      "DescriptionSeen": false
+    },
+    "Yaw.Range": {
+      "DescriptionSeen": false
+    },
+    "Yaw.YawLock": {
+      "DescriptionSeen": false
+    },
+    "Yaw.YawAdd": {
+      "DescriptionSeen": false
+    },
+    "Pitch": {
+      "DescriptionSeen": false
+    },
+    "Pitch.Range": {
+      "DescriptionSeen": false
+    },
+    "Pitch.PitchLock": {
+      "DescriptionSeen": false
+    },
+    "Pitch.PitchAdd": {
+      "DescriptionSeen": false
+    },
+    "Interval": {
+      "DescriptionSeen": false
+    }
+  },
+  "AntiBed": {
+    "DescriptionSeen": false,
+    "MultiTask": {
+      "DescriptionSeen": false
+    },
+    "Rotate": {
+      "DescriptionSeen": false
+    },
+    "Swing": {
+      "DescriptionSeen": false
+    },
+    "MaxActions": {
+      "DescriptionSeen": false
+    },
+    "Interval": {
+      "DescriptionSeen": false
+    },
+    "StrictDirection": {
+      "DescriptionSeen": false
+    },
+    "Spam": {
+      "DescriptionSeen": false
+    },
+    "Smart": {
+      "DescriptionSeen": false
+    },
+    "Smart.Range": {
+      "DescriptionSeen": false
+    },
+    "OnlyHoles": {
+      "DescriptionSeen": false
+    },
+    "OnlyStill": {
+      "DescriptionSeen": false
+    },
+    "Feet": {
+      "DescriptionSeen": false
+    },
+    "Head": {
+      "DescriptionSeen": false
+    },
+    "Above": {
+      "DescriptionSeen": false
+    }
+  },
+  "AntiHunger": {
+    "DescriptionSeen": false,
+    "Sprint": {
+      "DescriptionSeen": false
+    },
+    "Ground": {
+      "DescriptionSeen": false
+    }
+  },
+  "AntiLevitation": {
+    "DescriptionSeen": false
+  },
+  "AntiSpam": {
+    "DescriptionSeen": false,
+    "Discord": {
+      "DescriptionSeen": false
+    },
+    "URLs": {
+      "DescriptionSeen": false
+    },
+    "Announcer": {
+      "DescriptionSeen": false
+    }
+  },
+  "AntiVoid": {
+    "DescriptionSeen": false,
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "FallDistance": {
+      "DescriptionSeen": false
+    },
+    "MinAimSpeed": {
+      "DescriptionSeen": false
+    },
+    "MaxAimSpeed": {
+      "DescriptionSeen": false
+    },
+    "Type": {
+      "DescriptionSeen": false
+    },
+    "Offset": {
+      "DescriptionSeen": false
+    }
+  },
+  "Armor": {
+    "DescriptionSeen": false,
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "Bar": {
+      "DescriptionSeen": false
+    },
+    "Text": {
+      "DescriptionSeen": false
+    },
+    "Text.Percentage": {
+      "DescriptionSeen": false
+    },
+    "Text.Dynamic": {
+      "DescriptionSeen": false
+    },
+    "Text.Text": {
+      "DescriptionSeen": false
+    },
+    "Shadow": {
+      "DescriptionSeen": false
+    },
+    "Background": {
+      "DescriptionSeen": false
+    }
+  },
+  "ArrayList": {
+    "DescriptionSeen": false,
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "Animations": {
+      "DescriptionSeen": false
+    },
+    "Duration": {
+      "DescriptionSeen": false
+    },
+    "Spacing": {
+      "DescriptionSeen": false
+    },
+    "Text": {
+      "DescriptionSeen": false
+    },
+    "Info": {
+      "DescriptionSeen": false
+    },
+    "Brackets": {
+      "DescriptionSeen": false
+    },
+    "Shadow": {
+      "DescriptionSeen": false
+    }
+  },
+  "AspectRatio": {
+    "DescriptionSeen": false,
+    "Ratio": {
+      "DescriptionSeen": false
+    },
+    "CameraDepth": {
+      "DescriptionSeen": false
+    },
+    "ViewDistMod": {
+      "DescriptionSeen": false
+    },
+    "FovMod": {
+      "DescriptionSeen": false
+    }
+  },
+  "Aura": {
+    "DescriptionSeen": false,
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "Render": {
+      "DescriptionSeen": false
+    },
+    "Render.Color": {
+      "DescriptionSeen": false
+    },
+    "Render.Outline": {
+      "DescriptionSeen": false
+    },
+    "MultiTask": {
+      "DescriptionSeen": false
+    },
+    "Rotate": {
+      "DescriptionSeen": false
+    },
+    "GrimSilent": {
+      "DescriptionSeen": false
+    },
+    "Swing": {
+      "DescriptionSeen": false
+    },
+    "Range": {
+      "DescriptionSeen": false
+    },
+    "WallsRange": {
+      "DescriptionSeen": false
+    },
+    "RayCast": {
+      "DescriptionSeen": false
+    },
+    "YawStep": {
+      "DescriptionSeen": false
+    },
+    "YawStep.YawAngle": {
+      "DescriptionSeen": false
+    },
+    "YawStep.YawTicks": {
+      "DescriptionSeen": false
+    },
+    "Target": {
+      "DescriptionSeen": false
+    },
+    "Priority": {
+      "DescriptionSeen": false
+    },
+    "Delay": {
+      "DescriptionSeen": false
+    },
+    "Delay.AwaitCrits": {
+      "DescriptionSeen": false
+    },
+    "Delay.TPSSync": {
+      "DescriptionSeen": false
+    },
+    "Delay.Ticks": {
+      "DescriptionSeen": false
+    },
+    "Swap": {
+      "DescriptionSeen": false
+    },
+    "Swap.Delay": {
+      "DescriptionSeen": false
+    },
+    "Swap.Weapon": {
+      "DescriptionSeen": false
+    },
+    "PauseBaritone": {
+      "DescriptionSeen": false
+    },
+    "DisableOnDeath": {
+      "DescriptionSeen": false
+    },
+    "CheckAggression": {
+      "DescriptionSeen": false
+    },
+    "Targets": {
+      "DescriptionSeen": false
+    },
+    "Targets.Players": {
+      "DescriptionSeen": false
+    },
+    "Targets.Friends": {
+      "DescriptionSeen": false
+    },
+    "Targets.Animals": {
+      "DescriptionSeen": false
+    },
+    "Targets.Monsters": {
+      "DescriptionSeen": false
+    },
+    "Targets.Minecarts": {
+      "DescriptionSeen": false
+    },
+    "Targets.Boats": {
+      "DescriptionSeen": false
+    },
+    "Ghost.Render": {
+      "DescriptionSeen": false
+    },
+    "Ghost.Render.Color": {
+      "DescriptionSeen": false
+    },
+    "Ghost.Render.Outline": {
+      "DescriptionSeen": false
+    },
+    "Ghost.InInventory": {
+      "DescriptionSeen": false
+    },
+    "Ghost.WeaponOnly": {
+      "DescriptionSeen": false
+    },
+    "Ghost.OnlyWhenHolding": {
+      "DescriptionSeen": false
+    },
+    "Ghost.AwaitCrits": {
+      "DescriptionSeen": false
+    },
+    "Ghost.Reach": {
+      "DescriptionSeen": false
+    },
+    "Ghost.Reach.Variation": {
+      "DescriptionSeen": false
+    },
+    "Ghost.Reference": {
+      "DescriptionSeen": false
+    },
+    "Ghost.FOV": {
+      "DescriptionSeen": false
+    },
+    "Ghost.AimPoint": {
+      "DescriptionSeen": false
+    },
+    "Ghost.RayCast": {
+      "DescriptionSeen": false
+    },
+    "Ghost.Walls": {
+      "DescriptionSeen": false
+    },
+    "Ghost.Walls.Avoid": {
+      "DescriptionSeen": false
+    },
+    "Ghost.AlwaysHit": {
+      "DescriptionSeen": false
+    },
+    "Ghost.Clicking": {
+      "DescriptionSeen": false
+    },
+    "Ghost.Clicking.MinCPS": {
+      "DescriptionSeen": false
+    },
+    "Ghost.Clicking.MaxCPS": {
+      "DescriptionSeen": false
+    },
+    "Ghost.Clicking.ModelDelay": {
+      "DescriptionSeen": false
+    },
+    "Ghost.Clicking.MissSwing": {
+      "DescriptionSeen": false
+    },
+    "Ghost.Targeting": {
+      "DescriptionSeen": false
+    },
+    "Ghost.Targeting.Priority": {
+      "DescriptionSeen": false
+    },
+    "Ghost.AntiBlock": {
+      "DescriptionSeen": false
+    },
+    "Ghost.AntiBlock.AttackBlocking": {
+      "DescriptionSeen": false
+    },
+    "Ghost.DisableOnDeath": {
+      "DescriptionSeen": false
+    },
+    "Ghost.DisableOnTP": {
+      "DescriptionSeen": false
+    },
+    "Ghost.Targets": {
+      "DescriptionSeen": false
+    },
+    "Ghost.Targets.Players": {
+      "DescriptionSeen": false
+    },
+    "Ghost.Targets.Friends": {
+      "DescriptionSeen": false
+    },
+    "Ghost.Targets.Animals": {
+      "DescriptionSeen": false
+    },
+    "Ghost.Targets.Monsters": {
+      "DescriptionSeen": false
+    }
+  },
+  "AutoAnchor": {
+    "DescriptionSeen": false,
+    "MultiTask": {
+      "DescriptionSeen": false
+    },
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "Rotate": {
+      "DescriptionSeen": false
+    },
+    "Swing": {
+      "DescriptionSeen": false
+    },
+    "StrictDirection": {
+      "DescriptionSeen": false
+    },
+    "Sequential": {
+      "DescriptionSeen": false
+    },
+    "Charges": {
+      "DescriptionSeen": false
+    },
+    "Instant": {
+      "DescriptionSeen": false
+    },
+    "Speed": {
+      "DescriptionSeen": false
+    },
+    "Range": {
+      "DescriptionSeen": false
+    },
+    "PlaceRange": {
+      "DescriptionSeen": false
+    },
+    "MineObstructions": {
+      "DescriptionSeen": false
+    },
+    "MinDamage": {
+      "DescriptionSeen": false
+    },
+    "MinHealth": {
+      "DescriptionSeen": false
+    },
+    "MaxSelfDamage": {
+      "DescriptionSeen": false
+    }
+  },
+  "AutoArmor": {
+    "DescriptionSeen": false,
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "StrictInventory": {
+      "DescriptionSeen": false
+    },
+    "Elytra": {
+      "DescriptionSeen": false
+    },
+    "BindState": {
+      "DescriptionSeen": false
+    },
+    "Swap": {
+      "DescriptionSeen": false
+    },
+    "Interval": {
+      "DescriptionSeen": false
+    },
+    "AwaitInventory": {
+      "DescriptionSeen": false
+    },
+    "MinDelay": {
+      "DescriptionSeen": false
+    },
+    "MaxDelay": {
+      "DescriptionSeen": false
+    },
+    "RandomDelay": {
+      "DescriptionSeen": false
+    },
+    "InitialDelay": {
+      "DescriptionSeen": false
+    },
+    "PreferHead": {
+      "DescriptionSeen": false
+    },
+    "PreferChest": {
+      "DescriptionSeen": false
+    },
+    "PreferLegs": {
+      "DescriptionSeen": false
+    },
+    "PreferFeet": {
+      "DescriptionSeen": false
+    },
+    "Preserve": {
+      "DescriptionSeen": false
+    },
+    "AvoidBinding": {
+      "DescriptionSeen": false
+    }
+  },
+  "AutoBed": {
+    "DescriptionSeen": false,
+    "Render": {
+      "DescriptionSeen": false
+    },
+    "Render.Color": {
+      "DescriptionSeen": false
+    },
+    "Render.Outline": {
+      "DescriptionSeen": false
+    },
+    "StrictInventory": {
+      "DescriptionSeen": false
+    },
+    "MultiTask": {
+      "DescriptionSeen": false
+    },
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "Swing": {
+      "DescriptionSeen": false
+    },
+    "StrictDirection": {
+      "DescriptionSeen": false
+    },
+    "StrictPlace": {
+      "DescriptionSeen": false
+    },
+    "Sequential": {
+      "DescriptionSeen": false
+    },
+    "WallsRange": {
+      "DescriptionSeen": false
+    },
+    "AutoMove": {
+      "DescriptionSeen": false
+    },
+    "AutoCraft": {
+      "DescriptionSeen": false
+    },
+    "AutoCraft.Strict": {
+      "DescriptionSeen": false
+    },
+    "AutoCraft.OpenTable": {
+      "DescriptionSeen": false
+    },
+    "AutoCraft.PlaceTable": {
+      "DescriptionSeen": false
+    },
+    "AutoCraft.YPriority": {
+      "DescriptionSeen": false
+    },
+    "AutoCraft.AirPlace": {
+      "DescriptionSeen": false
+    },
+    "Break": {
+      "DescriptionSeen": false
+    },
+    "Break.Rotate": {
+      "DescriptionSeen": false
+    },
+    "Break.Speed": {
+      "DescriptionSeen": false
+    },
+    "Break.Range": {
+      "DescriptionSeen": false
+    },
+    "Place": {
+      "DescriptionSeen": false
+    },
+    "Place.Rotate": {
+      "DescriptionSeen": false
+    },
+    "Place.Speed": {
+      "DescriptionSeen": false
+    },
+    "Place.Range": {
+      "DescriptionSeen": false
+    },
+    "Place.StrictRange": {
+      "DescriptionSeen": false
+    },
+    "Targeting": {
+      "DescriptionSeen": false
+    },
+    "Targeting.Inside": {
+      "DescriptionSeen": false
+    },
+    "Targeting.AntiSuicide": {
+      "DescriptionSeen": false
+    },
+    "Targeting.BedRange": {
+      "DescriptionSeen": false
+    },
+    "Targeting.TargetRange": {
+      "DescriptionSeen": false
+    },
+    "Targeting.BreakSelfDmg": {
+      "DescriptionSeen": false
+    },
+    "Targeting.PlaceSelfDmg": {
+      "DescriptionSeen": false
+    },
+    "Targeting.MinDamage": {
+      "DescriptionSeen": false
+    },
+    "Targeting.LethalHP": {
+      "DescriptionSeen": false
+    },
+    "Targeting.Force": {
+      "DescriptionSeen": false
+    },
+    "Targets": {
+      "DescriptionSeen": false
+    },
+    "Targets.Players": {
+      "DescriptionSeen": false
+    },
+    "Targets.Friends": {
+      "DescriptionSeen": false
+    },
+    "Targets.Animals": {
+      "DescriptionSeen": false
+    },
+    "Targets.Monsters": {
+      "DescriptionSeen": false
+    }
+  },
+  "AutoBridge": {
+    "DescriptionSeen": false,
+    "AutoSneak": {
+      "DescriptionSeen": false
+    },
+    "AutoSneak.Delay": {
+      "DescriptionSeen": false
+    },
+    "AutoPlace": {
+      "DescriptionSeen": false
+    }
+  },
+  "AutoClicker": {
+    "DescriptionSeen": false,
+    "Jitter": {
+      "DescriptionSeen": false
+    },
+    "LeftClick": {
+      "DescriptionSeen": false
+    },
+    "LeftClick.OnlyWhenHolding": {
+      "DescriptionSeen": false
+    },
+    "LeftClick.Mode": {
+      "DescriptionSeen": false
+    },
+    "LeftClick.MinCPS": {
+      "DescriptionSeen": false
+    },
+    "LeftClick.MaxCPS": {
+      "DescriptionSeen": false
+    },
+    "RightClick": {
+      "DescriptionSeen": false
+    },
+    "RightClick.OnlyWhenHolding": {
+      "DescriptionSeen": false
+    },
+    "RightClick.RightMode": {
+      "DescriptionSeen": false
+    },
+    "RightClick.RightMinCPS": {
+      "DescriptionSeen": false
+    },
+    "RightClick.RightMaxCPS": {
+      "DescriptionSeen": false
+    }
+  },
+  "AutoCraft": {
+    "DescriptionSeen": false,
+    "Item": {
+      "DescriptionSeen": false
+    },
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "Delay": {
+      "DescriptionSeen": false
+    },
+    "ShiftCraft": {
+      "DescriptionSeen": false
+    },
+    "Strict": {
+      "DescriptionSeen": false
+    }
+  },
+  "AutoCrystal": {
+    "DescriptionSeen": false,
+    "Render": {
+      "DescriptionSeen": false
+    },
+    "DamageRender": {
+      "DescriptionSeen": false
+    },
+    "DamageRender.DamageScale": {
+      "DescriptionSeen": false
+    },
+    "DamageRender.CustomFont": {
+      "DescriptionSeen": false
+    },
+    "DamageRender.CustomColor": {
+      "DescriptionSeen": false
+    },
+    "Color": {
+      "DescriptionSeen": false
+    },
+    "Outline": {
+      "DescriptionSeen": false
+    },
+    "Interpolate": {
+      "DescriptionSeen": false
+    },
+    "Interpolate.Speed": {
+      "DescriptionSeen": false
+    },
+    "Interpolate.Proportional": {
+      "DescriptionSeen": false
+    },
+    "Shrink": {
+      "DescriptionSeen": false
+    },
+    "Fade": {
+      "DescriptionSeen": false
+    },
+    "MinTicks": {
+      "DescriptionSeen": false
+    },
+    "Duration": {
+      "DescriptionSeen": false
+    },
+    "Shader": {
+      "DescriptionSeen": false
+    },
+    "Shader.Shader": {
+      "DescriptionSeen": false
+    },
+    "Shader.FastRender": {
+      "DescriptionSeen": false
+    },
+    "Shader.Blur": {
+      "DescriptionSeen": false
+    },
+    "Shader.Glow": {
+      "DescriptionSeen": false
+    },
+    "Shader.Strength": {
+      "DescriptionSeen": false
+    },
+    "Shader.Radius": {
+      "DescriptionSeen": false
+    },
+    "Shader.Opacity": {
+      "DescriptionSeen": false
+    },
+    "Shader.Fill": {
+      "DescriptionSeen": false
+    },
+    "AntiCheat": {
+      "DescriptionSeen": false
+    },
+    "MultiTask": {
+      "DescriptionSeen": false
+    },
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "Rotate": {
+      "DescriptionSeen": false
+    },
+    "YawStep": {
+      "DescriptionSeen": false
+    },
+    "YawStep.YawAngle": {
+      "DescriptionSeen": false
+    },
+    "Swing": {
+      "DescriptionSeen": false
+    },
+    "Swing.ShowAll": {
+      "DescriptionSeen": false
+    },
+    "Timing": {
+      "DescriptionSeen": false
+    },
+    "Timing.React": {
+      "DescriptionSeen": false
+    },
+    "Timing.Vanilla": {
+      "DescriptionSeen": false
+    },
+    "Timing.PlaceDelay": {
+      "DescriptionSeen": false
+    },
+    "Timing.BreakDelay": {
+      "DescriptionSeen": false
+    },
+    "Place": {
+      "DescriptionSeen": false
+    },
+    "Place.StrictRotate": {
+      "DescriptionSeen": false
+    },
+    "Place.Protocol": {
+      "DescriptionSeen": false
+    },
+    "Place.Range": {
+      "DescriptionSeen": false
+    },
+    "Place.WallsRange": {
+      "DescriptionSeen": false
+    },
+    "Place.StrictDirection": {
+      "DescriptionSeen": false
+    },
+    "Break": {
+      "DescriptionSeen": false
+    },
+    "Break.Inhibit": {
+      "DescriptionSeen": false
+    },
+    "Break.Limit": {
+      "DescriptionSeen": false
+    },
+    "Break.TicksExisted": {
+      "DescriptionSeen": false
+    },
+    "Break.OnlyCurrent": {
+      "DescriptionSeen": false
+    },
+    "Break.Range": {
+      "DescriptionSeen": false
+    },
+    "Break.WallsRange": {
+      "DescriptionSeen": false
+    },
+    "Swap": {
+      "DescriptionSeen": false
+    },
+    "Swap.AntiWeakness": {
+      "DescriptionSeen": false
+    },
+    "Swap.Penalty": {
+      "DescriptionSeen": false
+    },
+    "Swap.GrimBypass": {
+      "DescriptionSeen": false
+    },
+    "Targeting": {
+      "DescriptionSeen": false
+    },
+    "Selection": {
+      "DescriptionSeen": false
+    },
+    "Selection.Algorithm": {
+      "DescriptionSeen": false
+    },
+    "Selection.TargetRange": {
+      "DescriptionSeen": false
+    },
+    "Selection.CrystalRange": {
+      "DescriptionSeen": false
+    },
+    "Safety": {
+      "DescriptionSeen": false
+    },
+    "Safety.Mode": {
+      "DescriptionSeen": false
+    },
+    "Safety.MaxSelfDmg": {
+      "DescriptionSeen": false
+    },
+    "Safety.Balance": {
+      "DescriptionSeen": false
+    },
+    "Sacrifice": {
+      "DescriptionSeen": false
+    },
+    "AutoMinDmg": {
+      "DescriptionSeen": false
+    },
+    "MinDamage": {
+      "DescriptionSeen": false
+    },
+    "HoleMinDmg": {
+      "DescriptionSeen": false
+    },
+    "StillMinDmg": {
+      "DescriptionSeen": false
+    },
+    "MovingMinDmg": {
+      "DescriptionSeen": false
+    },
+    "LethalHP": {
+      "DescriptionSeen": false
+    },
+    "Force": {
+      "DescriptionSeen": false
+    },
+    "ForceMinDmg": {
+      "DescriptionSeen": false
+    },
+    "Economize": {
+      "DescriptionSeen": false
+    },
+    "Targets": {
+      "DescriptionSeen": false
+    },
+    "Players": {
+      "DescriptionSeen": false
+    },
+    "Friends": {
+      "DescriptionSeen": false
+    },
+    "Animals": {
+      "DescriptionSeen": false
+    },
+    "Monsters": {
+      "DescriptionSeen": false
+    },
+    "Debug": {
+      "DescriptionSeen": false
+    },
+    "Debug.ArrayList": {
+      "DescriptionSeen": false
+    },
+    "Debug.DebugExtrapolation": {
+      "DescriptionSeen": false
+    },
+    "Extrapolation": {
+      "DescriptionSeen": false
+    },
+    "Calculation": {
+      "DescriptionSeen": false
+    },
+    "Calculation.AssumeMaxArmor": {
+      "DescriptionSeen": false
+    },
+    "Calculation.DelaySync": {
+      "DescriptionSeen": false
+    },
+    "Calculation.DamageSync": {
+      "DescriptionSeen": false
+    },
+    "Pause": {
+      "DescriptionSeen": false
+    },
+    "Pause.RightClickGap": {
+      "DescriptionSeen": false
+    },
+    "Pause.WhileEating": {
+      "DescriptionSeen": false
+    },
+    "Pause.UnderHealth": {
+      "DescriptionSeen": false
+    }
+  },
+  "AutoDisconnect": {
+    "DescriptionSeen": false,
+    "AutoDisable": {
+      "DescriptionSeen": false
+    },
+    "Exploit": {
+      "DescriptionSeen": false
+    },
+    "Health": {
+      "DescriptionSeen": false
+    },
+    "Crystals": {
+      "DescriptionSeen": false
+    },
+    "Players": {
+      "DescriptionSeen": false
+    },
+    "IgnoreTotem": {
+      "DescriptionSeen": false
+    }
+  },
+  "AutoEat": {
+    "DescriptionSeen": false,
+    "Delay": {
+      "DescriptionSeen": false
+    },
+    "PreferGaps": {
+      "DescriptionSeen": false
+    },
+    "EatChorus": {
+      "DescriptionSeen": false
+    },
+    "Health": {
+      "DescriptionSeen": false
+    },
+    "Hunger": {
+      "DescriptionSeen": false
+    },
+    "AutoSwap": {
+      "DescriptionSeen": false
+    },
+    "AutoSwap.SwapDelay": {
+      "DescriptionSeen": false
+    },
+    "PauseBaritone": {
+      "DescriptionSeen": false
+    },
+    "PauseAura": {
+      "DescriptionSeen": false
+    }
+  },
+  "AutoFirework": {
+    "DescriptionSeen": false
+  },
+  "AutoFish": {
+    "DescriptionSeen": false,
+    "AutoCast": {
+      "DescriptionSeen": false
+    },
+    "AntiTechExtremist": {
+      "DescriptionSeen": false
+    },
+    "CastDelay": {
+      "DescriptionSeen": false
+    },
+    "CatchDelay": {
+      "DescriptionSeen": false
+    },
+    "SoundRadius": {
+      "DescriptionSeen": false
+    }
+  },
+  "AutoHop": {
+    "DescriptionSeen": false
+  },
+  "AutoMend": {
+    "DescriptionSeen": false,
+    "Swing": {
+      "DescriptionSeen": false
+    },
+    "Delay": {
+      "DescriptionSeen": false
+    },
+    "Alternative": {
+      "DescriptionSeen": false
+    },
+    "StrictInventory": {
+      "DescriptionSeen": false
+    },
+    "MendRemove": {
+      "DescriptionSeen": false
+    },
+    "DamageDisable": {
+      "DescriptionSeen": false
+    },
+    "CrystalDisable": {
+      "DescriptionSeen": false
+    }
+  },
+  "AutoMine": {
+    "DescriptionSeen": false,
+    "Renderer": {
+      "DescriptionSeen": false
+    },
+    "Render": {
+      "DescriptionSeen": false
+    },
+    "Start": {
+      "DescriptionSeen": false
+    },
+    "StartLine": {
+      "DescriptionSeen": false
+    },
+    "End": {
+      "DescriptionSeen": false
+    },
+    "EndLine": {
+      "DescriptionSeen": false
+    },
+    "Fade": {
+      "DescriptionSeen": false
+    },
+    "Fade.Duration": {
+      "DescriptionSeen": false
+    },
+    "Fade.Fade": {
+      "DescriptionSeen": false
+    },
+    "Fade.FadeLine": {
+      "DescriptionSeen": false
+    },
+    "InstantPos": {
+      "DescriptionSeen": false
+    },
+    "InstantPos.Color": {
+      "DescriptionSeen": false
+    },
+    "InstantPos.Outline": {
+      "DescriptionSeen": false
+    },
+    "AutoSelect": {
+      "DescriptionSeen": false
+    },
+    "AutoSelect.Bind": {
+      "DescriptionSeen": false
+    },
+    "AutoSelect.Mode": {
+      "DescriptionSeen": false
+    },
+    "SelectBind": {
+      "DescriptionSeen": false
+    },
+    "OnlySurrounded": {
+      "DescriptionSeen": false
+    },
+    "AntiBurrow": {
+      "DescriptionSeen": false
+    },
+    "Priority": {
+      "DescriptionSeen": false
+    },
+    "AvoidShared": {
+      "DescriptionSeen": false
+    },
+    "PrePlace": {
+      "DescriptionSeen": false
+    },
+    "CrystalBomber": {
+      "DescriptionSeen": false
+    },
+    "CrystalBomber.Bind": {
+      "DescriptionSeen": false
+    },
+    "PlaceAttempts": {
+      "DescriptionSeen": false
+    },
+    "AutoAutoTrap": {
+      "DescriptionSeen": false
+    },
+    "AntiRegear": {
+      "DescriptionSeen": false
+    },
+    "AntiRegear.Bind": {
+      "DescriptionSeen": false
+    },
+    "Range": {
+      "DescriptionSeen": false
+    },
+    "Queue": {
+      "DescriptionSeen": false
+    },
+    "Delay": {
+      "DescriptionSeen": false
+    },
+    "MaxQueue": {
+      "DescriptionSeen": false
+    },
+    "DoubleMine": {
+      "DescriptionSeen": false
+    },
+    "ManualPriority": {
+      "DescriptionSeen": false
+    },
+    "MultiTask": {
+      "DescriptionSeen": false
+    },
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "Rotate": {
+      "DescriptionSeen": false
+    },
+    "Swing": {
+      "DescriptionSeen": false
+    },
+    "Strict": {
+      "DescriptionSeen": false
+    },
+    "Duration": {
+      "DescriptionSeen": false
+    },
+    "Duration.TPSSync": {
+      "DescriptionSeen": false
+    },
+    "ReMine": {
+      "DescriptionSeen": false
+    },
+    "ReMine.Instant": {
+      "DescriptionSeen": false
+    },
+    "ReMine.Auto": {
+      "DescriptionSeen": false
+    },
+    "ReMine.Bind": {
+      "DescriptionSeen": false
+    },
+    "Swap": {
+      "DescriptionSeen": false
+    },
+    "Swap.Delay": {
+      "DescriptionSeen": false
+    },
+    "OnlyPickaxe": {
+      "DescriptionSeen": false
+    },
+    "ItemReset": {
+      "DescriptionSeen": false
+    },
+    "Blocks": {
+      "DescriptionSeen": false
+    },
+    "Filter": {
+      "DescriptionSeen": false
+    }
+  },
+  "AutoMount": {
+    "DescriptionSeen": false,
+    "Range": {
+      "DescriptionSeen": false
+    },
+    "Delay": {
+      "DescriptionSeen": false
+    },
+    "Boats": {
+      "DescriptionSeen": false
+    },
+    "Horses": {
+      "DescriptionSeen": false
+    },
+    "SkeletonHorses": {
+      "DescriptionSeen": false
+    },
+    "Donkeys": {
+      "DescriptionSeen": false
+    },
+    "Pigs": {
+      "DescriptionSeen": false
+    },
+    "Llamas": {
+      "DescriptionSeen": false
+    }
+  },
+  "AutoPearl": {
+    "DescriptionSeen": false,
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "Strict": {
+      "DescriptionSeen": false
+    },
+    "Pitch": {
+      "DescriptionSeen": false
+    },
+    "Swap": {
+      "DescriptionSeen": false
+    }
+  },
+  "AutoPilot": {
+    "DescriptionSeen": false,
+    "Replenish": {
+      "DescriptionSeen": false
+    },
+    "Predict": {
+      "DescriptionSeen": false
+    },
+    "Conserve": {
+      "DescriptionSeen": false
+    },
+    "Conserve.BaritoneSpeed": {
+      "DescriptionSeen": false
+    },
+    "MinHeight": {
+      "DescriptionSeen": false
+    },
+    "MaxHeight": {
+      "DescriptionSeen": false
+    }
+  },
+  "AutoReconnect": {
+    "DescriptionSeen": false,
+    "Delay": {
+      "DescriptionSeen": false
+    }
+  },
+  "AutoRespawn": {
+    "DescriptionSeen": false
+  },
+  "AutoScoreboard": {
+    "DescriptionSeen": false,
+    "Taunt": {
+      "DescriptionSeen": false
+    },
+    "Scores": {}
+  },
+  "AutoTool": {
+    "DescriptionSeen": false,
+    "Silent": {
+      "DescriptionSeen": false
+    },
+    "Prefer": {
+      "DescriptionSeen": false
+    },
+    "PreferOres": {
+      "DescriptionSeen": false
+    },
+    "PreferGlowStone": {
+      "DescriptionSeen": false
+    },
+    "EChests": {
+      "DescriptionSeen": false
+    },
+    "Preserve": {
+      "DescriptionSeen": false
+    }
+  },
+  "AutoTrap": {
+    "DescriptionSeen": false,
+    "Render": {
+      "DescriptionSeen": false
+    },
+    "Render.Color": {
+      "DescriptionSeen": false
+    },
+    "Render.Outline": {
+      "DescriptionSeen": false
+    },
+    "MultiTask": {
+      "DescriptionSeen": false
+    },
+    "Place": {
+      "DescriptionSeen": false
+    },
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "Rotate": {
+      "DescriptionSeen": false
+    },
+    "RayCast": {
+      "DescriptionSeen": false
+    },
+    "StrictDirection": {
+      "DescriptionSeen": false
+    },
+    "Range": {
+      "DescriptionSeen": false
+    },
+    "WallsRange": {
+      "DescriptionSeen": false
+    },
+    "Fallback": {
+      "DescriptionSeen": false
+    },
+    "PlaceRate": {
+      "DescriptionSeen": false
+    },
+    "Swap": {
+      "DescriptionSeen": false
+    },
+    "NoFeetReplace": {
+      "DescriptionSeen": false
+    },
+    "Advanced": {
+      "DescriptionSeen": false
+    },
+    "Advanced.AntiBreak": {
+      "DescriptionSeen": false
+    },
+    "Advanced.OnlyWhileSneaking": {
+      "DescriptionSeen": false
+    },
+    "AutoDisable": {
+      "DescriptionSeen": false
+    },
+    "AutoDisable.OnStep": {
+      "DescriptionSeen": false
+    },
+    "AutoDisable.OnTP": {
+      "DescriptionSeen": false
+    },
+    "AutoDisable.WhenDone": {
+      "DescriptionSeen": false
+    },
+    "Targets": {
+      "DescriptionSeen": false
+    },
+    "Targets.Players": {
+      "DescriptionSeen": false
+    },
+    "Targets.Friends": {
+      "DescriptionSeen": false
+    },
+    "Targets.Animals": {
+      "DescriptionSeen": false
+    },
+    "Targets.Monsters": {
+      "DescriptionSeen": false
+    }
+  },
+  "AutoWalk": {
+    "DescriptionSeen": false,
+    "Backwards": {
+      "DescriptionSeen": false
+    },
+    "Mode": {
+      "DescriptionSeen": false
+    }
+  },
+  "AutoWeapon": {
+    "DescriptionSeen": false,
+    "Silent": {
+      "DescriptionSeen": false
+    },
+    "Weapon": {
+      "DescriptionSeen": false
+    },
+    "Preserve": {
+      "DescriptionSeen": false
+    }
+  },
+  "AutoWeb": {
+    "DescriptionSeen": false,
+    "Render": {
+      "DescriptionSeen": false
+    },
+    "Render.Color": {
+      "DescriptionSeen": false
+    },
+    "Render.Outline": {
+      "DescriptionSeen": false
+    },
+    "MultiTask": {
+      "DescriptionSeen": false
+    },
+    "Place": {
+      "DescriptionSeen": false
+    },
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "Rotate": {
+      "DescriptionSeen": false
+    },
+    "Range": {
+      "DescriptionSeen": false
+    },
+    "WallsRange": {
+      "DescriptionSeen": false
+    },
+    "PlaceRate": {
+      "DescriptionSeen": false
+    },
+    "Interval": {
+      "DescriptionSeen": false
+    },
+    "RayCast": {
+      "DescriptionSeen": false
+    },
+    "StrictDirection": {
+      "DescriptionSeen": false
+    },
+    "Swap": {
+      "DescriptionSeen": false
+    },
+    "Predictive": {
+      "DescriptionSeen": false
+    },
+    "Double": {
+      "DescriptionSeen": false
+    },
+    "OnlyWhileSneaking": {
+      "DescriptionSeen": false
+    },
+    "AutoDisable": {
+      "DescriptionSeen": false
+    },
+    "AutoDisable.DisableOnJump": {
+      "DescriptionSeen": false
+    },
+    "AutoDisable.DisableOnTP": {
+      "DescriptionSeen": false
+    },
+    "AutoDisable.DisableWhenDone": {
+      "DescriptionSeen": false
+    },
+    "Targets": {
+      "DescriptionSeen": false
+    },
+    "Targets.Players": {
+      "DescriptionSeen": false
+    },
+    "Targets.Friends": {
+      "DescriptionSeen": false
+    },
+    "Targets.Animals": {
+      "DescriptionSeen": false
+    },
+    "Targets.Monsters": {
+      "DescriptionSeen": false
+    }
+  },
+  "Background": {
+    "DescriptionSeen": false,
+    "Distance": {
+      "DescriptionSeen": false
+    },
+    "Color": {
+      "DescriptionSeen": false
+    }
+  },
+  "BeaconSelector": {
+    "DescriptionSeen": false
+  },
+  "BetterTab": {
+    "DescriptionSeen": false,
+    "MaxSize": {
+      "DescriptionSeen": false
+    },
+    "MaxHeight": {
+      "DescriptionSeen": false
+    },
+    "ShowPing": {
+      "DescriptionSeen": false
+    },
+    "Friends": {
+      "DescriptionSeen": false
+    },
+    "Users": {
+      "DescriptionSeen": false
+    }
+  },
+  "Binds": {
+    "DescriptionSeen": false,
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "Text": {
+      "DescriptionSeen": false
+    },
+    "Bind": {
+      "DescriptionSeen": false
+    },
+    "Brackets": {
+      "DescriptionSeen": false
+    },
+    "Shadow": {
+      "DescriptionSeen": false
+    }
+  },
+  "BlockHighlight": {
+    "DescriptionSeen": false,
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "Color": {
+      "DescriptionSeen": false
+    },
+    "Outline": {
+      "DescriptionSeen": false
+    },
+    "Shader": {
+      "DescriptionSeen": false
+    },
+    "Shader.Shader": {
+      "DescriptionSeen": false
+    },
+    "Shader.FastRender": {
+      "DescriptionSeen": false
+    },
+    "Shader.Blur": {
+      "DescriptionSeen": false
+    },
+    "Shader.Glow": {
+      "DescriptionSeen": false
+    },
+    "Shader.Strength": {
+      "DescriptionSeen": false
+    },
+    "Shader.Radius": {
+      "DescriptionSeen": false
+    },
+    "Shader.Opacity": {
+      "DescriptionSeen": false
+    },
+    "Shader.Fill": {
+      "DescriptionSeen": false
+    },
+    "Fade": {
+      "DescriptionSeen": false
+    },
+    "Fade.OnlyLast": {
+      "DescriptionSeen": false
+    },
+    "Fade.Ticks": {
+      "DescriptionSeen": false
+    }
+  },
+  "BoatFly": {
+    "DescriptionSeen": false,
+    "Sync": {
+      "DescriptionSeen": false
+    },
+    "Hover": {
+      "DescriptionSeen": false
+    },
+    "Vanilla": {
+      "DescriptionSeen": false
+    },
+    "Bypass": {
+      "DescriptionSeen": false
+    },
+    "Bypass.Strong": {
+      "DescriptionSeen": false
+    },
+    "Bypass.Semi": {
+      "DescriptionSeen": false
+    },
+    "Speed": {
+      "DescriptionSeen": false
+    },
+    "UpSpeed": {
+      "DescriptionSeen": false
+    },
+    "DownSpeed": {
+      "DescriptionSeen": false
+    },
+    "MaxFrequency": {
+      "DescriptionSeen": false
+    },
+    "Down": {
+      "DescriptionSeen": false
+    }
+  },
+  "BossStack": {
+    "DescriptionSeen": false,
+    "Stack": {
+      "DescriptionSeen": false
+    },
+    "HideName": {
+      "DescriptionSeen": false
+    }
+  },
+  "BowAim": {
+    "DescriptionSeen": false,
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "Aim": {
+      "DescriptionSeen": false
+    },
+    "Target": {
+      "DescriptionSeen": false
+    },
+    "Priority": {
+      "DescriptionSeen": false
+    },
+    "Targets": {
+      "DescriptionSeen": false
+    },
+    "Targets.Players": {
+      "DescriptionSeen": false
+    },
+    "Targets.Friends": {
+      "DescriptionSeen": false
+    },
+    "Targets.Animals": {
+      "DescriptionSeen": false
+    },
+    "Targets.Monsters": {
+      "DescriptionSeen": false
+    }
+  },
+  "BowSpam": {
+    "DescriptionSeen": false,
+    "Delay": {
+      "DescriptionSeen": false
+    }
+  },
+  "Breadcrumbs": {
+    "DescriptionSeen": false,
+    "OnlyRender": {
+      "DescriptionSeen": false
+    },
+    "Delay": {
+      "DescriptionSeen": false
+    },
+    "Limit": {
+      "DescriptionSeen": false
+    },
+    "Limit.MaxVertices": {
+      "DescriptionSeen": false
+    },
+    "Limit.FadeTime": {
+      "DescriptionSeen": false
+    },
+    "Color": {
+      "DescriptionSeen": false
+    },
+    "Color.LineGradient": {
+      "DescriptionSeen": false
+    },
+    "Color.Speed": {
+      "DescriptionSeen": false
+    }
+  },
+  "BreakHighlight": {
+    "DescriptionSeen": false,
+    "Predict": {
+      "DescriptionSeen": false
+    },
+    "BreakAlert": {
+      "DescriptionSeen": false
+    },
+    "BreakAlert.OnlyObby": {
+      "DescriptionSeen": false
+    },
+    "Self": {
+      "DescriptionSeen": false
+    },
+    "Animation": {
+      "DescriptionSeen": false
+    },
+    "Color": {
+      "DescriptionSeen": false
+    },
+    "Outline": {
+      "DescriptionSeen": false
+    },
+    "Shader": {
+      "DescriptionSeen": false
+    },
+    "Shader.Shader": {
+      "DescriptionSeen": false
+    },
+    "Shader.FastRender": {
+      "DescriptionSeen": false
+    },
+    "Shader.Blur": {
+      "DescriptionSeen": false
+    },
+    "Shader.Glow": {
+      "DescriptionSeen": false
+    },
+    "Shader.Strength": {
+      "DescriptionSeen": false
+    },
+    "Shader.Radius": {
+      "DescriptionSeen": false
+    },
+    "Shader.Opacity": {
+      "DescriptionSeen": false
+    },
+    "Shader.Fill": {
+      "DescriptionSeen": false
+    },
+    "Percentage": {
+      "DescriptionSeen": false
+    },
+    "Percentage.Scale": {
+      "DescriptionSeen": false
+    },
+    "Percentage.CustomFont": {
+      "DescriptionSeen": false
+    },
+    "Percentage.CustomColor": {
+      "DescriptionSeen": false
+    }
+  },
+  "CameraClip": {
+    "DescriptionSeen": false,
+    "Clip": {
+      "DescriptionSeen": false
+    },
+    "Distance": {
+      "DescriptionSeen": false
+    }
+  },
+  "Capes": {
+    "DescriptionSeen": false,
+    "Anonymous": {
+      "DescriptionSeen": false
+    }
+  },
+  "Chams": {
+    "DescriptionSeen": false,
+    "NoShadows": {
+      "DescriptionSeen": false
+    },
+    "Tint": {
+      "DescriptionSeen": false
+    },
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "WallOpacity": {
+      "DescriptionSeen": false
+    },
+    "Shader": {
+      "DescriptionSeen": false
+    },
+    "Shader.FastRender": {
+      "DescriptionSeen": false
+    },
+    "Shader.Radius": {
+      "DescriptionSeen": false
+    },
+    "Shader.Glow": {
+      "DescriptionSeen": false
+    },
+    "Shader.Strength": {
+      "DescriptionSeen": false
+    },
+    "Shader.Opacity": {
+      "DescriptionSeen": false
+    },
+    "Shader.Fill": {
+      "DescriptionSeen": false
+    },
+    "Shader.Hidden": {
+      "DescriptionSeen": false
+    },
+    "Shader.Outline": {
+      "DescriptionSeen": false
+    },
+    "Range": {
+      "DescriptionSeen": false
+    },
+    "Players": {
+      "DescriptionSeen": false
+    },
+    "Players.Self": {
+      "DescriptionSeen": false
+    },
+    "Players.Tint": {
+      "DescriptionSeen": false
+    },
+    "Players.Color": {
+      "DescriptionSeen": false
+    },
+    "Friends": {
+      "DescriptionSeen": false
+    },
+    "Friends.Tint": {
+      "DescriptionSeen": false
+    },
+    "Friends.Color": {
+      "DescriptionSeen": false
+    },
+    "Targets": {
+      "DescriptionSeen": false
+    },
+    "Targets.Tint": {
+      "DescriptionSeen": false
+    },
+    "Targets.Color": {
+      "DescriptionSeen": false
+    },
+    "Animals": {
+      "DescriptionSeen": false
+    },
+    "Animals.Tint": {
+      "DescriptionSeen": false
+    },
+    "Animals.Color": {
+      "DescriptionSeen": false
+    },
+    "Monsters": {
+      "DescriptionSeen": false
+    },
+    "Monsters.Color": {
+      "DescriptionSeen": false
+    },
+    "Crystals": {
+      "DescriptionSeen": false
+    },
+    "Crystals.Scale": {
+      "DescriptionSeen": false
+    },
+    "Crystals.VScale": {
+      "DescriptionSeen": false
+    },
+    "Crystals.Spin": {
+      "DescriptionSeen": false
+    },
+    "Crystals.Bounce": {
+      "DescriptionSeen": false
+    },
+    "Crystals.CoreTint": {
+      "DescriptionSeen": false
+    },
+    "Crystals.FrameTint": {
+      "DescriptionSeen": false
+    },
+    "Crystals.Color": {
+      "DescriptionSeen": false
+    },
+    "Hands": {
+      "DescriptionSeen": false
+    },
+    "Hands.Textured": {
+      "DescriptionSeen": false
+    },
+    "Hands.Fill": {
+      "DescriptionSeen": false
+    },
+    "Hands.Outline": {
+      "DescriptionSeen": false
+    },
+    "Hands.Shader": {
+      "DescriptionSeen": false
+    },
+    "Hands.FastRender": {
+      "DescriptionSeen": false
+    },
+    "Hands.Blur": {
+      "DescriptionSeen": false
+    },
+    "Hands.Glow": {
+      "DescriptionSeen": false
+    },
+    "Hands.Strength": {
+      "DescriptionSeen": false
+    },
+    "Hands.Radius": {
+      "DescriptionSeen": false
+    },
+    "Hands.Opacity": {
+      "DescriptionSeen": false
+    },
+    "Hands.Image": {
+      "DescriptionSeen": false
+    },
+    "Explosions": {
+      "DescriptionSeen": false
+    },
+    "Explosions.Textured": {
+      "DescriptionSeen": false
+    },
+    "Explosions.Fill": {
+      "DescriptionSeen": false
+    },
+    "Explosions.Outline": {
+      "DescriptionSeen": false
+    },
+    "Explosions.Shader": {
+      "DescriptionSeen": false
+    },
+    "Explosions.FastRender": {
+      "DescriptionSeen": false
+    },
+    "Explosions.Blur": {
+      "DescriptionSeen": false
+    },
+    "Explosions.Glow": {
+      "DescriptionSeen": false
+    },
+    "Explosions.Strength": {
+      "DescriptionSeen": false
+    },
+    "Explosions.Radius": {
+      "DescriptionSeen": false
+    },
+    "Explosions.Opacity": {
+      "DescriptionSeen": false
+    },
+    "Explosions.Image": {
+      "DescriptionSeen": false
+    }
+  },
+  "Chat": {
+    "DescriptionSeen": false,
+    "ChatPrefix": {
+      "DescriptionSeen": false
+    }
+  },
+  "ChestCount": {
+    "DescriptionSeen": false,
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "Number": {
+      "DescriptionSeen": false
+    },
+    "Text": {
+      "DescriptionSeen": false
+    },
+    "Shadow": {
+      "DescriptionSeen": false
+    }
+  },
+  "ChestStealer": {
+    "DescriptionSeen": false,
+    "Smart": {
+      "DescriptionSeen": false
+    },
+    "Smart.Durability": {
+      "DescriptionSeen": false
+    },
+    "SuccessRate": {
+      "DescriptionSeen": false
+    },
+    "MinDelay": {
+      "DescriptionSeen": false
+    },
+    "MaxDelay": {
+      "DescriptionSeen": false
+    },
+    "RandomDelay": {
+      "DescriptionSeen": false
+    },
+    "InitialDelay": {
+      "DescriptionSeen": false
+    },
+    "FinalDelay": {
+      "DescriptionSeen": false
+    }
+  },
+  "ChorusPostpone": {
+    "DescriptionSeen": false,
+    "Bind": {
+      "DescriptionSeen": false
+    },
+    "ItemSwap": {
+      "DescriptionSeen": false
+    }
+  },
+  "ClickFly": {
+    "DescriptionSeen": false,
+    "Render": {
+      "DescriptionSeen": false
+    },
+    "Render.Color": {
+      "DescriptionSeen": false
+    },
+    "Render.Outline": {
+      "DescriptionSeen": false
+    },
+    "MaxDist": {
+      "DescriptionSeen": false
+    },
+    "Speed": {
+      "DescriptionSeen": false
+    },
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "Bind": {
+      "DescriptionSeen": false
+    }
+  },
+  "ClientPackets": {
+    "DescriptionSeen": false,
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "Length": {
+      "DescriptionSeen": false
+    },
+    "FromZero": {
+      "DescriptionSeen": false
+    },
+    "LineTop": {
+      "DescriptionSeen": false
+    },
+    "LineBottom": {
+      "DescriptionSeen": false
+    },
+    "Minimalistic": {
+      "DescriptionSeen": false
+    },
+    "Header": {
+      "DescriptionSeen": false
+    },
+    "Values": {
+      "DescriptionSeen": false
+    },
+    "Shadow": {
+      "DescriptionSeen": false
+    },
+    "Mode": {
+      "DescriptionSeen": false
+    }
+  },
+  "ClientSpoof": {
+    "DescriptionSeen": false,
+    "FakeVanilla": {
+      "DescriptionSeen": false
+    },
+    "NoRequired": {
+      "DescriptionSeen": false
+    }
+  },
+  "Clock": {
+    "DescriptionSeen": false,
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "Text": {
+      "DescriptionSeen": false
+    },
+    "Shadow": {
+      "DescriptionSeen": false
+    }
+  },
+  "Colors": {
+    "DescriptionSeen": false,
+    "Client": {
+      "DescriptionSeen": false
+    },
+    "ClientGradient": {
+      "DescriptionSeen": false
+    },
+    "ModuleColors": {
+      "DescriptionSeen": false
+    }
+  },
+  "Coordinates": {
+    "DescriptionSeen": false,
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "FreecamCoords": {
+      "DescriptionSeen": false
+    },
+    "NetherCoords": {
+      "DescriptionSeen": false
+    },
+    "NoDecimal": {
+      "DescriptionSeen": false
+    },
+    "XYZ": {
+      "DescriptionSeen": false
+    },
+    "Coords": {
+      "DescriptionSeen": false
+    },
+    "Nether": {
+      "DescriptionSeen": false
+    },
+    "Shadow": {
+      "DescriptionSeen": false
+    }
+  },
+  "Criticals": {
+    "DescriptionSeen": false,
+    "NCPStrict": {
+      "DescriptionSeen": false
+    },
+    "Still": {
+      "DescriptionSeen": false
+    },
+    "Ticks": {
+      "DescriptionSeen": false
+    },
+    "OnlyAura": {
+      "DescriptionSeen": false
+    }
+  },
+  "Crosshair": {
+    "DescriptionSeen": false,
+    "Rounded": {
+      "DescriptionSeen": false
+    },
+    "Color": {
+      "DescriptionSeen": false
+    },
+    "Length": {
+      "DescriptionSeen": false
+    },
+    "Width": {
+      "DescriptionSeen": false
+    }
+  },
+  "CrystalAssist": {
+    "DescriptionSeen": false,
+    "AntiSuicide": {
+      "DescriptionSeen": false
+    },
+    "OnlyOwn": {
+      "DescriptionSeen": false
+    },
+    "AimPoint": {
+      "DescriptionSeen": false
+    },
+    "StopOverCrystal": {
+      "DescriptionSeen": false
+    },
+    "OnlyWhenClicking": {
+      "DescriptionSeen": false
+    },
+    "Ticks": {
+      "DescriptionSeen": false
+    },
+    "Range": {
+      "DescriptionSeen": false
+    },
+    "ThroughWalls": {
+      "DescriptionSeen": false
+    },
+    "BoxScale": {
+      "DescriptionSeen": false
+    },
+    "MinSpeed": {
+      "DescriptionSeen": false
+    },
+    "MaxSpeed": {
+      "DescriptionSeen": false
+    },
+    "MaxDelta": {
+      "DescriptionSeen": false
+    },
+    "DontResist": {
+      "DescriptionSeen": false
+    },
+    "Vertical": {
+      "DescriptionSeen": false
+    },
+    "FOV": {
+      "DescriptionSeen": false
+    },
+    "Priority": {
+      "DescriptionSeen": false
+    }
+  },
+  "CrystalOptimizer": {
+    "DescriptionSeen": false,
+    "Mode": {
+      "DescriptionSeen": false
+    }
+  },
+  "CrystalSpeed": {
+    "DescriptionSeen": false,
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "Length": {
+      "DescriptionSeen": false
+    },
+    "FromZero": {
+      "DescriptionSeen": false
+    },
+    "LineTop": {
+      "DescriptionSeen": false
+    },
+    "LineBottom": {
+      "DescriptionSeen": false
+    },
+    "Minimalistic": {
+      "DescriptionSeen": false
+    },
+    "Header": {
+      "DescriptionSeen": false
+    },
+    "Values": {
+      "DescriptionSeen": false
+    },
+    "Shadow": {
+      "DescriptionSeen": false
+    },
+    "OnlyWhenAC": {
+      "DescriptionSeen": false
+    }
+  },
+  "CrystalTrigger": {
+    "DescriptionSeen": false,
+    "Jitter": {
+      "DescriptionSeen": false
+    },
+    "AutoSwap": {
+      "DescriptionSeen": false
+    },
+    "CrystalOnly": {
+      "DescriptionSeen": false
+    },
+    "Break": {
+      "DescriptionSeen": false
+    },
+    "Break.OnlyOwn": {
+      "DescriptionSeen": false
+    },
+    "Break.OnlyWhenHolding": {
+      "DescriptionSeen": false
+    },
+    "Break.BreakClicking": {
+      "DescriptionSeen": false
+    },
+    "Break.BreakMinCPS": {
+      "DescriptionSeen": false
+    },
+    "Break.BreakMaxCPS": {
+      "DescriptionSeen": false
+    },
+    "Break.MinSwapDelay": {
+      "DescriptionSeen": false
+    },
+    "Break.MaxSwapDelay": {
+      "DescriptionSeen": false
+    },
+    "Break.MinOnsetDelay": {
+      "DescriptionSeen": false
+    },
+    "Break.MaxOnsetDelay": {
+      "DescriptionSeen": false
+    },
+    "Break.MinOffsetDelay": {
+      "DescriptionSeen": false
+    },
+    "Break.MaxOffsetDelay": {
+      "DescriptionSeen": false
+    },
+    "Place": {
+      "DescriptionSeen": false
+    },
+    "Place.OnlyWhenHolding": {
+      "DescriptionSeen": false
+    },
+    "Place.PlaceClicking": {
+      "DescriptionSeen": false
+    },
+    "Place.PlaceMinCPS": {
+      "DescriptionSeen": false
+    },
+    "Place.PlaceMaxCPS": {
+      "DescriptionSeen": false
+    },
+    "Place.MinSwapDelay": {
+      "DescriptionSeen": false
+    },
+    "Place.MaxSwapDelay": {
+      "DescriptionSeen": false
+    },
+    "Place.MinOnsetDelay": {
+      "DescriptionSeen": false
+    },
+    "Place.MaxOnsetDelay": {
+      "DescriptionSeen": false
+    },
+    "Place.MinOffsetDelay": {
+      "DescriptionSeen": false
+    },
+    "Place.MaxOffsetDelay": {
+      "DescriptionSeen": false
+    },
+    "Obsidian": {
+      "DescriptionSeen": false
+    },
+    "AntiSuicide": {
+      "DescriptionSeen": false
+    },
+    "MaxSelfDmg": {
+      "DescriptionSeen": false
+    },
+    "Targeting": {
+      "DescriptionSeen": false
+    },
+    "BreakMinDmg": {
+      "DescriptionSeen": false
+    },
+    "PlaceMinDmg": {
+      "DescriptionSeen": false
+    },
+    "Targets": {
+      "DescriptionSeen": false
+    },
+    "Targets.Players": {
+      "DescriptionSeen": false
+    },
+    "Targets.Friends": {
+      "DescriptionSeen": false
+    },
+    "Targets.Animals": {
+      "DescriptionSeen": false
+    },
+    "Targets.Monsters": {
+      "DescriptionSeen": false
+    }
+  },
+  "Crystals": {
+    "DescriptionSeen": false,
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "Text": {
+      "DescriptionSeen": false
+    },
+    "Count": {
+      "DescriptionSeen": false
+    },
+    "Shadow": {
+      "DescriptionSeen": false
+    }
+  },
+  "CustomFont": {
+    "DescriptionSeen": false,
+    "Font": {
+      "DescriptionSeen": false
+    }
+  },
+  "Direction": {
+    "DescriptionSeen": false,
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "InterCardinal": {
+      "DescriptionSeen": false
+    },
+    "Facing": {
+      "DescriptionSeen": false
+    },
+    "Direction": {
+      "DescriptionSeen": false
+    },
+    "Shadow": {
+      "DescriptionSeen": false
+    }
+  },
+  "DiscordPresence": {
+    "DescriptionSeen": false
+  },
+  "Durability": {
+    "DescriptionSeen": false,
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "Length": {
+      "DescriptionSeen": false
+    },
+    "FromZero": {
+      "DescriptionSeen": false
+    },
+    "LineTop": {
+      "DescriptionSeen": false
+    },
+    "LineBottom": {
+      "DescriptionSeen": false
+    },
+    "Minimalistic": {
+      "DescriptionSeen": false
+    },
+    "Header": {
+      "DescriptionSeen": false
+    },
+    "Values": {
+      "DescriptionSeen": false
+    },
+    "Shadow": {
+      "DescriptionSeen": false
+    }
+  },
+  "ESP": {
+    "DescriptionSeen": false,
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "Fade": {
+      "DescriptionSeen": false
+    },
+    "Fade.MinDist": {
+      "DescriptionSeen": false
+    },
+    "Fade.Factor": {
+      "DescriptionSeen": false
+    },
+    "Players": {
+      "DescriptionSeen": false
+    },
+    "Players.Self": {
+      "DescriptionSeen": false
+    },
+    "Players.Color": {
+      "DescriptionSeen": false
+    },
+    "Players.Outline": {
+      "DescriptionSeen": false
+    },
+    "Friends": {
+      "DescriptionSeen": false
+    },
+    "Friends.Color": {
+      "DescriptionSeen": false
+    },
+    "Friends.Outline": {
+      "DescriptionSeen": false
+    },
+    "Targets": {
+      "DescriptionSeen": false
+    },
+    "Targets.Color": {
+      "DescriptionSeen": false
+    },
+    "Targets.Outline": {
+      "DescriptionSeen": false
+    },
+    "Animals": {
+      "DescriptionSeen": false
+    },
+    "Animals.Color": {
+      "DescriptionSeen": false
+    },
+    "Animals.Outline": {
+      "DescriptionSeen": false
+    },
+    "Monsters": {
+      "DescriptionSeen": false
+    },
+    "Monsters.Color": {
+      "DescriptionSeen": false
+    },
+    "Monsters.Outline": {
+      "DescriptionSeen": false
+    },
+    "Crystals": {
+      "DescriptionSeen": false
+    },
+    "Crystals.Color": {
+      "DescriptionSeen": false
+    },
+    "Crystals.Outline": {
+      "DescriptionSeen": false
+    },
+    "Items": {
+      "DescriptionSeen": false
+    },
+    "Items.Color": {
+      "DescriptionSeen": false
+    },
+    "Items.Outline": {
+      "DescriptionSeen": false
+    },
+    "Vehicles": {
+      "DescriptionSeen": false
+    },
+    "Vehicles.Color": {
+      "DescriptionSeen": false
+    },
+    "Vehicles.Outline": {
+      "DescriptionSeen": false
+    },
+    "Pearls": {
+      "DescriptionSeen": false
+    },
+    "Pearls.Color": {
+      "DescriptionSeen": false
+    },
+    "Pearls.Outline": {
+      "DescriptionSeen": false
+    },
+    "EndEyes": {
+      "DescriptionSeen": false
+    },
+    "EndEyes.Color": {
+      "DescriptionSeen": false
+    },
+    "EndEyes.Outline": {
+      "DescriptionSeen": false
+    },
+    "NoTexture": {
+      "DescriptionSeen": false
+    },
+    "NoTexture.Players": {
+      "DescriptionSeen": false
+    },
+    "NoTexture.Animals": {
+      "DescriptionSeen": false
+    },
+    "NoTexture.Monsters": {
+      "DescriptionSeen": false
+    },
+    "NoTexture.Crystals": {
+      "DescriptionSeen": false
+    }
+  },
+  "EXp": {
+    "DescriptionSeen": false,
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "Text": {
+      "DescriptionSeen": false
+    },
+    "Count": {
+      "DescriptionSeen": false
+    },
+    "Shadow": {
+      "DescriptionSeen": false
+    }
+  },
+  "Effects": {
+    "DescriptionSeen": false,
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "Dynamic": {
+      "DescriptionSeen": false
+    },
+    "Text": {
+      "DescriptionSeen": false
+    },
+    "Shadow": {
+      "DescriptionSeen": false
+    }
+  },
+  "ElytraBoost": {
+    "DescriptionSeen": false,
+    "Exploit": {
+      "DescriptionSeen": false
+    },
+    "Exploit.Await": {
+      "DescriptionSeen": false
+    },
+    "Exploit.Freeze": {
+      "DescriptionSeen": false
+    },
+    "AutoTakeoff": {
+      "DescriptionSeen": false
+    },
+    "UseTimer": {
+      "DescriptionSeen": false
+    },
+    "Delay": {
+      "DescriptionSeen": false
+    },
+    "AutoBoost": {
+      "DescriptionSeen": false
+    },
+    "Boost": {
+      "DescriptionSeen": false
+    },
+    "Duration": {
+      "DescriptionSeen": false
+    },
+    "Cooldown": {
+      "DescriptionSeen": false
+    },
+    "MaxSpeed": {
+      "DescriptionSeen": false
+    }
+  },
+  "ElytraFly": {
+    "DescriptionSeen": false,
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "Packet": {
+      "DescriptionSeen": false
+    },
+    "MinHeight": {
+      "DescriptionSeen": false
+    },
+    "MaxHeight": {
+      "DescriptionSeen": false
+    },
+    "PitchStep": {
+      "DescriptionSeen": false
+    },
+    "MinSpeed": {
+      "DescriptionSeen": false
+    },
+    "MaxSpeed": {
+      "DescriptionSeen": false
+    },
+    "Glide": {
+      "DescriptionSeen": false
+    },
+    "Grounded": {
+      "DescriptionSeen": false
+    },
+    "AntiUnloaded": {
+      "DescriptionSeen": false
+    },
+    "AvoidCollisions": {
+      "DescriptionSeen": false
+    },
+    "AvoidCollisions.Ticks": {
+      "DescriptionSeen": false
+    },
+    "Takeoff": {
+      "DescriptionSeen": false
+    },
+    "UseTimer": {
+      "DescriptionSeen": false
+    },
+    "Delay": {
+      "DescriptionSeen": false
+    },
+    "Limit": {
+      "DescriptionSeen": false
+    },
+    "Speed": {
+      "DescriptionSeen": false
+    },
+    "UpSpeed": {
+      "DescriptionSeen": false
+    },
+    "DownSpeed": {
+      "DescriptionSeen": false
+    },
+    "AccelSpeed": {
+      "DescriptionSeen": false
+    },
+    "Acceleration": {
+      "DescriptionSeen": false
+    },
+    "SwingRocket": {
+      "DescriptionSeen": false
+    },
+    "SwingRocket.SwingDelay": {
+      "DescriptionSeen": false
+    }
+  },
+  "ElytraRecast": {
+    "DescriptionSeen": false,
+    "Pitch": {
+      "DescriptionSeen": false
+    },
+    "YawSnap": {
+      "DescriptionSeen": false
+    },
+    "Baritone": {
+      "DescriptionSeen": false
+    },
+    "AutoTakeoff": {
+      "DescriptionSeen": false
+    },
+    "AutoTakeoff.UseTimer": {
+      "DescriptionSeen": false
+    },
+    "AutoTakeoff.Delay": {
+      "DescriptionSeen": false
+    },
+    "AutoMend": {
+      "DescriptionSeen": false
+    },
+    "FreeLook": {
+      "DescriptionSeen": false
+    }
+  },
+  "EntityControl": {
+    "DescriptionSeen": false
+  },
+  "EntitySpeed": {
+    "DescriptionSeen": false,
+    "Boats": {
+      "DescriptionSeen": false
+    },
+    "Speed": {
+      "DescriptionSeen": false
+    },
+    "FastFall": {
+      "DescriptionSeen": false
+    },
+    "NCPStrict": {
+      "DescriptionSeen": false
+    },
+    "InWater": {
+      "DescriptionSeen": false
+    }
+  },
+  "ExtendFirework": {
+    "DescriptionSeen": false,
+    "ChunkLimit": {
+      "DescriptionSeen": false
+    }
+  },
+  "ExtraChat": {
+    "DescriptionSeen": false,
+    "Suffix": {
+      "DescriptionSeen": false
+    },
+    "Color": {
+      "DescriptionSeen": false
+    },
+    "Fade": {
+      "DescriptionSeen": false
+    },
+    "Fade.Duration": {
+      "DescriptionSeen": false
+    },
+    "Slide": {
+      "DescriptionSeen": false
+    },
+    "Slide.Duration": {
+      "DescriptionSeen": false
+    },
+    "Timestamps": {
+      "DescriptionSeen": false
+    },
+    "PortalChat": {
+      "DescriptionSeen": false
+    },
+    "FriendNotify": {
+      "DescriptionSeen": false
+    }
+  },
+  "FOV": {
+    "DescriptionSeen": false,
+    "FOV": {
+      "DescriptionSeen": false
+    }
+  },
+  "FPS": {
+    "DescriptionSeen": false,
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "ShowPrefix": {
+      "DescriptionSeen": false
+    },
+    "Prefix": {
+      "DescriptionSeen": false
+    },
+    "Number": {
+      "DescriptionSeen": false
+    },
+    "Suffix": {
+      "DescriptionSeen": false
+    },
+    "Shadow": {
+      "DescriptionSeen": false
+    },
+    "FastUpdate": {
+      "DescriptionSeen": false
+    }
+  },
+  "FakeLag": {
+    "DescriptionSeen": false,
+    "Render": {
+      "DescriptionSeen": false
+    },
+    "AllowInteract": {
+      "DescriptionSeen": false
+    },
+    "Pulse": {
+      "DescriptionSeen": false
+    },
+    "Pulse.ReduceExposure": {
+      "DescriptionSeen": false
+    },
+    "Pulse.Factor": {
+      "DescriptionSeen": false
+    },
+    "Pulse.Strict": {
+      "DescriptionSeen": false
+    }
+  },
+  "FakePlayer": {
+    "DescriptionSeen": false,
+    "Move": {
+      "DescriptionSeen": false
+    },
+    "Loop": {
+      "DescriptionSeen": false
+    },
+    "Move.Record": {
+      "DescriptionSeen": false
+    },
+    "Damage": {
+      "DescriptionSeen": false
+    },
+    "GApple": {
+      "DescriptionSeen": false
+    },
+    "GApple.Delay": {
+      "DescriptionSeen": false
+    }
+  },
+  "FastFall": {
+    "DescriptionSeen": false,
+    "Accelerate": {
+      "DescriptionSeen": false
+    },
+    "Horizontal": {
+      "DescriptionSeen": false
+    },
+    "Multiplier": {
+      "DescriptionSeen": false
+    },
+    "ShiftTicks": {
+      "DescriptionSeen": false
+    },
+    "ShiftHeight": {
+      "DescriptionSeen": false
+    }
+  },
+  "FastLatency": {
+    "DescriptionSeen": false
+  },
+  "FastProjectile": {
+    "DescriptionSeen": false,
+    "Rotate": {
+      "DescriptionSeen": false
+    },
+    "Minimize": {
+      "DescriptionSeen": false
+    },
+    "Factor": {
+      "DescriptionSeen": false
+    },
+    "Cooldown": {
+      "DescriptionSeen": false
+    },
+    "Selection": {
+      "DescriptionSeen": false
+    },
+    "Selection.Bows": {
+      "DescriptionSeen": false
+    },
+    "Selection.Tridents": {
+      "DescriptionSeen": false
+    },
+    "Selection.EPearls": {
+      "DescriptionSeen": false
+    },
+    "Selection.Xp": {
+      "DescriptionSeen": false
+    },
+    "Selection.Eggs": {
+      "DescriptionSeen": false
+    },
+    "Selection.SplashPotions": {
+      "DescriptionSeen": false
+    },
+    "Selection.Snowballs": {
+      "DescriptionSeen": false
+    }
+  },
+  "FastSwim": {
+    "DescriptionSeen": false,
+    "Acceleration": {
+      "DescriptionSeen": false
+    },
+    "Speed": {
+      "DescriptionSeen": false
+    },
+    "UpSpeed": {
+      "DescriptionSeen": false
+    },
+    "DownSpeed": {
+      "DescriptionSeen": false
+    },
+    "FallSpeed": {
+      "DescriptionSeen": false
+    },
+    "LavaSpeed": {
+      "DescriptionSeen": false
+    },
+    "LavaUp": {
+      "DescriptionSeen": false
+    },
+    "LavaDown": {
+      "DescriptionSeen": false
+    },
+    "LavaFall": {
+      "DescriptionSeen": false
+    },
+    "AntiKick": {
+      "DescriptionSeen": false
+    },
+    "AntiKick.Interval": {
+      "DescriptionSeen": false
+    },
+    "AntiKick.Ticks": {
+      "DescriptionSeen": false
+    }
+  },
+  "FastUse": {
+    "DescriptionSeen": false,
+    "NCPStrict": {
+      "DescriptionSeen": false
+    },
+    "GhostFix": {
+      "DescriptionSeen": false
+    },
+    "Delay": {
+      "DescriptionSeen": false
+    },
+    "StartDelay": {
+      "DescriptionSeen": false
+    },
+    "FastXP": {
+      "DescriptionSeen": false
+    },
+    "FastPlace": {
+      "DescriptionSeen": false
+    },
+    "FastCrystal": {
+      "DescriptionSeen": false
+    },
+    "FastEat": {
+      "DescriptionSeen": false
+    },
+    "NoCrystalPlace": {
+      "DescriptionSeen": false
+    },
+    "PacketEat": {
+      "DescriptionSeen": false
+    }
+  },
+  "Flight": {
+    "DescriptionSeen": false,
+    "Speed": {
+      "DescriptionSeen": false
+    },
+    "UpSpeed": {
+      "DescriptionSeen": false
+    },
+    "DownSpeed": {
+      "DescriptionSeen": false
+    },
+    "AccelSpeed": {
+      "DescriptionSeen": false
+    },
+    "AntiKick": {
+      "DescriptionSeen": false
+    },
+    "InLiquid": {
+      "DescriptionSeen": false
+    },
+    "AvoidUnloaded": {
+      "DescriptionSeen": false
+    },
+    "AvoidUnloaded.Ticks": {
+      "DescriptionSeen": false
+    }
+  },
+  "Framerate": {
+    "DescriptionSeen": false,
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "Length": {
+      "DescriptionSeen": false
+    },
+    "FromZero": {
+      "DescriptionSeen": false
+    },
+    "LineTop": {
+      "DescriptionSeen": false
+    },
+    "LineBottom": {
+      "DescriptionSeen": false
+    },
+    "Minimalistic": {
+      "DescriptionSeen": false
+    },
+    "Header": {
+      "DescriptionSeen": false
+    },
+    "Values": {
+      "DescriptionSeen": false
+    },
+    "Shadow": {
+      "DescriptionSeen": false
+    }
+  },
+  "FreeLook": {
+    "DescriptionSeen": false
+  },
+  "Freecam": {
+    "DescriptionSeen": false,
+    "Rotate": {
+      "DescriptionSeen": false
+    },
+    "Speed": {
+      "DescriptionSeen": false
+    },
+    "VSpeed": {
+      "DescriptionSeen": false
+    },
+    "ScrollSpeed": {
+      "DescriptionSeen": false
+    },
+    "ScrollSpeed.Sensitivity": {
+      "DescriptionSeen": false
+    },
+    "ScrollSpeed.Vertical": {
+      "DescriptionSeen": false
+    },
+    "Interact": {
+      "DescriptionSeen": false
+    },
+    "Control": {
+      "DescriptionSeen": false
+    },
+    "LockOn": {
+      "DescriptionSeen": false
+    },
+    "Follow": {
+      "DescriptionSeen": false
+    },
+    "SoftReload": {
+      "DescriptionSeen": false
+    }
+  },
+  "Friends": {
+    "DescriptionSeen": false,
+    "Friends": {
+      "DescriptionSeen": false
+    }
+  },
+  "FullBright": {
+    "DescriptionSeen": false,
+    "Brightness": {
+      "DescriptionSeen": false
+    },
+    "Gamma": {
+      "DescriptionSeen": false
+    }
+  },
+  "GApples": {
+    "DescriptionSeen": false,
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "Text": {
+      "DescriptionSeen": false
+    },
+    "Count": {
+      "DescriptionSeen": false
+    },
+    "Shadow": {
+      "DescriptionSeen": false
+    }
+  },
+  "GhostRotations": {
+    "DescriptionSeen": false,
+    "Silent": {
+      "DescriptionSeen": false
+    },
+    "MinSpeed": {
+      "DescriptionSeen": false
+    },
+    "MaxSpeed": {
+      "DescriptionSeen": false
+    },
+    "PointScale": {
+      "DescriptionSeen": false
+    },
+    "Tracking": {
+      "DescriptionSeen": false
+    },
+    "Tracking.TrackStrength": {
+      "DescriptionSeen": false
+    },
+    "Tracking.Offset": {
+      "DescriptionSeen": false
+    },
+    "Tracking.Deviation": {
+      "DescriptionSeen": false
+    },
+    "Tracking.Lag": {
+      "DescriptionSeen": false
+    },
+    "Tracking.AccuracyGradient": {
+      "DescriptionSeen": false
+    },
+    "Tracking.VerticalFactor": {
+      "DescriptionSeen": false
+    },
+    "Noise": {
+      "DescriptionSeen": false
+    },
+    "Noise.Horizontal": {
+      "DescriptionSeen": false
+    },
+    "Noise.Vertical": {
+      "DescriptionSeen": false
+    },
+    "Noise.VDeviation": {
+      "DescriptionSeen": false
+    },
+    "Noise.DistanceScale": {
+      "DescriptionSeen": false
+    },
+    "Timeout": {
+      "DescriptionSeen": false
+    }
+  },
+  "GrimDisabler": {
+    "DescriptionSeen": false,
+    "MultiTask": {
+      "DescriptionSeen": false
+    }
+  },
+  "Gui": {
+    "DescriptionSeen": false,
+    "Layout": {
+      "DescriptionSeen": false
+    },
+    "Blur": {
+      "DescriptionSeen": false
+    },
+    "Blur.Passes": {
+      "DescriptionSeen": false
+    },
+    "Blur.Strength": {
+      "DescriptionSeen": false
+    },
+    "Descriptions": {
+      "DescriptionSeen": false
+    },
+    "Descriptions.Delay": {
+      "DescriptionSeen": false
+    },
+    "Descriptions.DescriptionColor": {
+      "DescriptionSeen": false
+    },
+    "SaveScroll": {
+      "DescriptionSeen": false
+    },
+    "SearchBar": {
+      "DescriptionSeen": false
+    },
+    "SearchBar.AnyKeySearch": {
+      "DescriptionSeen": false
+    },
+    "Advanced": {
+      "DescriptionSeen": false
+    },
+    "AA": {
+      "DescriptionSeen": false
+    },
+    "Categories": {
+      "DescriptionSeen": false
+    },
+    "Categories.SingleModule": {
+      "DescriptionSeen": false
+    },
+    "Categories.MaxHeight": {
+      "DescriptionSeen": false
+    },
+    "Categories.MaxHeightPx": {
+      "DescriptionSeen": false
+    },
+    "Categories.MaxHeightPct": {
+      "DescriptionSeen": false
+    },
+    "Categories.ScrollSpeed": {
+      "DescriptionSeen": false
+    },
+    "Categories.AnimTime": {
+      "DescriptionSeen": false
+    },
+    "Toggles": {
+      "DescriptionSeen": false
+    },
+    "ModeBox": {
+      "DescriptionSeen": false
+    }
+  },
+  "HUD": {
+    "DescriptionSeen": false,
+    "Render": {
+      "DescriptionSeen": false
+    },
+    "ChatOffset": {
+      "DescriptionSeen": false
+    },
+    "ToastOffset": {
+      "DescriptionSeen": false
+    },
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "HPadding": {
+      "DescriptionSeen": false
+    },
+    "VPadding": {
+      "DescriptionSeen": false
+    },
+    "Center": {
+      "DescriptionSeen": false
+    },
+    "Background": {
+      "DescriptionSeen": false
+    },
+    "Background.Color": {
+      "DescriptionSeen": false
+    },
+    "Background.Outline": {
+      "DescriptionSeen": false
+    },
+    "Background.Radius": {
+      "DescriptionSeen": false
+    },
+    "Background.Glow": {
+      "DescriptionSeen": false
+    },
+    "Background.Strength": {
+      "DescriptionSeen": false
+    },
+    "Overlap": {
+      "DescriptionSeen": false
+    },
+    "Shadow": {
+      "DescriptionSeen": false
+    },
+    "ShadowGradient": {
+      "DescriptionSeen": false
+    }
+  },
+  "HandTweaks": {
+    "DescriptionSeen": false,
+    "OldAnimations": {
+      "DescriptionSeen": false
+    },
+    "SwingDuration": {
+      "DescriptionSeen": false
+    }
+  },
+  "Health": {
+    "DescriptionSeen": false,
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "Length": {
+      "DescriptionSeen": false
+    },
+    "FromZero": {
+      "DescriptionSeen": false
+    },
+    "LineTop": {
+      "DescriptionSeen": false
+    },
+    "LineBottom": {
+      "DescriptionSeen": false
+    },
+    "Minimalistic": {
+      "DescriptionSeen": false
+    },
+    "Header": {
+      "DescriptionSeen": false
+    },
+    "Values": {
+      "DescriptionSeen": false
+    },
+    "Shadow": {
+      "DescriptionSeen": false
+    }
+  },
+  "Hitboxes": {
+    "DescriptionSeen": false,
+    "Expand": {
+      "DescriptionSeen": false
+    },
+    "Only Weapon": {
+      "DescriptionSeen": false
+    },
+    "Targets": {
+      "DescriptionSeen": false
+    },
+    "Targets.Players": {
+      "DescriptionSeen": false
+    },
+    "Targets.Friends": {
+      "DescriptionSeen": false
+    },
+    "Targets.Animals": {
+      "DescriptionSeen": false
+    },
+    "Targets.Monsters": {
+      "DescriptionSeen": false
+    }
+  },
+  "HoleESP": {
+    "DescriptionSeen": false,
+    "Optimization": {
+      "DescriptionSeen": false
+    },
+    "ScanInterval": {
+      "DescriptionSeen": false
+    },
+    "FrustumCheck": {
+      "DescriptionSeen": false
+    },
+    "Double": {
+      "DescriptionSeen": false
+    },
+    "IgnoreOwn": {
+      "DescriptionSeen": false
+    },
+    "Range": {
+      "DescriptionSeen": false
+    },
+    "DownRange": {
+      "DescriptionSeen": false
+    },
+    "UpRange": {
+      "DescriptionSeen": false
+    },
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "SidesOnly": {
+      "DescriptionSeen": false
+    },
+    "Shader": {
+      "DescriptionSeen": false
+    },
+    "Shader.FastRender": {
+      "DescriptionSeen": false
+    },
+    "Shader.Blur": {
+      "DescriptionSeen": false
+    },
+    "Shader.Glow": {
+      "DescriptionSeen": false
+    },
+    "Shader.Strength": {
+      "DescriptionSeen": false
+    },
+    "Shader.Radius": {
+      "DescriptionSeen": false
+    },
+    "Shader.Opacity": {
+      "DescriptionSeen": false
+    },
+    "Shader.Fill": {
+      "DescriptionSeen": false
+    },
+    "Shader.Outline": {
+      "DescriptionSeen": false
+    },
+    "Shrink": {
+      "DescriptionSeen": false
+    },
+    "Shrink.MinDist": {
+      "DescriptionSeen": false
+    },
+    "Shrink.Factor": {
+      "DescriptionSeen": false
+    },
+    "Fade": {
+      "DescriptionSeen": false
+    },
+    "Fade.MinDist": {
+      "DescriptionSeen": false
+    },
+    "Fade.Factor": {
+      "DescriptionSeen": false
+    },
+    "Safe": {
+      "DescriptionSeen": false
+    },
+    "Height": {
+      "DescriptionSeen": false
+    },
+    "Safe.Top": {
+      "DescriptionSeen": false
+    },
+    "Safe.TopLine": {
+      "DescriptionSeen": false
+    },
+    "Safe.Bottom": {
+      "DescriptionSeen": false
+    },
+    "Safe.BottomLine": {
+      "DescriptionSeen": false
+    },
+    "Unsafe": {
+      "DescriptionSeen": false
+    },
+    "Unsafe.Top": {
+      "DescriptionSeen": false
+    },
+    "Unsafe.TopLine": {
+      "DescriptionSeen": false
+    },
+    "Unsafe.Bottom": {
+      "DescriptionSeen": false
+    },
+    "Unsafe.BottomLine": {
+      "DescriptionSeen": false
+    },
+    "Void": {
+      "DescriptionSeen": false
+    },
+    "Void.Height": {
+      "DescriptionSeen": false
+    },
+    "Void.Top": {
+      "DescriptionSeen": false
+    },
+    "Void.TopLine": {
+      "DescriptionSeen": false
+    },
+    "Void.Bottom": {
+      "DescriptionSeen": false
+    },
+    "Void.BottomLine": {
+      "DescriptionSeen": false
+    }
+  },
+  "HoleFill": {
+    "DescriptionSeen": false,
+    "Render": {
+      "DescriptionSeen": false
+    },
+    "Render.Color": {
+      "DescriptionSeen": false
+    },
+    "Render.Outline": {
+      "DescriptionSeen": false
+    },
+    "MultiTask": {
+      "DescriptionSeen": false
+    },
+    "Place": {
+      "DescriptionSeen": false
+    },
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "Rotate": {
+      "DescriptionSeen": false
+    },
+    "RayCast": {
+      "DescriptionSeen": false
+    },
+    "StrictDirection": {
+      "DescriptionSeen": false
+    },
+    "PlaceRate": {
+      "DescriptionSeen": false
+    },
+    "Interval": {
+      "DescriptionSeen": false
+    },
+    "Range": {
+      "DescriptionSeen": false
+    },
+    "VRange": {
+      "DescriptionSeen": false
+    },
+    "WallsRange": {
+      "DescriptionSeen": false
+    },
+    "Swap": {
+      "DescriptionSeen": false
+    },
+    "Proximity": {
+      "DescriptionSeen": false
+    },
+    "Proximity.HRadius": {
+      "DescriptionSeen": false
+    },
+    "Proximity.VRadius": {
+      "DescriptionSeen": false
+    },
+    "Proximity.Extrapolation": {
+      "DescriptionSeen": false
+    },
+    "Double": {
+      "DescriptionSeen": false
+    },
+    "Obsidian": {
+      "DescriptionSeen": false
+    },
+    "Webs": {
+      "DescriptionSeen": false
+    },
+    "Other": {
+      "DescriptionSeen": false
+    },
+    "OnlyWhileSneaking": {
+      "DescriptionSeen": false
+    },
+    "AutoDisable": {
+      "DescriptionSeen": false
+    },
+    "AutoDisable.DisableOnJump": {
+      "DescriptionSeen": false
+    },
+    "AutoDisable.OnStep": {
+      "DescriptionSeen": false
+    },
+    "AutoDisable.DisableOnTP": {
+      "DescriptionSeen": false
+    },
+    "AutoDisable.DisableWhenDone": {
+      "DescriptionSeen": false
+    }
+  },
+  "HoleTP": {
+    "DescriptionSeen": false,
+    "Height": {
+      "DescriptionSeen": false
+    },
+    "PullDown": {
+      "DescriptionSeen": false
+    },
+    "DisableSpeed": {
+      "DescriptionSeen": false
+    }
+  },
+  "HotbarTotem": {
+    "DescriptionSeen": false,
+    "Health": {
+      "DescriptionSeen": false
+    },
+    "Delay": {
+      "DescriptionSeen": false
+    },
+    "IgnoreOffhand": {
+      "DescriptionSeen": false
+    }
+  },
+  "IceSpeed": {
+    "DescriptionSeen": false,
+    "Multiplier": {
+      "DescriptionSeen": false
+    }
+  },
+  "Inventory": {
+    "DescriptionSeen": false,
+    "Scale": {
+      "DescriptionSeen": false
+    }
+  },
+  "InventoryTweaks": {
+    "DescriptionSeen": false,
+    "GuiButtons": {
+      "DescriptionSeen": false
+    },
+    "StealDelay": {
+      "DescriptionSeen": false
+    },
+    "Randomness": {
+      "DescriptionSeen": false
+    },
+    "Search": {
+      "DescriptionSeen": false
+    },
+    "Search.Nested": {
+      "DescriptionSeen": false
+    },
+    "Search.Color": {
+      "DescriptionSeen": false
+    },
+    "FavShulker": {
+      "DescriptionSeen": false
+    },
+    "Search.Favorite": {
+      "DescriptionSeen": false
+    }
+  },
+  "Jesus": {
+    "DescriptionSeen": false,
+    "Water": {
+      "DescriptionSeen": false
+    },
+    "Water.Mode": {
+      "DescriptionSeen": false
+    },
+    "Water.Extinguish": {
+      "DescriptionSeen": false
+    },
+    "Lava": {
+      "DescriptionSeen": false
+    },
+    "Lava.Mode": {
+      "DescriptionSeen": false
+    },
+    "NoSetback": {
+      "DescriptionSeen": false
+    },
+    "NoSetback.Height": {
+      "DescriptionSeen": false
+    },
+    "Snow": {
+      "DescriptionSeen": false
+    }
+  },
+  "JumpReset": {
+    "DescriptionSeen": false,
+    "OnlyFacing": {
+      "DescriptionSeen": false
+    },
+    "Chance": {
+      "DescriptionSeen": false
+    },
+    "MinDelay": {
+      "DescriptionSeen": false
+    },
+    "MaxDelay": {
+      "DescriptionSeen": false
+    }
+  },
+  "KCA": {
+    "DescriptionSeen": false,
+    "Key": {
+      "DescriptionSeen": false
+    },
+    "XpDelay": {
+      "DescriptionSeen": false
+    },
+    "Air": {
+      "DescriptionSeen": false
+    },
+    "Entity": {
+      "DescriptionSeen": false
+    },
+    "Block": {
+      "DescriptionSeen": false
+    },
+    "Flying": {
+      "DescriptionSeen": false
+    }
+  },
+  "Lag": {
+    "DescriptionSeen": false,
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "Text": {
+      "DescriptionSeen": false
+    },
+    "Shadow": {
+      "DescriptionSeen": false
+    }
+  },
+  "LogoutSpots": {
+    "DescriptionSeen": false,
+    "Notify": {
+      "DescriptionSeen": false
+    },
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "Color": {
+      "DescriptionSeen": false
+    },
+    "Outline": {
+      "DescriptionSeen": false
+    },
+    "Shader": {
+      "DescriptionSeen": false
+    },
+    "Shader.Shader": {
+      "DescriptionSeen": false
+    },
+    "Shader.FastRender": {
+      "DescriptionSeen": false
+    },
+    "Shader.Blur": {
+      "DescriptionSeen": false
+    },
+    "Shader.Glow": {
+      "DescriptionSeen": false
+    },
+    "Shader.Strength": {
+      "DescriptionSeen": false
+    },
+    "Shader.Radius": {
+      "DescriptionSeen": false
+    },
+    "Shader.Opacity": {
+      "DescriptionSeen": false
+    },
+    "Shader.Fill": {
+      "DescriptionSeen": false
+    },
+    "Nametag": {
+      "DescriptionSeen": false
+    },
+    "Nametag.ShowHealth": {
+      "DescriptionSeen": false
+    },
+    "Nametag.Color": {
+      "DescriptionSeen": false
+    },
+    "Nametag.FriendColor": {
+      "DescriptionSeen": false
+    }
+  },
+  "LongJump": {
+    "DescriptionSeen": false,
+    "Speed": {
+      "DescriptionSeen": false
+    }
+  },
+  "MCA": {
+    "DescriptionSeen": false,
+    "XpDelay": {
+      "DescriptionSeen": false
+    },
+    "NoMCPick": {
+      "DescriptionSeen": false
+    },
+    "Air": {
+      "DescriptionSeen": false
+    },
+    "Entity": {
+      "DescriptionSeen": false
+    },
+    "Block": {
+      "DescriptionSeen": false
+    },
+    "Flying": {
+      "DescriptionSeen": false
+    }
+  },
+  "Macros": {
+    "DescriptionSeen": false,
+    "Manage": {
+      "DescriptionSeen": false
+    }
+  },
+  "Media": {
+    "DescriptionSeen": false,
+    "NameProtect": {
+      "DescriptionSeen": false
+    },
+    "SkinProtect": {
+      "DescriptionSeen": false
+    },
+    "Usernames": {
+      "DescriptionSeen": false
+    }
+  },
+  "Motion": {
+    "DescriptionSeen": false,
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "Length": {
+      "DescriptionSeen": false
+    },
+    "FromZero": {
+      "DescriptionSeen": false
+    },
+    "LineTop": {
+      "DescriptionSeen": false
+    },
+    "LineBottom": {
+      "DescriptionSeen": false
+    },
+    "Minimalistic": {
+      "DescriptionSeen": false
+    },
+    "Header": {
+      "DescriptionSeen": false
+    },
+    "Values": {
+      "DescriptionSeen": false
+    },
+    "Shadow": {
+      "DescriptionSeen": false
+    },
+    "Vertical": {
+      "DescriptionSeen": false
+    }
+  },
+  "MotionBlur": {
+    "DescriptionSeen": false,
+    "Strength": {
+      "DescriptionSeen": false
+    }
+  },
+  "MultiTask": {
+    "DescriptionSeen": false
+  },
+  "Nametags": {
+    "DescriptionSeen": false,
+    "CustomFont": {
+      "DescriptionSeen": false
+    },
+    "HRange": {
+      "DescriptionSeen": false
+    },
+    "VRange": {
+      "DescriptionSeen": false
+    },
+    "Name": {
+      "DescriptionSeen": false
+    },
+    "Name.Gamemode": {
+      "DescriptionSeen": false
+    },
+    "Name.Ping": {
+      "DescriptionSeen": false
+    },
+    "Name.Health": {
+      "DescriptionSeen": false
+    },
+    "Name.Pops": {
+      "DescriptionSeen": false
+    },
+    "Name.Fill": {
+      "DescriptionSeen": false
+    },
+    "Name.Outline": {
+      "DescriptionSeen": false
+    },
+    "Name.Radius": {
+      "DescriptionSeen": false
+    },
+    "Name.Margin": {
+      "DescriptionSeen": false
+    },
+    "Name.Armor": {
+      "DescriptionSeen": false
+    },
+    "Name.Gap": {
+      "DescriptionSeen": false
+    },
+    "Name.ArmorSpacing": {
+      "DescriptionSeen": false
+    },
+    "Name.Enchants": {
+      "DescriptionSeen": false
+    },
+    "Name.Mainhand": {
+      "DescriptionSeen": false
+    },
+    "ShowUsers": {
+      "DescriptionSeen": false
+    },
+    "ShowUsers.Color": {
+      "DescriptionSeen": false
+    },
+    "Self": {
+      "DescriptionSeen": false
+    },
+    "Self.FreecamOnly": {
+      "DescriptionSeen": false
+    },
+    "Scaling": {
+      "DescriptionSeen": false
+    },
+    "Scaling.Scale": {
+      "DescriptionSeen": false
+    },
+    "Scaling.FontSize": {
+      "DescriptionSeen": false
+    },
+    "Scaling.EnchantFontSize": {
+      "DescriptionSeen": false
+    },
+    "Fill": {
+      "DescriptionSeen": false
+    },
+    "Outline": {
+      "DescriptionSeen": false
+    },
+    "ShowBurrow": {
+      "DescriptionSeen": false
+    },
+    "ShowBurrow.Fill": {
+      "DescriptionSeen": false
+    },
+    "ShowBurrow.Outline": {
+      "DescriptionSeen": false
+    },
+    "Items": {
+      "DescriptionSeen": false
+    },
+    "Items.Count": {
+      "DescriptionSeen": false
+    },
+    "Items.Color": {
+      "DescriptionSeen": false
+    },
+    "Items.ItemFontSize": {
+      "DescriptionSeen": false
+    }
+  },
+  "NewChunks": {
+    "DescriptionSeen": false,
+    "Scan": {
+      "DescriptionSeen": false
+    },
+    "OreMethod": {
+      "DescriptionSeen": false
+    },
+    "NewFill": {
+      "DescriptionSeen": false
+    },
+    "NewOutline": {
+      "DescriptionSeen": false
+    },
+    "OldFill": {
+      "DescriptionSeen": false
+    },
+    "OldOutline": {
+      "DescriptionSeen": false
+    },
+    "DisregardNegative": {
+      "DescriptionSeen": false
+    }
+  },
+  "NoEntityTrace": {
+    "DescriptionSeen": false,
+    "PickaxeOnly": {
+      "DescriptionSeen": false
+    },
+    "SwordOnly": {
+      "DescriptionSeen": false
+    }
+  },
+  "NoFall": {
+    "DescriptionSeen": false,
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "Distance": {
+      "DescriptionSeen": false
+    },
+    "Proximity": {
+      "DescriptionSeen": false
+    },
+    "Proximity.Height": {
+      "DescriptionSeen": false
+    }
+  },
+  "NoMineDesync": {
+    "DescriptionSeen": false
+  },
+  "NoMissDelay": {
+    "DescriptionSeen": false
+  },
+  "NoRender": {
+    "DescriptionSeen": false,
+    "Performance": {
+      "DescriptionSeen": false
+    },
+    "Unfocused": {
+      "DescriptionSeen": false
+    },
+    "Skylight": {
+      "DescriptionSeen": false
+    },
+    "Gravity": {
+      "DescriptionSeen": false
+    },
+    "ArmorStands": {
+      "DescriptionSeen": false
+    },
+    "Fireworks": {
+      "DescriptionSeen": false
+    },
+    "CampFire": {
+      "DescriptionSeen": false
+    },
+    "HUD": {
+      "DescriptionSeen": false
+    },
+    "Scoreboard": {
+      "DescriptionSeen": false
+    },
+    "PotionIcons": {
+      "DescriptionSeen": false
+    },
+    "BossBar": {
+      "DescriptionSeen": false
+    },
+    "Overlays": {
+      "DescriptionSeen": false
+    },
+    "Overlays.Portal": {
+      "DescriptionSeen": false
+    },
+    "Overlays.Spyglass": {
+      "DescriptionSeen": false
+    },
+    "Overlays.PowderedSnow": {
+      "DescriptionSeen": false
+    },
+    "Overlays.GUIBackground": {
+      "DescriptionSeen": false
+    },
+    "Overlays.Fire": {
+      "DescriptionSeen": false
+    },
+    "Overlays.Liquid": {
+      "DescriptionSeen": false
+    },
+    "Overlays.Pumpkin": {
+      "DescriptionSeen": false
+    },
+    "Overlays.Blindness": {
+      "DescriptionSeen": false
+    },
+    "Overlays.Nausea": {
+      "DescriptionSeen": false
+    },
+    "Overlays.Walls": {
+      "DescriptionSeen": false
+    },
+    "World": {
+      "DescriptionSeen": false
+    },
+    "Fog": {
+      "DescriptionSeen": false
+    },
+    "Weather": {
+      "DescriptionSeen": false
+    },
+    "WorldBorder": {
+      "DescriptionSeen": false
+    },
+    "Signs": {
+      "DescriptionSeen": false
+    },
+    "CustomBlockEntities": {
+      "DescriptionSeen": false
+    },
+    "EnchantGlint": {
+      "DescriptionSeen": false
+    },
+    "Blindness": {
+      "DescriptionSeen": false
+    },
+    "Darkness": {
+      "DescriptionSeen": false
+    },
+    "Entities": {
+      "DescriptionSeen": false
+    },
+    "Wardens": {
+      "DescriptionSeen": false
+    },
+    "Wardens.CancelPackets": {
+      "DescriptionSeen": false
+    },
+    "Wardens.MaxDistance": {
+      "DescriptionSeen": false
+    },
+    "Dying": {
+      "DescriptionSeen": false
+    },
+    "InsidePlayers": {
+      "DescriptionSeen": false
+    },
+    "NoLimbInterp": {
+      "DescriptionSeen": false
+    },
+    "ForceSneak": {
+      "DescriptionSeen": false
+    },
+    "Armor": {
+      "DescriptionSeen": false
+    },
+    "Armor.ArmorStands": {
+      "DescriptionSeen": false
+    },
+    "Armor.Head": {
+      "DescriptionSeen": false
+    },
+    "Armor.Chest": {
+      "DescriptionSeen": false
+    },
+    "Armor.Legs": {
+      "DescriptionSeen": false
+    },
+    "Armor.Feet": {
+      "DescriptionSeen": false
+    },
+    "DroppedItems": {
+      "DescriptionSeen": false
+    },
+    "Particles": {
+      "DescriptionSeen": false
+    },
+    "PopParticles": {
+      "DescriptionSeen": false
+    },
+    "Potions": {
+      "DescriptionSeen": false
+    },
+    "Explosions": {
+      "DescriptionSeen": false
+    },
+    "ElderGuardian": {
+      "DescriptionSeen": false
+    },
+    "Custom": {
+      "DescriptionSeen": false
+    },
+    "Misc": {
+      "DescriptionSeen": false
+    },
+    "HurtBobbing": {
+      "DescriptionSeen": false
+    },
+    "InsecureChat": {
+      "DescriptionSeen": false
+    },
+    "PopSounds": {
+      "DescriptionSeen": false
+    },
+    "PopEffect": {
+      "DescriptionSeen": false
+    },
+    "Maps": {
+      "DescriptionSeen": false
+    },
+    "BlockEntities": {
+      "DescriptionSeen": false
+    }
+  },
+  "NoRotate": {
+    "DescriptionSeen": false
+  },
+  "NoSlow": {
+    "DescriptionSeen": false,
+    "Items": {
+      "DescriptionSeen": false
+    },
+    "Items.OnlyOffhand": {
+      "DescriptionSeen": false
+    },
+    "Items.GroundCheck": {
+      "DescriptionSeen": false
+    },
+    "Items.Render": {
+      "DescriptionSeen": false
+    },
+    "SoulSand": {
+      "DescriptionSeen": false
+    },
+    "SlimeBlocks": {
+      "DescriptionSeen": false
+    },
+    "Ladders": {
+      "DescriptionSeen": false
+    },
+    "InvMove": {
+      "DescriptionSeen": false
+    },
+    "InvMove.OnlyPickup": {
+      "DescriptionSeen": false
+    },
+    "InvMove.Sneak": {
+      "DescriptionSeen": false
+    },
+    "InvMove.Look": {
+      "DescriptionSeen": false
+    },
+    "Sneaking": {
+      "DescriptionSeen": false
+    }
+  },
+  "Notifications": {
+    "DescriptionSeen": false,
+    "Notifs": {
+      "DescriptionSeen": false
+    },
+    "KeepInChat": {
+      "DescriptionSeen": false
+    },
+    "Color": {
+      "DescriptionSeen": false
+    },
+    "TextColor": {
+      "DescriptionSeen": false
+    },
+    "Duration": {
+      "DescriptionSeen": false
+    },
+    "Slide": {
+      "DescriptionSeen": false
+    },
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "VisualRange": {
+      "DescriptionSeen": false
+    },
+    "VisualRange.Entering": {
+      "DescriptionSeen": false
+    },
+    "VisualRange.Leaving": {
+      "DescriptionSeen": false
+    },
+    "VisualRange.FriendIgnore": {
+      "DescriptionSeen": false
+    },
+    "VisualRange.JoinIgnore": {
+      "DescriptionSeen": false
+    },
+    "TotemPops": {
+      "DescriptionSeen": false
+    }
+  },
+  "Nuker": {
+    "DescriptionSeen": false,
+    "Render": {
+      "DescriptionSeen": false
+    },
+    "Render.Mode": {
+      "DescriptionSeen": false
+    },
+    "Render.Color": {
+      "DescriptionSeen": false
+    },
+    "Render.Outline": {
+      "DescriptionSeen": false
+    },
+    "Shader": {
+      "DescriptionSeen": false
+    },
+    "Shader.Shader": {
+      "DescriptionSeen": false
+    },
+    "Shader.FastRender": {
+      "DescriptionSeen": false
+    },
+    "Shader.Blur": {
+      "DescriptionSeen": false
+    },
+    "Shader.Glow": {
+      "DescriptionSeen": false
+    },
+    "Shader.Strength": {
+      "DescriptionSeen": false
+    },
+    "Shader.Radius": {
+      "DescriptionSeen": false
+    },
+    "Shader.Opacity": {
+      "DescriptionSeen": false
+    },
+    "Shader.Fill": {
+      "DescriptionSeen": false
+    },
+    "Fade": {
+      "DescriptionSeen": false
+    },
+    "Fade.Ticks": {
+      "DescriptionSeen": false
+    },
+    "Rotate": {
+      "DescriptionSeen": false
+    },
+    "Swing": {
+      "DescriptionSeen": false
+    },
+    "Range": {
+      "DescriptionSeen": false
+    },
+    "StrictRange": {
+      "DescriptionSeen": false
+    },
+    "MaxActions": {
+      "DescriptionSeen": false
+    },
+    "Interval": {
+      "DescriptionSeen": false
+    },
+    "PacketMine": {
+      "DescriptionSeen": false
+    },
+    "Flatten": {
+      "DescriptionSeen": false
+    },
+    "Priority": {
+      "DescriptionSeen": false
+    },
+    "Blocks": {
+      "DescriptionSeen": false
+    },
+    "Filter": {
+      "DescriptionSeen": false
+    }
+  },
+  "Octopus": {
+    "DescriptionSeen": false,
+    "LeftClick": {
+      "DescriptionSeen": false
+    },
+    "LeftClick.MultiTask": {
+      "DescriptionSeen": false
+    },
+    "LeftClick.Slot0": {
+      "DescriptionSeen": false
+    },
+    "LeftClick.Slot1": {
+      "DescriptionSeen": false
+    },
+    "LeftClick.Slot2": {
+      "DescriptionSeen": false
+    },
+    "LeftClick.Slot3": {
+      "DescriptionSeen": false
+    },
+    "LeftClick.Slot4": {
+      "DescriptionSeen": false
+    },
+    "LeftClick.Slot5": {
+      "DescriptionSeen": false
+    },
+    "LeftClick.Slot6": {
+      "DescriptionSeen": false
+    },
+    "LeftClick.Slot7": {
+      "DescriptionSeen": false
+    },
+    "LeftClick.Slot8": {
+      "DescriptionSeen": false
+    },
+    "RightClick": {
+      "DescriptionSeen": false
+    },
+    "RightClick.MultiTask": {
+      "DescriptionSeen": false
+    },
+    "RightClick.Slot0": {
+      "DescriptionSeen": false
+    },
+    "RightClick.Slot1": {
+      "DescriptionSeen": false
+    },
+    "RightClick.Slot2": {
+      "DescriptionSeen": false
+    },
+    "RightClick.Slot3": {
+      "DescriptionSeen": false
+    },
+    "RightClick.Slot4": {
+      "DescriptionSeen": false
+    },
+    "RightClick.Slot5": {
+      "DescriptionSeen": false
+    },
+    "RightClick.Slot6": {
+      "DescriptionSeen": false
+    },
+    "RightClick.Slot7": {
+      "DescriptionSeen": false
+    },
+    "RightClick.Slot8": {
+      "DescriptionSeen": false
+    }
+  },
+  "Offhand": {
+    "DescriptionSeen": false,
+    "Notify": {
+      "DescriptionSeen": false
+    },
+    "InInventory": {
+      "DescriptionSeen": false
+    },
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "React": {
+      "DescriptionSeen": false
+    },
+    "Delay": {
+      "DescriptionSeen": false
+    },
+    "Replenish": {
+      "DescriptionSeen": false
+    },
+    "StrictInventory": {
+      "DescriptionSeen": false
+    },
+    "Cancel": {
+      "DescriptionSeen": false
+    },
+    "Cancel.Movement": {
+      "DescriptionSeen": false
+    },
+    "Cancel.Eating": {
+      "DescriptionSeen": false
+    },
+    "Cancel.Attacks": {
+      "DescriptionSeen": false
+    },
+    "Health": {
+      "DescriptionSeen": false
+    },
+    "Health.Safety": {
+      "DescriptionSeen": false
+    },
+    "Item": {
+      "DescriptionSeen": false
+    },
+    "AutoCrystal": {
+      "DescriptionSeen": false
+    },
+    "AntiWeakness": {
+      "DescriptionSeen": false
+    },
+    "SwordGap": {
+      "DescriptionSeen": false
+    },
+    "SwordGap.GApple": {
+      "DescriptionSeen": false
+    },
+    "SwordGap.AllowInteract": {
+      "DescriptionSeen": false
+    },
+    "SwapBack": {
+      "DescriptionSeen": false
+    },
+    "Potion": {
+      "DescriptionSeen": false
+    },
+    "Force": {
+      "DescriptionSeen": false
+    },
+    "IgnoreHotbar": {
+      "DescriptionSeen": false
+    }
+  },
+  "OldSigns": {
+    "DescriptionSeen": false,
+    "Fill": {
+      "DescriptionSeen": false
+    },
+    "Outline": {
+      "DescriptionSeen": false
+    }
+  },
+  "Options": {
+    "DescriptionSeen": false,
+    "PacketRender": {
+      "DescriptionSeen": false
+    },
+    "GhostMode": {
+      "DescriptionSeen": false
+    },
+    "MainMenu": {
+      "DescriptionSeen": false
+    },
+    "ServerMenu": {
+      "DescriptionSeen": false
+    },
+    "Toasts": {
+      "DescriptionSeen": false
+    },
+    "Ping": {
+      "DescriptionSeen": false
+    },
+    "StrictMultiTask": {
+      "DescriptionSeen": false
+    },
+    "SlotSync": {
+      "DescriptionSeen": false
+    },
+    "ChainDelay": {
+      "DescriptionSeen": false
+    },
+    "Watermark": {
+      "DescriptionSeen": false
+    },
+    "CommandPrefix": {
+      "DescriptionSeen": false
+    }
+  },
+  "OreScanner": {
+    "DescriptionSeen": false,
+    "HRange": {
+      "DescriptionSeen": false
+    },
+    "VRange": {
+      "DescriptionSeen": false
+    },
+    "ScanInterval": {
+      "DescriptionSeen": false
+    },
+    "ScanAmount": {
+      "DescriptionSeen": false
+    },
+    "Render": {
+      "DescriptionSeen": false
+    },
+    "Color": {
+      "DescriptionSeen": false
+    },
+    "Outline": {
+      "DescriptionSeen": false
+    },
+    "Shader": {
+      "DescriptionSeen": false
+    },
+    "Shader.Shader": {
+      "DescriptionSeen": false
+    },
+    "Shader.FastRender": {
+      "DescriptionSeen": false
+    },
+    "Shader.Blur": {
+      "DescriptionSeen": false
+    },
+    "Shader.Glow": {
+      "DescriptionSeen": false
+    },
+    "Shader.Strength": {
+      "DescriptionSeen": false
+    },
+    "Shader.Radius": {
+      "DescriptionSeen": false
+    },
+    "Shader.Opacity": {
+      "DescriptionSeen": false
+    },
+    "Shader.Fill": {
+      "DescriptionSeen": false
+    }
+  },
+  "PacketFly": {
+    "DescriptionSeen": false,
+    "Speed": {
+      "DescriptionSeen": false
+    },
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "Factor": {
+      "DescriptionSeen": false
+    },
+    "Thrust": {
+      "DescriptionSeen": false
+    },
+    "Bounds": {
+      "DescriptionSeen": false
+    },
+    "Type": {
+      "DescriptionSeen": false
+    },
+    "Limit": {
+      "DescriptionSeen": false
+    },
+    "Conceal": {
+      "DescriptionSeen": false
+    },
+    "AntiKick": {
+      "DescriptionSeen": false
+    },
+    "Phase": {
+      "DescriptionSeen": false
+    },
+    "Constrict": {
+      "DescriptionSeen": false
+    }
+  },
+  "Parkour": {
+    "DescriptionSeen": false,
+    "MinTicksAhead": {
+      "DescriptionSeen": false
+    },
+    "MaxTicksAhead": {
+      "DescriptionSeen": false
+    }
+  },
+  "PauseBaritone": {
+    "DescriptionSeen": false,
+    "Bind": {
+      "DescriptionSeen": false
+    }
+  },
+  "PhaseESP": {
+    "DescriptionSeen": false,
+    "OnlyInHoles": {
+      "DescriptionSeen": false
+    },
+    "Corners": {
+      "DescriptionSeen": false
+    },
+    "Width": {
+      "DescriptionSeen": false
+    },
+    "Safe": {
+      "DescriptionSeen": false
+    },
+    "Mineable": {
+      "DescriptionSeen": false
+    },
+    "Unsafe": {
+      "DescriptionSeen": false
+    },
+    "Rectangle": {
+      "DescriptionSeen": false
+    },
+    "Opacity": {
+      "DescriptionSeen": false
+    }
+  },
+  "Ping": {
+    "DescriptionSeen": false,
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "ShowPrefix": {
+      "DescriptionSeen": false
+    },
+    "Prefix": {
+      "DescriptionSeen": false
+    },
+    "Number": {
+      "DescriptionSeen": false
+    },
+    "Suffix": {
+      "DescriptionSeen": false
+    },
+    "Shadow": {
+      "DescriptionSeen": false
+    }
+  },
+  "PingSpoof": {
+    "DescriptionSeen": false,
+    "Delay": {
+      "DescriptionSeen": false
+    }
+  },
+  "PistonPush": {
+    "DescriptionSeen": false,
+    "MultiTask": {
+      "DescriptionSeen": false
+    },
+    "Swing": {
+      "DescriptionSeen": false
+    },
+    "Range": {
+      "DescriptionSeen": false
+    },
+    "FillHole": {
+      "DescriptionSeen": false
+    },
+    "OnlyWhileSneaking": {
+      "DescriptionSeen": false
+    }
+  },
+  "PlaceRender": {
+    "DescriptionSeen": false,
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "Shader": {
+      "DescriptionSeen": false
+    },
+    "Shader.FastRender": {
+      "DescriptionSeen": false
+    },
+    "Shader.Blur": {
+      "DescriptionSeen": false
+    },
+    "Shader.Glow": {
+      "DescriptionSeen": false
+    },
+    "Shader.Strength": {
+      "DescriptionSeen": false
+    },
+    "Shader.Radius": {
+      "DescriptionSeen": false
+    },
+    "Shader.Opacity": {
+      "DescriptionSeen": false
+    },
+    "Shader.Fill": {
+      "DescriptionSeen": false
+    },
+    "Shader.Outline": {
+      "DescriptionSeen": false
+    },
+    "ColorSync": {
+      "DescriptionSeen": false
+    },
+    "Fade": {
+      "DescriptionSeen": false
+    },
+    "Ticks": {
+      "DescriptionSeen": false
+    },
+    "Grow": {
+      "DescriptionSeen": false
+    },
+    "GrowDuration": {
+      "DescriptionSeen": false
+    },
+    "Shrink": {
+      "DescriptionSeen": false
+    },
+    "ShrinkDuration": {
+      "DescriptionSeen": false
+    }
+  },
+  "Playtime": {
+    "DescriptionSeen": false
+  },
+  "PopChams": {
+    "DescriptionSeen": false,
+    "Unique": {
+      "DescriptionSeen": false
+    },
+    "Match": {
+      "DescriptionSeen": false
+    },
+    "Color": {
+      "DescriptionSeen": false
+    },
+    "Outline": {
+      "DescriptionSeen": false
+    },
+    "Shader": {
+      "DescriptionSeen": false
+    },
+    "Shader.Color": {
+      "DescriptionSeen": false
+    },
+    "Shader.Outline": {
+      "DescriptionSeen": false
+    },
+    "Shader.Shader": {
+      "DescriptionSeen": false
+    },
+    "Shader.FastRender": {
+      "DescriptionSeen": false
+    },
+    "Shader.Blur": {
+      "DescriptionSeen": false
+    },
+    "Shader.Glow": {
+      "DescriptionSeen": false
+    },
+    "Shader.Strength": {
+      "DescriptionSeen": false
+    },
+    "Shader.Radius": {
+      "DescriptionSeen": false
+    },
+    "Shader.Opacity": {
+      "DescriptionSeen": false
+    },
+    "Shader.Fill": {
+      "DescriptionSeen": false
+    },
+    "Fade": {
+      "DescriptionSeen": false
+    },
+    "Rise": {
+      "DescriptionSeen": false
+    }
+  },
+  "Pops": {
+    "DescriptionSeen": false,
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "Text": {
+      "DescriptionSeen": false
+    },
+    "Count": {
+      "DescriptionSeen": false
+    },
+    "Shadow": {
+      "DescriptionSeen": false
+    }
+  },
+  "PortalGodMode": {
+    "DescriptionSeen": false
+  },
+  "Profiles": {
+    "DescriptionSeen": false,
+    "Profile": {
+      "DescriptionSeen": false
+    },
+    "SyncRender": {
+      "DescriptionSeen": false
+    },
+    "NoBinds": {
+      "DescriptionSeen": false
+    }
+  },
+  "ReGear": {
+    "DescriptionSeen": false,
+    "StrictInventory": {
+      "DescriptionSeen": false
+    },
+    "Kit": {
+      "DescriptionSeen": false
+    },
+    "Delay": {
+      "DescriptionSeen": false
+    },
+    "ReplaceItems": {
+      "DescriptionSeen": false
+    }
+  },
+  "Reach": {
+    "DescriptionSeen": false,
+    "AttackReach": {
+      "DescriptionSeen": false
+    },
+    "BlockReach": {
+      "DescriptionSeen": false
+    }
+  },
+  "Replenish": {
+    "DescriptionSeen": false,
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "StrictInventory": {
+      "DescriptionSeen": false
+    },
+    "Interval": {
+      "DescriptionSeen": false
+    },
+    "Strict": {
+      "DescriptionSeen": false
+    },
+    "Threshold": {
+      "DescriptionSeen": false
+    },
+    "AwaitInventory": {
+      "DescriptionSeen": false
+    },
+    "MinDelay": {
+      "DescriptionSeen": false
+    },
+    "MaxDelay": {
+      "DescriptionSeen": false
+    },
+    "RandomDelay": {
+      "DescriptionSeen": false
+    },
+    "InitialDelay": {
+      "DescriptionSeen": false
+    },
+    "Mainhand": {
+      "DescriptionSeen": false
+    },
+    "Offhand": {
+      "DescriptionSeen": false
+    },
+    "Other": {
+      "DescriptionSeen": false
+    },
+    "Crystals": {
+      "DescriptionSeen": false
+    },
+    "Food": {
+      "DescriptionSeen": false
+    },
+    "XP": {
+      "DescriptionSeen": false
+    },
+    "Stackable": {
+      "DescriptionSeen": false
+    },
+    "UnStackable": {
+      "DescriptionSeen": false
+    }
+  },
+  "RotationLock": {
+    "DescriptionSeen": false,
+    "LockYaw": {
+      "DescriptionSeen": false
+    },
+    "LockPitch": {
+      "DescriptionSeen": false
+    },
+    "Yaw": {
+      "DescriptionSeen": false
+    },
+    "Pitch": {
+      "DescriptionSeen": false
+    }
+  },
+  "SafeWalk": {
+    "DescriptionSeen": false
+  },
+  "Scaffold": {
+    "DescriptionSeen": false,
+    "Render": {
+      "DescriptionSeen": false
+    },
+    "Render.Color": {
+      "DescriptionSeen": false
+    },
+    "Render.Outline": {
+      "DescriptionSeen": false
+    },
+    "Blocks": {
+      "DescriptionSeen": false
+    },
+    "Filter": {
+      "DescriptionSeen": false
+    },
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "Rotate": {
+      "DescriptionSeen": false
+    },
+    "RayCast": {
+      "DescriptionSeen": false
+    },
+    "Strict": {
+      "DescriptionSeen": false
+    },
+    "Delay": {
+      "DescriptionSeen": false
+    },
+    "Expand": {
+      "DescriptionSeen": false
+    },
+    "Swap": {
+      "DescriptionSeen": false
+    },
+    "Tower": {
+      "DescriptionSeen": false
+    },
+    "Center": {
+      "DescriptionSeen": false
+    },
+    "Safe": {
+      "DescriptionSeen": false
+    },
+    "KeepY": {
+      "DescriptionSeen": false
+    },
+    "Down": {
+      "DescriptionSeen": false
+    }
+  },
+  "Search": {
+    "DescriptionSeen": false,
+    "Blocks": {
+      "DescriptionSeen": false
+    },
+    "Color": {
+      "DescriptionSeen": false
+    },
+    "Outline": {
+      "DescriptionSeen": false
+    },
+    "Shader": {
+      "DescriptionSeen": false
+    },
+    "Shader.Shader": {
+      "DescriptionSeen": false
+    },
+    "Shader.FastRender": {
+      "DescriptionSeen": false
+    },
+    "Shader.Blur": {
+      "DescriptionSeen": false
+    },
+    "Shader.Glow": {
+      "DescriptionSeen": false
+    },
+    "Shader.Strength": {
+      "DescriptionSeen": false
+    },
+    "Shader.Radius": {
+      "DescriptionSeen": false
+    },
+    "Shader.Opacity": {
+      "DescriptionSeen": false
+    },
+    "Shader.Fill": {
+      "DescriptionSeen": false
+    },
+    "Tracers": {
+      "DescriptionSeen": false
+    },
+    "Tracers.Width": {
+      "DescriptionSeen": false
+    },
+    "Tracers.MaxDist": {
+      "DescriptionSeen": false
+    },
+    "Tracers.MinDist": {
+      "DescriptionSeen": false
+    },
+    "Tracers.DistanceColor": {
+      "DescriptionSeen": false
+    },
+    "Tracers.Color": {
+      "DescriptionSeen": false
+    },
+    "Tracers.Minimum": {
+      "DescriptionSeen": false
+    },
+    "Tracers.Maximum": {
+      "DescriptionSeen": false
+    },
+    "Tracers.TracerFade": {
+      "DescriptionSeen": false
+    },
+    "Tracers.Factor": {
+      "DescriptionSeen": false
+    }
+  },
+  "SelfBow": {
+    "DescriptionSeen": false,
+    "MultiTask": {
+      "DescriptionSeen": false
+    },
+    "Progress": {
+      "DescriptionSeen": false
+    },
+    "Swiftness": {
+      "DescriptionSeen": false
+    },
+    "Strength": {
+      "DescriptionSeen": false
+    },
+    "Regeneration": {
+      "DescriptionSeen": false
+    },
+    "IgnoreEffects": {
+      "DescriptionSeen": false
+    }
+  },
+  "SelfFill": {
+    "DescriptionSeen": false,
+    "Type": {
+      "DescriptionSeen": false
+    },
+    "Place": {
+      "DescriptionSeen": false
+    },
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "Rotate": {
+      "DescriptionSeen": false
+    },
+    "Swing": {
+      "DescriptionSeen": false
+    },
+    "OnlyEChests": {
+      "DescriptionSeen": false
+    },
+    "AttackCrystals": {
+      "DescriptionSeen": false
+    },
+    "Swap": {
+      "DescriptionSeen": false
+    },
+    "Await": {
+      "DescriptionSeen": false
+    },
+    "CustomOffset": {
+      "DescriptionSeen": false
+    },
+    "Offset": {
+      "DescriptionSeen": false
+    }
+  },
+  "SelfTrap": {
+    "DescriptionSeen": false,
+    "Render": {
+      "DescriptionSeen": false
+    },
+    "Render.Color": {
+      "DescriptionSeen": false
+    },
+    "Render.Outline": {
+      "DescriptionSeen": false
+    },
+    "MultiTask": {
+      "DescriptionSeen": false
+    },
+    "Place": {
+      "DescriptionSeen": false
+    },
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "Rotate": {
+      "DescriptionSeen": false
+    },
+    "RayCast": {
+      "DescriptionSeen": false
+    },
+    "StrictDirection": {
+      "DescriptionSeen": false
+    },
+    "Fallback": {
+      "DescriptionSeen": false
+    },
+    "PlaceRate": {
+      "DescriptionSeen": false
+    },
+    "Swap": {
+      "DescriptionSeen": false
+    },
+    "AutoCenter": {
+      "DescriptionSeen": false
+    },
+    "Advanced": {
+      "DescriptionSeen": false
+    },
+    "Advanced.AntiBreak": {
+      "DescriptionSeen": false
+    },
+    "Advanced.AttackCrystals": {
+      "DescriptionSeen": false
+    },
+    "Advanced.InstantReplace": {
+      "DescriptionSeen": false
+    },
+    "Advanced.OnlyWhileSneaking": {
+      "DescriptionSeen": false
+    },
+    "Proximity": {
+      "DescriptionSeen": false
+    },
+    "Proximity.Radius": {
+      "DescriptionSeen": false
+    },
+    "AutoDisable": {
+      "DescriptionSeen": false
+    },
+    "AutoDisable.OnStep": {
+      "DescriptionSeen": false
+    },
+    "AutoDisable.OnTP": {
+      "DescriptionSeen": false
+    },
+    "AutoDisable.WhenDone": {
+      "DescriptionSeen": false
+    }
+  },
+  "ServerPackets": {
+    "DescriptionSeen": false,
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "Length": {
+      "DescriptionSeen": false
+    },
+    "FromZero": {
+      "DescriptionSeen": false
+    },
+    "LineTop": {
+      "DescriptionSeen": false
+    },
+    "LineBottom": {
+      "DescriptionSeen": false
+    },
+    "Minimalistic": {
+      "DescriptionSeen": false
+    },
+    "Header": {
+      "DescriptionSeen": false
+    },
+    "Values": {
+      "DescriptionSeen": false
+    },
+    "Shadow": {
+      "DescriptionSeen": false
+    },
+    "Mode": {
+      "DescriptionSeen": false
+    }
+  },
+  "ShieldTrigger": {
+    "DescriptionSeen": false,
+    "SwapBack": {
+      "DescriptionSeen": false
+    },
+    "SwapBack.MinSwapDelay": {
+      "DescriptionSeen": false
+    },
+    "SwapBack.MaxSwapDelay": {
+      "DescriptionSeen": false
+    }
+  },
+  "SkinBlinker": {
+    "DescriptionSeen": false,
+    "Delay": {
+      "DescriptionSeen": false
+    },
+    "Random": {
+      "DescriptionSeen": false
+    }
+  },
+  "SmartMiner": {
+    "DescriptionSeen": false,
+    "Blocks": {
+      "DescriptionSeen": false
+    },
+    "WhenDone": {
+      "DescriptionSeen": false
+    },
+    "Repair": {
+      "DescriptionSeen": false
+    },
+    "Repair.Durability": {
+      "DescriptionSeen": false
+    },
+    "Repair.Coal": {
+      "DescriptionSeen": false
+    },
+    "Repair.Redstone": {
+      "DescriptionSeen": false
+    },
+    "Repair.NetherQuartz": {
+      "DescriptionSeen": false
+    }
+  },
+  "SoundFX": {
+    "DescriptionSeen": false,
+    "Volume": {
+      "DescriptionSeen": false
+    },
+    "Kill": {
+      "DescriptionSeen": false
+    },
+    "Shoot": {
+      "DescriptionSeen": false
+    },
+    "Enable": {
+      "DescriptionSeen": false
+    },
+    "Disable": {
+      "DescriptionSeen": false
+    },
+    "VisualEnter": {
+      "DescriptionSeen": false
+    },
+    "VisualLeave": {
+      "DescriptionSeen": false
+    }
+  },
+  "Spammer": {
+    "DescriptionSeen": false,
+    "Files": {
+      "DescriptionSeen": false
+    },
+    "Delay": {
+      "DescriptionSeen": false
+    },
+    "Random": {
+      "DescriptionSeen": false
+    },
+    "Numbers": {
+      "DescriptionSeen": false
+    }
+  },
+  "Speed": {
+    "DescriptionSeen": false,
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "EntityBoost": {
+      "DescriptionSeen": false
+    },
+    "Speed": {
+      "DescriptionSeen": false
+    },
+    "AccelSpeed": {
+      "DescriptionSeen": false
+    },
+    "Strict": {
+      "DescriptionSeen": false
+    },
+    "HopReduction": {
+      "DescriptionSeen": false
+    },
+    "HopPulse": {
+      "DescriptionSeen": false
+    },
+    "UseTimer": {
+      "DescriptionSeen": false
+    },
+    "CrystalBoost": {
+      "DescriptionSeen": false
+    },
+    "CrystalBoost.Factor": {
+      "DescriptionSeen": false
+    },
+    "NoJump": {
+      "DescriptionSeen": false
+    },
+    "WhileSneaking": {
+      "DescriptionSeen": false
+    },
+    "InLiquid": {
+      "DescriptionSeen": false
+    },
+    "InWebs": {
+      "DescriptionSeen": false
+    },
+    "AvoidUnloaded": {
+      "DescriptionSeen": false
+    },
+    "AvoidUnloaded.Ticks": {
+      "DescriptionSeen": false
+    }
+  },
+  "Speedometer": {
+    "DescriptionSeen": false,
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "ShowPrefix": {
+      "DescriptionSeen": false
+    },
+    "BPS": {
+      "DescriptionSeen": false
+    },
+    "Prefix": {
+      "DescriptionSeen": false
+    },
+    "Number": {
+      "DescriptionSeen": false
+    },
+    "Suffix": {
+      "DescriptionSeen": false
+    },
+    "Shadow": {
+      "DescriptionSeen": false
+    }
+  },
+  "Sprint": {
+    "DescriptionSeen": false,
+    "JumpDelay": {
+      "DescriptionSeen": false
+    },
+    "Rage": {
+      "DescriptionSeen": false
+    },
+    "Instant": {
+      "DescriptionSeen": false
+    },
+    "Pulsate": {
+      "DescriptionSeen": false
+    },
+    "Pulsate.Duration": {
+      "DescriptionSeen": false
+    },
+    "Pulsate.Interval": {
+      "DescriptionSeen": false
+    },
+    "NoSprint": {
+      "DescriptionSeen": false
+    }
+  },
+  "Step": {
+    "DescriptionSeen": false,
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "Upwards": {
+      "DescriptionSeen": false
+    },
+    "Upwards.Height": {
+      "DescriptionSeen": false
+    },
+    "Upwards.Delay": {
+      "DescriptionSeen": false
+    },
+    "Downwards": {
+      "DescriptionSeen": false
+    },
+    "Downwards.Height": {
+      "DescriptionSeen": false
+    },
+    "UseTimer": {
+      "DescriptionSeen": false
+    },
+    "SurroundDisable": {
+      "DescriptionSeen": false
+    }
+  },
+  "StorageESP": {
+    "DescriptionSeen": false,
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "Shader": {
+      "DescriptionSeen": false
+    },
+    "Shader.FastRender": {
+      "DescriptionSeen": false
+    },
+    "Shader.Blur": {
+      "DescriptionSeen": false
+    },
+    "Shader.Glow": {
+      "DescriptionSeen": false
+    },
+    "Shader.Strength": {
+      "DescriptionSeen": false
+    },
+    "Shader.Radius": {
+      "DescriptionSeen": false
+    },
+    "Shader.Opacity": {
+      "DescriptionSeen": false
+    },
+    "Shader.Fill": {
+      "DescriptionSeen": false
+    },
+    "Shader.Outline": {
+      "DescriptionSeen": false
+    },
+    "Tracers": {
+      "DescriptionSeen": false
+    },
+    "Fade": {
+      "DescriptionSeen": false
+    },
+    "Fade.MinDist": {
+      "DescriptionSeen": false
+    },
+    "Fade.Factor": {
+      "DescriptionSeen": false
+    },
+    "Chests": {
+      "DescriptionSeen": false
+    },
+    "Chests.Color": {
+      "DescriptionSeen": false
+    },
+    "Chests.Outline": {
+      "DescriptionSeen": false
+    },
+    "TrappedChests": {
+      "DescriptionSeen": false
+    },
+    "TrappedChests.Color": {
+      "DescriptionSeen": false
+    },
+    "TrappedChests.Outline": {
+      "DescriptionSeen": false
+    },
+    "Barrels": {
+      "DescriptionSeen": false
+    },
+    "Barrels.Color": {
+      "DescriptionSeen": false
+    },
+    "Barrels.Outline": {
+      "DescriptionSeen": false
+    },
+    "EnderChests": {
+      "DescriptionSeen": false
+    },
+    "EnderChests.Color": {
+      "DescriptionSeen": false
+    },
+    "EnderChests.Outline": {
+      "DescriptionSeen": false
+    },
+    "Shulkers": {
+      "DescriptionSeen": false
+    },
+    "Shulkers.Color": {
+      "DescriptionSeen": false
+    },
+    "Shulkers.Outline": {
+      "DescriptionSeen": false
+    },
+    "Other": {
+      "DescriptionSeen": false
+    },
+    "Other.Color": {
+      "DescriptionSeen": false
+    },
+    "Other.Outline": {
+      "DescriptionSeen": false
+    }
+  },
+  "Surround": {
+    "DescriptionSeen": false,
+    "Render": {
+      "DescriptionSeen": false
+    },
+    "Render.Color": {
+      "DescriptionSeen": false
+    },
+    "Render.Outline": {
+      "DescriptionSeen": false
+    },
+    "MultiTask": {
+      "DescriptionSeen": false
+    },
+    "Place": {
+      "DescriptionSeen": false
+    },
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "Rotate": {
+      "DescriptionSeen": false
+    },
+    "RayCast": {
+      "DescriptionSeen": false
+    },
+    "StrictDirection": {
+      "DescriptionSeen": false
+    },
+    "Fallback": {
+      "DescriptionSeen": false
+    },
+    "PlaceRate": {
+      "DescriptionSeen": false
+    },
+    "Swap": {
+      "DescriptionSeen": false
+    },
+    "AutoCenter": {
+      "DescriptionSeen": false
+    },
+    "Advanced": {
+      "DescriptionSeen": false
+    },
+    "Advanced.Extension": {
+      "DescriptionSeen": false
+    },
+    "Advanced.AntiBreak": {
+      "DescriptionSeen": false
+    },
+    "Advanced.AttackCrystals": {
+      "DescriptionSeen": false
+    },
+    "Advanced.InstantReplace": {
+      "DescriptionSeen": false
+    },
+    "Advanced.OnlyWhileSneaking": {
+      "DescriptionSeen": false
+    },
+    "AutoDisable": {
+      "DescriptionSeen": false
+    },
+    "AutoDisable.OnJump": {
+      "DescriptionSeen": false
+    },
+    "AutoDisable.OnStep": {
+      "DescriptionSeen": false
+    },
+    "AutoDisable.OnTP": {
+      "DescriptionSeen": false
+    },
+    "AutoDisable.WhenDone": {
+      "DescriptionSeen": false
+    }
+  },
+  "Swing": {
+    "DescriptionSeen": false,
+    "Render": {
+      "DescriptionSeen": false
+    },
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "Cancel": {
+      "DescriptionSeen": false
+    }
+  },
+  "TPS": {
+    "DescriptionSeen": false,
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "ShowPrefix": {
+      "DescriptionSeen": false
+    },
+    "Prefix": {
+      "DescriptionSeen": false
+    },
+    "Number": {
+      "DescriptionSeen": false
+    },
+    "Suffix": {
+      "DescriptionSeen": false
+    },
+    "Shadow": {
+      "DescriptionSeen": false
+    }
+  },
+  "Teams": {
+    "DescriptionSeen": false,
+    "Vanilla": {
+      "DescriptionSeen": false
+    },
+    "NameStyle": {
+      "DescriptionSeen": false
+    },
+    "NameColor": {
+      "DescriptionSeen": false
+    }
+  },
+  "TextRadar": {
+    "DescriptionSeen": false,
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "Range": {
+      "DescriptionSeen": false
+    },
+    "Health": {
+      "DescriptionSeen": false
+    },
+    "Health.ColorCode": {
+      "DescriptionSeen": false
+    },
+    "Ping": {
+      "DescriptionSeen": false
+    },
+    "Pops": {
+      "DescriptionSeen": false
+    },
+    "Name": {
+      "DescriptionSeen": false
+    },
+    "Text": {
+      "DescriptionSeen": false
+    },
+    "Info": {
+      "DescriptionSeen": false
+    },
+    "Brackets": {
+      "DescriptionSeen": false
+    },
+    "Shadow": {
+      "DescriptionSeen": false
+    }
+  },
+  "Theme": {
+    "DescriptionSeen": false,
+    "Accent": {
+      "DescriptionSeen": false
+    },
+    "AccentText": {
+      "DescriptionSeen": false
+    },
+    "AccentSubText": {
+      "DescriptionSeen": false
+    },
+    "Primary": {
+      "DescriptionSeen": false
+    },
+    "Secondary": {
+      "DescriptionSeen": false
+    },
+    "Background": {
+      "DescriptionSeen": false
+    },
+    "Text": {
+      "DescriptionSeen": false
+    },
+    "SubText": {
+      "DescriptionSeen": false
+    },
+    "TextShadow": {
+      "DescriptionSeen": false
+    },
+    "Header": {
+      "DescriptionSeen": false
+    },
+    "Header.Height": {
+      "DescriptionSeen": false
+    },
+    "Header.Align": {
+      "DescriptionSeen": false
+    },
+    "Header.Style": {
+      "DescriptionSeen": false
+    },
+    "Header.CustomColor": {
+      "DescriptionSeen": false
+    },
+    "Header.Color": {
+      "DescriptionSeen": false
+    },
+    "ModuleList": {
+      "DescriptionSeen": false
+    },
+    "ModuleList.Width": {
+      "DescriptionSeen": false
+    },
+    "ModuleList.Indentation": {
+      "DescriptionSeen": false
+    },
+    "ModuleList.Separation": {
+      "DescriptionSeen": false
+    },
+    "Module": {
+      "DescriptionSeen": false
+    },
+    "Module.Height": {
+      "DescriptionSeen": false
+    },
+    "Module.Align": {
+      "DescriptionSeen": false
+    },
+    "Module.Style": {
+      "DescriptionSeen": false
+    },
+    "Module.LightAccent": {
+      "DescriptionSeen": false
+    },
+    "Module.Option": {
+      "DescriptionSeen": false
+    },
+    "Module.PowerButton": {
+      "DescriptionSeen": false
+    },
+    "Module.TuneButton": {
+      "DescriptionSeen": false
+    },
+    "Module.ConfigsButton": {
+      "DescriptionSeen": false
+    },
+    "Module.ExpandButton": {
+      "DescriptionSeen": false
+    },
+    "Module.HoverOnly": {
+      "DescriptionSeen": false
+    },
+    "Module.ShowBinds": {
+      "DescriptionSeen": false
+    },
+    "Module.CustomColors": {
+      "DescriptionSeen": false
+    },
+    "Module.OffColor": {
+      "DescriptionSeen": false
+    },
+    "Module.OnColor": {
+      "DescriptionSeen": false
+    },
+    "Setting": {
+      "DescriptionSeen": false
+    },
+    "Setting.Height": {
+      "DescriptionSeen": false
+    },
+    "Setting.SideBar": {
+      "DescriptionSeen": false
+    },
+    "Footer": {
+      "DescriptionSeen": false
+    },
+    "Footer.Height": {
+      "DescriptionSeen": false
+    },
+    "Footer.CustomColor": {
+      "DescriptionSeen": false
+    },
+    "Footer.Color": {
+      "DescriptionSeen": false
+    },
+    "Outline": {
+      "DescriptionSeen": false
+    },
+    "Outline.CustomColor": {
+      "DescriptionSeen": false
+    },
+    "Outline.Color": {
+      "DescriptionSeen": false
+    },
+    "Outline.Glow": {
+      "DescriptionSeen": false
+    },
+    "Outline.Strength": {
+      "DescriptionSeen": false
+    },
+    "Outline.Radius": {
+      "DescriptionSeen": false
+    },
+    "RoundCorners": {
+      "DescriptionSeen": false
+    },
+    "BrightHighlight": {
+      "DescriptionSeen": false
+    },
+    "DarkenHighlight": {
+      "DescriptionSeen": false
+    }
+  },
+  "ThrowPot": {
+    "DescriptionSeen": false,
+    "Mode": {
+      "DescriptionSeen": false
+    }
+  },
+  "TickShift": {
+    "DescriptionSeen": false,
+    "OnlyStill": {
+      "DescriptionSeen": false
+    },
+    "OnGround": {
+      "DescriptionSeen": false
+    },
+    "MovingTicks": {
+      "DescriptionSeen": false
+    },
+    "Speed": {
+      "DescriptionSeen": false
+    },
+    "Ticks": {
+      "DescriptionSeen": false
+    },
+    "Cooldown": {
+      "DescriptionSeen": false
+    },
+    "Exploit": {
+      "DescriptionSeen": false
+    },
+    "Exploit.StartDelay": {
+      "DescriptionSeen": false
+    },
+    "Exploit.Repeat": {
+      "DescriptionSeen": false
+    },
+    "Exploit.Frequency": {
+      "DescriptionSeen": false
+    },
+    "Delayed": {
+      "DescriptionSeen": false
+    },
+    "Delayed.Factor": {
+      "DescriptionSeen": false
+    },
+    "OnlyOnce": {
+      "DescriptionSeen": false
+    },
+    "AutoDisable": {
+      "DescriptionSeen": false
+    }
+  },
+  "Timer": {
+    "DescriptionSeen": false,
+    "Speed": {
+      "DescriptionSeen": false
+    },
+    "Switch": {
+      "DescriptionSeen": false
+    },
+    "Switch.Active": {
+      "DescriptionSeen": false
+    },
+    "Switch.inactive": {
+      "DescriptionSeen": false
+    },
+    "Switch.InactiveSpeed": {
+      "DescriptionSeen": false
+    },
+    "Pause": {
+      "DescriptionSeen": false
+    },
+    "Pause.WhileEating": {
+      "DescriptionSeen": false
+    },
+    "Pause.WhileMining": {
+      "DescriptionSeen": false
+    }
+  },
+  "Tint": {
+    "DescriptionSeen": false,
+    "TimeChanger": {
+      "DescriptionSeen": false
+    },
+    "TimeChanger.Time": {
+      "DescriptionSeen": false
+    },
+    "PopParticles": {
+      "DescriptionSeen": false
+    },
+    "PopParticles.YellowR": {
+      "DescriptionSeen": false
+    },
+    "PopParticles.YellowRRand": {
+      "DescriptionSeen": false
+    },
+    "PopParticles.YellowG": {
+      "DescriptionSeen": false
+    },
+    "PopParticles.YellowGRand": {
+      "DescriptionSeen": false
+    },
+    "PopParticles.YellowB": {
+      "DescriptionSeen": false
+    },
+    "PopParticles.YellowBRand": {
+      "DescriptionSeen": false
+    },
+    "PopParticles.GreenR": {
+      "DescriptionSeen": false
+    },
+    "PopParticles.GreenRRand": {
+      "DescriptionSeen": false
+    },
+    "PopParticles.GreenG": {
+      "DescriptionSeen": false
+    },
+    "PopParticles.GreenGRand": {
+      "DescriptionSeen": false
+    },
+    "PopParticles.GreenB": {
+      "DescriptionSeen": false
+    },
+    "PopParticles.GreenBRand": {
+      "DescriptionSeen": false
+    },
+    "Fog": {
+      "DescriptionSeen": false
+    },
+    "Fog.Color": {
+      "DescriptionSeen": false
+    },
+    "Sky": {
+      "DescriptionSeen": false
+    },
+    "Sky.Overworld": {
+      "DescriptionSeen": false
+    },
+    "Sky.Nether": {
+      "DescriptionSeen": false
+    },
+    "Sky.End": {
+      "DescriptionSeen": false
+    },
+    "Clouds": {
+      "DescriptionSeen": false
+    },
+    "Clouds.Color": {
+      "DescriptionSeen": false
+    },
+    "Lightning": {
+      "DescriptionSeen": false
+    },
+    "Lightning.Color": {
+      "DescriptionSeen": false
+    },
+    "Blocks": {
+      "DescriptionSeen": false
+    },
+    "Blocks.Color": {
+      "DescriptionSeen": false
+    },
+    "Water": {
+      "DescriptionSeen": false
+    },
+    "Water.Color": {
+      "DescriptionSeen": false
+    },
+    "Lava": {
+      "DescriptionSeen": false
+    },
+    "Lava.Color": {
+      "DescriptionSeen": false
+    },
+    "Grass": {
+      "DescriptionSeen": false
+    },
+    "Grass.Color": {
+      "DescriptionSeen": false
+    },
+    "Foliage": {
+      "DescriptionSeen": false
+    },
+    "Foliage.Color": {
+      "DescriptionSeen": false
+    },
+    "Screen": {
+      "DescriptionSeen": false
+    },
+    "Screen.Color": {
+      "DescriptionSeen": false
+    }
+  },
+  "Tooltips": {
+    "DescriptionSeen": false,
+    "Bind": {
+      "DescriptionSeen": false
+    },
+    "Maps": {
+      "DescriptionSeen": false
+    },
+    "Maps.Scale": {
+      "DescriptionSeen": false
+    },
+    "Banners": {
+      "DescriptionSeen": false
+    },
+    "Banners.Scale": {
+      "DescriptionSeen": false
+    },
+    "Containers": {
+      "DescriptionSeen": false
+    },
+    "Containers.Scale": {
+      "DescriptionSeen": false
+    }
+  },
+  "Totems": {
+    "DescriptionSeen": false,
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "Item": {
+      "DescriptionSeen": false
+    },
+    "Text": {
+      "DescriptionSeen": false
+    },
+    "Count": {
+      "DescriptionSeen": false
+    },
+    "Shadow": {
+      "DescriptionSeen": false
+    }
+  },
+  "Tracers": {
+    "DescriptionSeen": false,
+    "Position": {
+      "DescriptionSeen": false
+    },
+    "Width": {
+      "DescriptionSeen": false
+    },
+    "MaxDist": {
+      "DescriptionSeen": false
+    },
+    "MinDist": {
+      "DescriptionSeen": false
+    },
+    "DistanceColor": {
+      "DescriptionSeen": false
+    },
+    "DistanceColor.Minimum": {
+      "DescriptionSeen": false
+    },
+    "DistanceColor.Maximum": {
+      "DescriptionSeen": false
+    },
+    "Fade": {
+      "DescriptionSeen": false
+    },
+    "Fade.MinDist": {
+      "DescriptionSeen": false
+    },
+    "Fade.Factor": {
+      "DescriptionSeen": false
+    },
+    "Players": {
+      "DescriptionSeen": false
+    },
+    "Players.Color": {
+      "DescriptionSeen": false
+    },
+    "Friends": {
+      "DescriptionSeen": false
+    },
+    "Friends.Color": {
+      "DescriptionSeen": false
+    },
+    "Animals": {
+      "DescriptionSeen": false
+    },
+    "Animals.Color": {
+      "DescriptionSeen": false
+    },
+    "Monsters": {
+      "DescriptionSeen": false
+    },
+    "Monsters.Color": {
+      "DescriptionSeen": false
+    },
+    "Crystals": {
+      "DescriptionSeen": false
+    },
+    "Crystals.Color": {
+      "DescriptionSeen": false
+    }
+  },
+  "Trails": {
+    "DescriptionSeen": false,
+    "Self": {
+      "DescriptionSeen": false
+    },
+    "FadeTime": {
+      "DescriptionSeen": false
+    },
+    "StartColor": {
+      "DescriptionSeen": false
+    },
+    "EndColor": {
+      "DescriptionSeen": false
+    },
+    "Width": {
+      "DescriptionSeen": false
+    }
+  },
+  "Trajectories": {
+    "DescriptionSeen": false,
+    "HeldOrigin": {
+      "DescriptionSeen": false
+    },
+    "HeldHit": {
+      "DescriptionSeen": false
+    },
+    "ThrownOrigin": {
+      "DescriptionSeen": false
+    },
+    "ThrownHit": {
+      "DescriptionSeen": false
+    },
+    "Trail": {
+      "DescriptionSeen": false
+    },
+    "Color": {
+      "DescriptionSeen": false
+    },
+    "Outline": {
+      "DescriptionSeen": false
+    },
+    "Width": {
+      "DescriptionSeen": false
+    },
+    "TrailLinger": {
+      "DescriptionSeen": false
+    },
+    "AllPlayers": {
+      "DescriptionSeen": false
+    },
+    "Held": {
+      "DescriptionSeen": false
+    },
+    "Thrown": {
+      "DescriptionSeen": false
+    },
+    "Trails": {
+      "DescriptionSeen": false
+    },
+    "Trails.Duration": {
+      "DescriptionSeen": false
+    },
+    "Trails.Fade": {
+      "DescriptionSeen": false
+    },
+    "Trails.TrailFade": {
+      "DescriptionSeen": false
+    },
+    "Arrows": {
+      "DescriptionSeen": false
+    },
+    "Pearls": {
+      "DescriptionSeen": false
+    },
+    "Tridents": {
+      "DescriptionSeen": false
+    },
+    "Xp": {
+      "DescriptionSeen": false
+    },
+    "Potions": {
+      "DescriptionSeen": false
+    },
+    "Eggs": {
+      "DescriptionSeen": false
+    },
+    "Snowball": {
+      "DescriptionSeen": false
+    },
+    "FishingRod": {
+      "DescriptionSeen": false
+    },
+    "Fireballs": {
+      "DescriptionSeen": false
+    },
+    "WitherSkulls": {
+      "DescriptionSeen": false
+    }
+  },
+  "TridentPlus": {
+    "DescriptionSeen": false,
+    "Velocity": {
+      "DescriptionSeen": false
+    },
+    "AlwaysBoost": {
+      "DescriptionSeen": false
+    },
+    "Spam": {
+      "DescriptionSeen": false
+    },
+    "Delay": {
+      "DescriptionSeen": false
+    },
+    "Hover": {
+      "DescriptionSeen": false
+    }
+  },
+  "Trigger": {
+    "DescriptionSeen": false,
+    "Jitter": {
+      "DescriptionSeen": false
+    },
+    "WeaponCheck": {
+      "DescriptionSeen": false
+    },
+    "OnlyWhenHolding": {
+      "DescriptionSeen": false
+    },
+    "AwaitCrits": {
+      "DescriptionSeen": false
+    },
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "MinCPS": {
+      "DescriptionSeen": false
+    },
+    "MaxCPS": {
+      "DescriptionSeen": false
+    },
+    "MissChance": {
+      "DescriptionSeen": false
+    },
+    "BoxExpand": {
+      "DescriptionSeen": false
+    },
+    "RandomExpand": {
+      "DescriptionSeen": false
+    },
+    "Targets": {
+      "DescriptionSeen": false
+    },
+    "Targets.CheckAggression": {
+      "DescriptionSeen": false
+    },
+    "Targets.Players": {
+      "DescriptionSeen": false
+    },
+    "Targets.Friends": {
+      "DescriptionSeen": false
+    },
+    "Targets.Animals": {
+      "DescriptionSeen": false
+    },
+    "Targets.Monsters": {
+      "DescriptionSeen": false
+    },
+    "Targets.Crystals": {
+      "DescriptionSeen": false
+    },
+    "Targets.Minecarts": {
+      "DescriptionSeen": false
+    },
+    "Targets.Boats": {
+      "DescriptionSeen": false
+    }
+  },
+  "TunnelESP": {
+    "DescriptionSeen": false,
+    "Color": {
+      "DescriptionSeen": false
+    },
+    "Outline": {
+      "DescriptionSeen": false
+    },
+    "Height": {
+      "DescriptionSeen": false
+    },
+    "Shader": {
+      "DescriptionSeen": false
+    },
+    "Shader.Shader": {
+      "DescriptionSeen": false
+    },
+    "Shader.FastRender": {
+      "DescriptionSeen": false
+    },
+    "Shader.Blur": {
+      "DescriptionSeen": false
+    },
+    "Shader.Glow": {
+      "DescriptionSeen": false
+    },
+    "Shader.Strength": {
+      "DescriptionSeen": false
+    },
+    "Shader.Radius": {
+      "DescriptionSeen": false
+    },
+    "Shader.Opacity": {
+      "DescriptionSeen": false
+    },
+    "Shader.Fill": {
+      "DescriptionSeen": false
+    }
+  },
+  "Velocity": {
+    "DescriptionSeen": false,
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "Cooldown": {
+      "DescriptionSeen": false
+    },
+    "Knockback": {
+      "DescriptionSeen": false
+    },
+    "Entities": {
+      "DescriptionSeen": false
+    },
+    "Explosions": {
+      "DescriptionSeen": false
+    },
+    "Blocks": {
+      "DescriptionSeen": false
+    },
+    "Pistons": {
+      "DescriptionSeen": false
+    },
+    "InWater": {
+      "DescriptionSeen": false
+    },
+    "InLava": {
+      "DescriptionSeen": false
+    }
+  },
+  "ViewModel": {
+    "DescriptionSeen": false,
+    "MainHand": {
+      "DescriptionSeen": false
+    },
+    "MainHand.OffX": {
+      "DescriptionSeen": false
+    },
+    "MainHand.OffY": {
+      "DescriptionSeen": false
+    },
+    "MainHand.OffZ": {
+      "DescriptionSeen": false
+    },
+    "MainHand.RotX": {
+      "DescriptionSeen": false
+    },
+    "MainHand.RotY": {
+      "DescriptionSeen": false
+    },
+    "MainHand.RotZ": {
+      "DescriptionSeen": false
+    },
+    "MainHand.ScaleX": {
+      "DescriptionSeen": false
+    },
+    "MainHand.ScaleY": {
+      "DescriptionSeen": false
+    },
+    "MainHand.ScaleZ": {
+      "DescriptionSeen": false
+    },
+    "OffHand": {
+      "DescriptionSeen": false
+    },
+    "OffHand.OffX": {
+      "DescriptionSeen": false
+    },
+    "OffHand.OffY": {
+      "DescriptionSeen": false
+    },
+    "OffHand.OffZ": {
+      "DescriptionSeen": false
+    },
+    "OffHand.RotX": {
+      "DescriptionSeen": false
+    },
+    "OffHand.RotY": {
+      "DescriptionSeen": false
+    },
+    "OffHand.RotZ": {
+      "DescriptionSeen": false
+    },
+    "OffHand.ScaleX": {
+      "DescriptionSeen": false
+    },
+    "OffHand.ScaleY": {
+      "DescriptionSeen": false
+    },
+    "OffHand.ScaleZ": {
+      "DescriptionSeen": false
+    }
+  },
+  "WTap": {
+    "DescriptionSeen": false,
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "Ticks": {
+      "DescriptionSeen": false
+    }
+  },
+  "WallInteract": {
+    "DescriptionSeen": false
+  },
+  "Watermark": {
+    "DescriptionSeen": false,
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "Version": {
+      "DescriptionSeen": false
+    },
+    "Build": {
+      "DescriptionSeen": false
+    },
+    "Text": {
+      "DescriptionSeen": false
+    },
+    "Shadow": {
+      "DescriptionSeen": false
+    }
+  },
+  "Waypoints": {
+    "DescriptionSeen": false,
+    "Waypoints": {
+      "DescriptionSeen": false,
+      "waypoints": []
+    },
+    "Nametags": {
+      "DescriptionSeen": false
+    },
+    "Nametags.Scale": {
+      "DescriptionSeen": false
+    },
+    "Boxes": {
+      "DescriptionSeen": false
+    },
+    "LimitRange": {
+      "DescriptionSeen": false
+    },
+    "LimitRange.MaxRange": {
+      "DescriptionSeen": false
+    },
+    "LimitRange.MinRange": {
+      "DescriptionSeen": false
+    },
+    "Color": {
+      "DescriptionSeen": false
+    },
+    "Outline": {
+      "DescriptionSeen": false
+    },
+    "Shader": {
+      "DescriptionSeen": false
+    },
+    "Shader.Shader": {
+      "DescriptionSeen": false
+    },
+    "Shader.FastRender": {
+      "DescriptionSeen": false
+    },
+    "Shader.Blur": {
+      "DescriptionSeen": false
+    },
+    "Shader.Glow": {
+      "DescriptionSeen": false
+    },
+    "Shader.Strength": {
+      "DescriptionSeen": false
+    },
+    "Shader.Radius": {
+      "DescriptionSeen": false
+    },
+    "Shader.Opacity": {
+      "DescriptionSeen": false
+    },
+    "Shader.Fill": {
+      "DescriptionSeen": false
+    }
+  },
+  "Weather": {
+    "DescriptionSeen": false,
+    "Snow": {
+      "DescriptionSeen": false
+    },
+    "Strength": {
+      "DescriptionSeen": false
+    }
+  },
+  "WebTP": {
+    "DescriptionSeen": false,
+    "Mode": {
+      "DescriptionSeen": false
+    },
+    "ShiftTicks": {
+      "DescriptionSeen": false
+    }
+  },
+  "Welcomer": {
+    "DescriptionSeen": false,
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "Text": {
+      "DescriptionSeen": false
+    },
+    "Shadow": {
+      "DescriptionSeen": false
+    }
+  },
+  "XCarry": {
+    "DescriptionSeen": false
+  },
+  "XRay": {
+    "DescriptionSeen": false,
+    "Blocks": {
+      "DescriptionSeen": false
+    },
+    "Inverse": {
+      "DescriptionSeen": false
+    }
+  },
+  "Zoom": {
+    "DescriptionSeen": false,
+    "Scale": {
+      "DescriptionSeen": false
+    },
+    "ScrollZoom": {
+      "DescriptionSeen": false
+    },
+    "ScrollZoom.Sensitivity": {
+      "DescriptionSeen": false
+    }
+  }
+}

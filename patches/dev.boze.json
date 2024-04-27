@@ -1,0 +1,84 @@
+{
+    "formatVersion": 1,
+    "libraries": [
+        {
+			"name": "net.fabricmc:tiny-mappings-parser:0.3.0+build.17",
+			"url": "https://maven.fabricmc.net/"
+		},
+		{
+			"name": "dev.boze:sponge-mixin:1.0.2",
+			"url": "https://maven.boze.dev/releases/"
+		},
+		{
+		  "name": "net.fabricmc:tiny-remapper:0.10.1",
+		  "url": "https://maven.fabricmc.net/"
+		},
+		{
+		  "name": "net.fabricmc:access-widener:2.1.0",
+		  "url": "https://maven.fabricmc.net/"
+		},
+		{
+		  "name": "org.ow2.asm:asm:9.5",
+		  "url": "https://maven.fabricmc.net/"
+		},
+		{
+		  "name": "org.ow2.asm:asm-analysis:9.5",
+		  "url": "https://maven.fabricmc.net/"
+		},
+		{
+		  "name": "org.ow2.asm:asm-commons:9.5",
+		  "url": "https://maven.fabricmc.net/"
+		},
+		{
+		  "name": "org.ow2.asm:asm-tree:9.5",
+		  "url": "https://maven.fabricmc.net/"
+		},
+		{
+		  "name": "org.ow2.asm:asm-util:9.5",
+		  "url": "https://maven.fabricmc.net/"
+		},
+		{
+		  "name": "net.fabricmc:intermediary:1.20.1",
+		  "url": "https://maven.fabricmc.net/"
+		},
+		{
+			"name": "net.fabricmc:mapping-io:0.5.0",
+			"url": "https://maven.fabricmc.net/"
+		},
+		{
+			"name": "dev.boze:boze-loader-beta:0.0.17",
+			"url": "https://maven.boze.dev/releases/"
+		},
+		{
+			"name": "meteordevelopment:orbit:0.2.5",
+			"url": "https://maven.boze.dev/releases/"
+		},
+		{
+			"name": "net.caffeinemc:sodium-fabric:0.5.3+1.20.1",
+			"url": "https://maven.boze.dev/releases/"
+		},
+		{
+			"name": "baritone:baritone:1.2.19+1.20.1",
+			"url": "https://maven.boze.dev/releases/"
+		},
+		{
+			"name": "net.fabricmc:fabric-api:0.91.0+1.20.1",
+			"url": "https://maven.boze.dev/releases/"
+		},
+		{
+            "name": "dev.boze:boze-api:2.0.0+1.20.1",
+            "url": "https://maven.boze.dev/releases/"
+        }
+    ],
+    "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
+    "name": "Boze Loader",
+    "releaseTime": "2022-08-11T14:49:54+00:00",
+    "requires": [
+        {
+            "uid": "net.fabricmc.intermediary"
+        }
+    ],
+    "type": "release",
+    "uid": "dev.boze",
+    "version": "0.0.9"
+}
