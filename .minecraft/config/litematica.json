@@ -64,7 +64,7 @@
     "commandNameSetblock": "setblock",
     "commandNameSummon": "summon",
     "commandTaskInterval": 1,
-    "customSchematicBaseDirectory": "C:\\Users\\Kaili\\AppData\\Roaming\\MultiMC\\instances\\2b2t-MultiMC-Config-main\\.minecraft\\schematics",
+    "customSchematicBaseDirectory": "C:\\Users\\Kaili\\AppData\\Roaming\\MultiMC\\instances\\2b2t Modpack future - rusher compatible\\.minecraft\\schematics",
     "easyPlaceSwapInterval": 0,
     "pickBlockableSlots": "1,2,3,4,5",
     "toolItem": "minecraft:stick"

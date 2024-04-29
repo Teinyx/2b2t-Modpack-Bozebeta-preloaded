@@ -3,7 +3,7 @@
   "enableOptifine": true,
   "enableLabyMod": false,
   "enableWynntils": false,
-  "enableMinecraftCapesMod": true,
+  "enableMinecraftCapesMod": false,
   "enableCosmetica": false,
   "enableCloaksPlus": false,
   "enableElytraTexture": true

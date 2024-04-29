@@ -12,3 +12,9 @@ net.minecraft.class_424 {
 me.cael.capes.menu.SelectorMenu {
 }
 
+net.minecraft.class_500 {
+}
+
+com.terraformersmc.modmenu.gui.ModsScreen {
+}
+

@@ -1,8 +1,0 @@
-formattingCodePrefix = "§"
-signFormattingEnabled = true
-bookFormattingEnabled = true
-anvilFormattingEnabled = true
-signEditingEnabled = true
-signClickThroughEnabled = true
-itemFrameClickThroughEnabled = true
-additionalClickThroughIdentifiers = ["create:placard"]
