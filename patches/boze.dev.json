@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "libraries": [
         {
-            "name": "dev.boze:sponge-mixin:1.0.3",
+            "name": "dev.boze:sponge-mixin:1.0.4",
             "url": "https://maven.boze.dev/releases/"
         },
         {
@@ -46,7 +46,7 @@
             "url": "https://repo1.maven.org/maven2/"
         },
         {
-            "name": "dev.boze:boze-loader-beta:0.0.18",
+            "name": "dev.boze:boze-loader-beta:0.0.19",
             "url": "https://maven.boze.dev/releases/"
         },
         {
@@ -66,7 +66,7 @@
             "url": "https://maven.boze.dev/releases/"
         },
         {
-            "name": "dev.boze:boze-api:2.0.0+1.20.4",
+            "name": "dev.boze:boze-api:2.0.2+1.20.4",
             "url": "https://maven.boze.dev/releases/"
         }
     ],
